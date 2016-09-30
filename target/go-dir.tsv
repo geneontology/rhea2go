@@ -1,0 +1,2687 @@
+BI	GO:0000010 ! trans-hexaprenyltranstransferase activity
+BI	GO:0000016 ! lactase activity
+BI	GO:0000034 ! adenine deaminase activity
+BI	GO:0000104 ! succinate dehydrogenase activity
+BI	GO:0000121 ! glycerol-1-phosphatase activity
+BI	GO:0000140 ! acylglycerone-phosphate reductase activity
+BI	GO:0000210 ! NAD+ diphosphatase activity
+BI	GO:0000225 ! N-acetylglucosaminylphosphatidylinositol deacetylase activity
+BI	GO:0000234 ! phosphoethanolamine N-methyltransferase activity
+BI	GO:0000246 ! delta24(24-1) sterol reductase activity
+BI	GO:0000250 ! lanosterol synthase activity
+BI	GO:0000253 ! 3-keto sterol reductase activity
+BI	GO:0000257 ! nitrilase activity
+BI	GO:0000285 ! 1-phosphatidylinositol-3-phosphate 5-kinase activity
+BI	GO:0000286 ! alanine dehydrogenase activity
+BI	GO:0000293 ! ferric-chelate reductase activity
+BI	GO:0000309 ! nicotinamide-nucleotide adenylyltransferase activity
+BI	GO:0000310 ! xanthine phosphoribosyltransferase activity
+BI	GO:0000334 ! 3-hydroxyanthranilate 3,4-dioxygenase activity
+BI	GO:0000721 ! (R,R)-butanediol dehydrogenase activity
+BI	GO:0000908 ! taurine dioxygenase activity
+BI	GO:0001567 ! cholesterol 25-hydroxylase activity
+BI	GO:0001716 ! L-amino-acid oxidase activity
+BI	GO:0001729 ! ceramide kinase activity
+BI	GO:0001733 ! galactosylceramide sulfotransferase activity
+BI	GO:0001760 ! aminocarboxymuconate-semialdehyde decarboxylase activity
+BI	GO:0003825 ! alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity
+BI	GO:0003827 ! alpha-1,3-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity
+BI	GO:0003828 ! alpha-N-acetylneuraminate alpha-2,8-sialyltransferase activity
+BI	GO:0003829 ! beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase activity
+BI	GO:0003831 ! beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase activity
+BI	GO:0003835 ! beta-galactoside alpha-2,6-sialyltransferase activity
+BI	GO:0003836 ! beta-galactoside (CMP) alpha-2,3-sialyltransferase activity
+BI	GO:0003837 ! beta-ureidopropionase activity
+BI	GO:0003838 ! sterol 24-C-methyltransferase activity
+BI	GO:0003841 ! 1-acylglycerol-3-phosphate O-acyltransferase activity
+BI	GO:0003842 ! 1-pyrroline-5-carboxylate dehydrogenase activity
+BI	GO:0003847 ! 1-alkyl-2-acetylglycerophosphocholine esterase activity
+BI	GO:0003848 ! 2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity
+BI	GO:0003849 ! 3-deoxy-7-phosphoheptulonate synthase activity
+BI	GO:0003850 ! 2-deoxyglucose-6-phosphatase activity
+BI	GO:0003851 ! 2-hydroxyacylsphingosine 1-beta-galactosyltransferase activity
+BI	GO:0003852 ! 2-isopropylmalate synthase activity
+BI	GO:0003853 ! 2-methylacyl-CoA dehydrogenase activity
+BI	GO:0003855 ! 3-dehydroquinate dehydratase activity
+BI	GO:0003856 ! 3-dehydroquinate synthase activity
+BI	GO:0003857 ! 3-hydroxyacyl-CoA dehydrogenase activity
+BI	GO:0003858 ! 3-hydroxybutyrate dehydrogenase activity
+BI	GO:0003859 ! 3-hydroxybutyryl-CoA dehydratase activity
+BI	GO:0003860 ! 3-hydroxyisobutyryl-CoA hydrolase activity
+BI	GO:0003864 ! 3-methyl-2-oxobutanoate hydroxymethyltransferase activity
+BI	GO:0003866 ! 3-phosphoshikimate 1-carboxyvinyltransferase activity
+BI	GO:0003867 ! 4-aminobutyrate transaminase activity
+BI	GO:0003868 ! 4-hydroxyphenylpyruvate dioxygenase activity
+BI	GO:0003870 ! 5-aminolevulinate synthase activity
+BI	GO:0003871 ! 5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity
+BI	GO:0003872 ! 6-phosphofructokinase activity
+BI	GO:0003873 ! 6-phosphofructo-2-kinase activity
+BI	GO:0003874 ! 6-pyruvoyltetrahydropterin synthase activity
+BI	GO:0003875 ! ADP-ribosylarginine hydrolase activity
+BI	GO:0003876 ! AMP deaminase activity
+BI	GO:0003877 ! ATP adenylyltransferase activity
+BI	GO:0003878 ! ATP citrate synthase activity
+BI	GO:0003879 ! ATP phosphoribosyltransferase activity
+BI	GO:0003881 ! CDP-diacylglycerol-inositol 3-phosphatidyltransferase activity
+BI	GO:0003882 ! CDP-diacylglycerol-serine O-phosphatidyltransferase activity
+BI	GO:0003883 ! CTP synthase activity
+BI	GO:0003884 ! D-amino-acid oxidase activity
+BI	GO:0003885 ! D-arabinono-1,4-lactone oxidase activity
+BI	GO:0003919 ! FMN adenylyltransferase activity
+BI	GO:0003920 ! GMP reductase activity
+BI	GO:0003921 ! GMP synthase activity
+BI	GO:0003922 ! GMP synthase (glutamine-hydrolyzing) activity
+BI	GO:0003924 ! GTPase activity
+BI	GO:0003934 ! GTP cyclohydrolase I activity
+BI	GO:0003935 ! GTP cyclohydrolase II activity
+BI	GO:0003937 ! IMP cyclohydrolase activity
+BI	GO:0003938 ! IMP dehydrogenase activity
+BI	GO:0003939 ! L-iditol 2-dehydrogenase activity
+BI	GO:0003941 ! L-serine ammonia-lyase activity
+BI	GO:0003942 ! N-acetyl-gamma-glutamyl-phosphate reductase activity
+BI	GO:0003945 ! N-acetyllactosamine synthase activity
+BI	GO:0003947 ! (N-acetylneuraminyl)-galactosylglucosylceramide N-acetylgalactosaminyltransferase activity
+BI	GO:0003948 ! N4-(beta-N-acetylglucosaminyl)-L-asparaginase activity
+BI	GO:0003949 ! 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity
+BI	GO:0003951 ! NAD+ kinase activity
+BI	GO:0003952 ! NAD+ synthase (glutamine-hydrolyzing) activity
+BI	GO:0003953 ! NAD+ nucleosidase activity
+BI	GO:0003954 ! NADH dehydrogenase activity
+BI	GO:0003961 ! O-acetylhomoserine aminocarboxypropyltransferase activity
+BI	GO:0003962 ! cystathionine gamma-synthase activity
+BI	GO:0003974 ! UDP-N-acetylglucosamine 4-epimerase activity
+BI	GO:0003975 ! UDP-N-acetylglucosamine-dolichyl-phosphate N-acetylglucosaminephosphotransferase activity
+BI	GO:0003977 ! UDP-N-acetylglucosamine diphosphorylase activity
+BI	GO:0003978 ! UDP-glucose 4-epimerase activity
+BI	GO:0003979 ! UDP-glucose 6-dehydrogenase activity
+BI	GO:0003983 ! UTP:glucose-1-phosphate uridylyltransferase activity
+BI	GO:0003984 ! acetolactate synthase activity
+BI	GO:0003985 ! acetyl-CoA C-acetyltransferase activity
+BI	GO:0003986 ! acetyl-CoA hydrolase activity
+BI	GO:0003987 ! acetate-CoA ligase activity
+BI	GO:0003988 ! acetyl-CoA C-acyltransferase activity
+BI	GO:0003989 ! acetyl-CoA carboxylase activity
+BI	GO:0003990 ! acetylcholinesterase activity
+BI	GO:0003991 ! acetylglutamate kinase activity
+BI	GO:0003992 ! N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity
+BI	GO:0003994 ! aconitate hydratase activity
+BI	GO:0003998 ! acylphosphatase activity
+BI	GO:0003999 ! adenine phosphoribosyltransferase activity
+BI	GO:0004000 ! adenosine deaminase activity
+BI	GO:0004001 ! adenosine kinase activity
+LR	GO:0004008 ! copper-exporting ATPase activity
+BI	GO:0004012 ! phospholipid-translocating ATPase activity
+BI	GO:0004013 ! adenosylhomocysteinase activity
+BI	GO:0004014 ! adenosylmethionine decarboxylase activity
+BI	GO:0004015 ! adenosylmethionine-8-amino-7-oxononanoate transaminase activity
+BI	GO:0004016 ! adenylate cyclase activity
+BI	GO:0004017 ! adenylate kinase activity
+BI	GO:0004018 ! N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity
+BI	GO:0004019 ! adenylosuccinate synthase activity
+BI	GO:0004020 ! adenylylsulfate kinase activity
+BI	GO:0004021 ! L-alanine:2-oxoglutarate aminotransferase activity
+BI	GO:0004029 ! aldehyde dehydrogenase (NAD) activity
+BI	GO:0004031 ! aldehyde oxidase activity
+BI	GO:0004034 ! aldose 1-epimerase activity
+BI	GO:0004037 ! allantoicase activity
+BI	GO:0004038 ! allantoinase activity
+BI	GO:0004039 ! allophanate hydrolase activity
+BI	GO:0004042 ! acetyl-CoA:L-glutamate N-acetyltransferase activity
+BI	GO:0004044 ! amidophosphoribosyltransferase activity
+BI	GO:0004046 ! aminoacylase activity
+BI	GO:0004047 ! aminomethyltransferase activity
+BI	GO:0004048 ! anthranilate phosphoribosyltransferase activity
+BI	GO:0004049 ! anthranilate synthase activity
+BI	GO:0004052 ! arachidonate 12-lipoxygenase activity
+BI	GO:0004053 ! arginase activity
+BI	GO:0004054 ! arginine kinase activity
+BI	GO:0004055 ! argininosuccinate synthase activity
+BI	GO:0004056 ! argininosuccinate lyase activity
+BI	GO:0004061 ! arylformamidase activity
+BI	GO:0004067 ! asparaginase activity
+BI	GO:0004068 ! aspartate 1-decarboxylase activity
+BI	GO:0004069 ! L-aspartate:2-oxoglutarate aminotransferase activity
+BI	GO:0004070 ! aspartate carbamoyltransferase activity
+BI	GO:0004071 ! aspartate-ammonia ligase activity
+BI	GO:0004072 ! aspartate kinase activity
+BI	GO:0004073 ! aspartate-semialdehyde dehydrogenase activity
+BI	GO:0004076 ! biotin synthase activity
+BI	GO:0004081 ! bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) activity
+BI	GO:0004082 ! bisphosphoglycerate mutase activity
+BI	GO:0004083 ! bisphosphoglycerate 2-phosphatase activity
+BI	GO:0004087 ! carbamoyl-phosphate synthase (ammonia) activity
+BI	GO:0004089 ! carbonate dehydratase activity
+BI	GO:0004090 ! carbonyl reductase (NADPH) activity
+BI	GO:0004092 ! carnitine O-acetyltransferase activity
+BI	GO:0004095 ! carnitine O-palmitoyltransferase activity
+BI	GO:0004096 ! catalase activity
+BI	GO:0004097 ! catechol oxidase activity
+BI	GO:0004099 ! chitin deacetylase activity
+BI	GO:0004102 ! choline O-acetyltransferase activity
+BI	GO:0004103 ! choline kinase activity
+BI	GO:0004104 ! cholinesterase activity
+BI	GO:0004105 ! choline-phosphate cytidylyltransferase activity
+BI	GO:0004106 ! chorismate mutase activity
+BI	GO:0004107 ! chorismate synthase activity
+BI	GO:0004109 ! coproporphyrinogen oxidase activity
+BI	GO:0004110 ! corticosteroid side-chain-isomerase activity
+BI	GO:0004111 ! creatine kinase activity
+BI	GO:0004114 ! 3',5'-cyclic-nucleotide phosphodiesterase activity
+BI	GO:0004121 ! cystathionine beta-lyase activity
+BI	GO:0004122 ! cystathionine beta-synthase activity
+BI	GO:0004124 ! cysteine synthase activity
+BI	GO:0004126 ! cytidine deaminase activity
+BI	GO:0004131 ! cytosine deaminase activity
+BI	GO:0004132 ! dCMP deaminase activity
+BI	GO:0004136 ! deoxyadenosine kinase activity
+BI	GO:0004137 ! deoxycytidine kinase activity
+BI	GO:0004138 ! deoxyguanosine kinase activity
+BI	GO:0004139 ! deoxyribose-phosphate aldolase activity
+BI	GO:0004140 ! dephospho-CoA kinase activity
+BI	GO:0004141 ! dethiobiotin synthase activity
+BI	GO:0004142 ! diacylglycerol cholinephosphotransferase activity
+BI	GO:0004143 ! diacylglycerol kinase activity
+BI	GO:0004144 ! diacylglycerol O-acyltransferase activity
+BI	GO:0004145 ! diamine N-acetyltransferase activity
+BI	GO:0004146 ! dihydrofolate reductase activity
+BI	GO:0004148 ! dihydrolipoyl dehydrogenase activity
+BI	GO:0004150 ! dihydroneopterin aldolase activity
+BI	GO:0004151 ! dihydroorotase activity
+BI	GO:0004152 ! dihydroorotate dehydrogenase activity
+BI	GO:0004156 ! dihydropteroate synthase activity
+BI	GO:0004157 ! dihydropyrimidinase activity
+BI	GO:0004158 ! dihydroorotate oxidase activity
+BI	GO:0004159 ! dihydrouracil dehydrogenase (NAD+) activity
+BI	GO:0004160 ! dihydroxy-acid dehydratase activity
+BI	GO:0004161 ! dimethylallyltranstransferase activity
+BI	GO:0004163 ! diphosphomevalonate decarboxylase activity
+BI	GO:0004165 ! dodecenoyl-CoA delta-isomerase activity
+BI	GO:0004166 ! dolichyl-phosphate alpha-N-acetylglucosaminyltransferase activity
+BI	GO:0004167 ! dopachrome isomerase activity
+BI	GO:0004168 ! dolichol kinase activity
+BI	GO:0004170 ! dUTP diphosphatase activity
+BI	GO:0004173 ! ecdysone O-acyltransferase activity
+BI	GO:0004300 ! enoyl-CoA hydratase activity
+BI	GO:0004304 ! estrone sulfotransferase activity
+BI	GO:0004305 ! ethanolamine kinase activity
+BI	GO:0004306 ! ethanolamine-phosphate cytidylyltransferase activity
+BI	GO:0004311 ! farnesyltranstransferase activity
+BI	GO:0004322 ! ferroxidase activity
+BI	GO:0004325 ! ferrochelatase activity
+BI	GO:0004328 ! formamidase activity
+BI	GO:0004329 ! formate-tetrahydrofolate ligase activity
+BI	GO:0004331 ! fructose-2,6-bisphosphate 2-phosphatase activity
+BI	GO:0004332 ! fructose-bisphosphate aldolase activity
+BI	GO:0004333 ! fumarate hydratase activity
+BI	GO:0004334 ! fumarylacetoacetase activity
+BI	GO:0004335 ! galactokinase activity
+BI	GO:0004336 ! galactosylceramidase activity
+BI	GO:0004337 ! geranyltranstransferase activity
+BI	GO:0004340 ! glucokinase activity
+BI	GO:0004341 ! gluconolactonase activity
+BI	GO:0004342 ! glucosamine-6-phosphate deaminase activity
+BI	GO:0004343 ! glucosamine 6-phosphate N-acetyltransferase activity
+BI	GO:0004344 ! glucose dehydrogenase activity
+BI	GO:0004345 ! glucose-6-phosphate dehydrogenase activity
+BI	GO:0004346 ! glucose-6-phosphatase activity
+BI	GO:0004347 ! glucose-6-phosphate isomerase activity
+BI	GO:0004348 ! glucosylceramidase activity
+BI	GO:0004349 ! glutamate 5-kinase activity
+BI	GO:0004350 ! glutamate-5-semialdehyde dehydrogenase activity
+BI	GO:0004351 ! glutamate decarboxylase activity
+BI	GO:0004352 ! glutamate dehydrogenase (NAD+) activity
+BI	GO:0004354 ! glutamate dehydrogenase (NADP+) activity
+BI	GO:0004355 ! glutamate synthase (NADPH) activity
+BI	GO:0004356 ! glutamate-ammonia ligase activity
+BI	GO:0004357 ! glutamate-cysteine ligase activity
+BI	GO:0004358 ! glutamate N-acetyltransferase activity
+BI	GO:0004359 ! glutaminase activity
+BI	GO:0004360 ! glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+BI	GO:0004361 ! glutaryl-CoA dehydrogenase activity
+BI	GO:0004362 ! glutathione-disulfide reductase activity
+BI	GO:0004363 ! glutathione synthase activity
+BI	GO:0004365 ! glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+BI	GO:0004366 ! glycerol-3-phosphate O-acyltransferase activity
+BI	GO:0004367 ! glycerol-3-phosphate dehydrogenase [NAD+] activity
+BI	GO:0004368 ! glycerol-3-phosphate dehydrogenase activity
+BI	GO:0004369 ! glycerol-3-phosphate oxidase activity
+BI	GO:0004370 ! glycerol kinase activity
+BI	GO:0004371 ! glycerone kinase activity
+BI	GO:0004372 ! glycine hydroxymethyltransferase activity
+BI	GO:0004377 ! GDP-Man:Man3GlcNAc2-PP-Dol alpha-1,2-mannosyltransferase activity
+BI	GO:0004378 ! GDP-Man:Man1GlcNAc2-PP-Dol alpha-1,3-mannosyltransferase activity
+BI	GO:0004381 ! fucosylgalactoside 3-alpha-galactosyltransferase activity
+BI	GO:0004382 ! guanosine-diphosphatase activity
+BI	GO:0004383 ! guanylate cyclase activity
+BI	GO:0004385 ! guanylate kinase activity
+BI	GO:0004395 ! hexaprenyldihydroxybenzoate methyltransferase activity
+BI	GO:0004396 ! hexokinase activity
+BI	GO:0004397 ! histidine ammonia-lyase activity
+BI	GO:0004398 ! histidine decarboxylase activity
+BI	GO:0004399 ! histidinol dehydrogenase activity
+BI	GO:0004400 ! histidinol-phosphate transaminase activity
+BI	GO:0004401 ! histidinol-phosphatase activity
+BI	GO:0004409 ! homoaconitate hydratase activity
+BI	GO:0004410 ! homocitrate synthase activity
+BI	GO:0004411 ! homogentisate 1,2-dioxygenase activity
+BI	GO:0004412 ! homoserine dehydrogenase activity
+BI	GO:0004413 ! homoserine kinase activity
+BI	GO:0004414 ! homoserine O-acetyltransferase activity
+BI	GO:0004416 ! hydroxyacylglutathione hydrolase activity
+BI	GO:0004417 ! hydroxyethylthiazole kinase activity
+BI	GO:0004418 ! hydroxymethylbilane synthase activity
+BI	GO:0004419 ! hydroxymethylglutaryl-CoA lyase activity
+BI	GO:0004420 ! hydroxymethylglutaryl-CoA reductase (NADPH) activity
+BI	GO:0004421 ! hydroxymethylglutaryl-CoA synthase activity
+BI	GO:0004422 ! hypoxanthine phosphoribosyltransferase activity
+BI	GO:0004424 ! imidazoleglycerol-phosphate dehydratase activity
+BI	GO:0004425 ! indole-3-glycerol-phosphate synthase activity
+BI	GO:0004427 ! inorganic diphosphatase activity
+BI	GO:0004430 ! 1-phosphatidylinositol 4-kinase activity
+BI	GO:0004436 ! phosphatidylinositol diacylglycerol-lyase activity
+BI	GO:0004438 ! phosphatidylinositol-3-phosphatase activity
+BI	GO:0004439 ! phosphatidylinositol-4,5-bisphosphate 5-phosphatase activity
+BI	GO:0004441 ! inositol-1,4-bisphosphate 1-phosphatase activity
+BI	GO:0004447 ! iodide peroxidase activity
+BI	GO:0004449 ! isocitrate dehydrogenase (NAD+) activity
+BI	GO:0004450 ! isocitrate dehydrogenase (NADP+) activity
+BI	GO:0004451 ! isocitrate lyase activity
+BI	GO:0004452 ! isopentenyl-diphosphate delta-isomerase activity
+BI	GO:0004453 ! juvenile-hormone esterase activity
+BI	GO:0004454 ! ketohexokinase activity
+BI	GO:0004456 ! phosphogluconate dehydratase activity
+BI	GO:0004459 ! L-lactate dehydrogenase activity
+BI	GO:0004461 ! lactose synthase activity
+BI	GO:0004462 ! lactoylglutathione lyase activity
+BI	GO:0004463 ! leukotriene-A4 hydrolase activity
+BI	GO:0004464 ! leukotriene-C4 synthase activity
+BI	GO:0004468 ! lysine N-acetyltransferase activity, acting on acetyl phosphate as donor
+BI	GO:0004471 ! malate dehydrogenase (decarboxylating) (NAD+) activity
+BI	GO:0004473 ! malate dehydrogenase (decarboxylating) (NADP+) activity
+BI	GO:0004474 ! malate synthase activity
+BI	GO:0004475 ! mannose-1-phosphate guanylyltransferase activity
+BI	GO:0004476 ! mannose-6-phosphate isomerase activity
+BI	GO:0004477 ! methenyltetrahydrofolate cyclohydrolase activity
+BI	GO:0004478 ! methionine adenosyltransferase activity
+BI	GO:0004485 ! methylcrotonoyl-CoA carboxylase activity
+BI	GO:0004487 ! methylenetetrahydrofolate dehydrogenase (NAD+) activity
+BI	GO:0004488 ! methylenetetrahydrofolate dehydrogenase (NADP+) activity
+BI	GO:0004489 ! methylenetetrahydrofolate reductase (NAD(P)H) activity
+BI	GO:0004489 ! methylenetetrahydrofolate reductase (NAD(P)H) activity
+BI	GO:0004490 ! methylglutaconyl-CoA hydratase activity
+BI	GO:0004491 ! methylmalonate-semialdehyde dehydrogenase (acylating) activity
+BI	GO:0004492 ! methylmalonyl-CoA decarboxylase activity
+BI	GO:0004493 ! methylmalonyl-CoA epimerase activity
+BI	GO:0004494 ! methylmalonyl-CoA mutase activity
+BI	GO:0004496 ! mevalonate kinase activity
+BI	GO:0004498 ! calcidiol 1-monooxygenase activity
+BI	GO:0004499 ! N,N-dimethylaniline monooxygenase activity
+BI	GO:0004500 ! dopamine beta-monooxygenase activity
+BI	GO:0004501 ! ecdysone 20-monooxygenase activity
+BI	GO:0004502 ! kynurenine 3-monooxygenase activity
+BI	GO:0004503 ! monophenol monooxygenase activity
+BI	GO:0004505 ! phenylalanine 4-monooxygenase activity
+BI	GO:0004506 ! squalene monooxygenase activity
+BI	GO:0004510 ! tryptophan 5-monooxygenase activity
+BI	GO:0004511 ! tyrosine 3-monooxygenase activity
+BI	GO:0004512 ! inositol-3-phosphate synthase activity
+BI	GO:0004514 ! nicotinate-nucleotide diphosphorylase (carboxylating) activity
+BI	GO:0004515 ! nicotinate-nucleotide adenylyltransferase activity
+BI	GO:0004516 ! nicotinate phosphoribosyltransferase activity
+BI	GO:0004552 ! octanol dehydrogenase activity
+BI	GO:0004555 ! alpha,alpha-trehalase activity
+BI	GO:0004581 ! dolichyl-phosphate beta-glucosyltransferase activity
+BI	GO:0004582 ! dolichyl-phosphate beta-D-mannosyltransferase activity
+BI	GO:0004585 ! ornithine carbamoyltransferase activity
+BI	GO:0004586 ! ornithine decarboxylase activity
+BI	GO:0004588 ! orotate phosphoribosyltransferase activity
+BI	GO:0004589 ! orotate reductase (NADH) activity
+BI	GO:0004590 ! orotidine-5'-phosphate decarboxylase activity
+BI	GO:0004592 ! pantoate-beta-alanine ligase activity
+BI	GO:0004593 ! pantothenase activity
+BI	GO:0004594 ! pantothenate kinase activity
+BI	GO:0004595 ! pantetheine-phosphate adenylyltransferase activity
+BI	GO:0004602 ! glutathione peroxidase activity
+BI	GO:0004604 ! phosphoadenylyl-sulfate reductase (thioredoxin) activity
+BI	GO:0004605 ! phosphatidate cytidylyltransferase activity
+BI	GO:0004608 ! phosphatidylethanolamine N-methyltransferase activity
+BI	GO:0004609 ! phosphatidylserine decarboxylase activity
+BI	GO:0004610 ! phosphoacetylglucosamine mutase activity
+BI	GO:0004612 ! phosphoenolpyruvate carboxykinase (ATP) activity
+BI	GO:0004613 ! phosphoenolpyruvate carboxykinase (GTP) activity
+BI	GO:0004614 ! phosphoglucomutase activity
+BI	GO:0004615 ! phosphomannomutase activity
+BI	GO:0004616 ! phosphogluconate dehydrogenase (decarboxylating) activity
+BI	GO:0004617 ! phosphoglycerate dehydrogenase activity
+BI	GO:0004618 ! phosphoglycerate kinase activity
+BI	GO:0004619 ! phosphoglycerate mutase activity
+BI	GO:0004621 ! glycosylphosphatidylinositol phospholipase D activity
+BI	GO:0004622 ! lysophospholipase activity
+BI	GO:0004623 ! phospholipase A2 activity
+BI	GO:0004631 ! phosphomevalonate kinase activity
+BI	GO:0004633 ! phosphopantothenoylcysteine decarboxylase activity
+BI	GO:0004634 ! phosphopyruvate hydratase activity
+BI	GO:0004635 ! phosphoribosyl-AMP cyclohydrolase activity
+BI	GO:0004636 ! phosphoribosyl-ATP diphosphatase activity
+BI	GO:0004637 ! phosphoribosylamine-glycine ligase activity
+BI	GO:0004638 ! phosphoribosylaminoimidazole carboxylase activity
+BI	GO:0004639 ! phosphoribosylaminoimidazolesuccinocarboxamide synthase activity
+BI	GO:0004640 ! phosphoribosylanthranilate isomerase activity
+BI	GO:0004641 ! phosphoribosylformylglycinamidine cyclo-ligase activity
+BI	GO:0004642 ! phosphoribosylformylglycinamidine synthase activity
+BI	GO:0004643 ! phosphoribosylaminoimidazolecarboxamide formyltransferase activity
+BI	GO:0004644 ! phosphoribosylglycinamide formyltransferase activity
+BI	GO:0004648 ! O-phospho-L-serine:2-oxoglutarate aminotransferase activity
+BI	GO:0004655 ! porphobilinogen synthase activity
+BI	GO:0004657 ! proline dehydrogenase activity
+BI	GO:0004658 ! propionyl-CoA carboxylase activity
+BI	GO:0004664 ! prephenate dehydratase activity
+BI	GO:0004665 ! prephenate dehydrogenase (NADP+) activity
+BI	GO:0004666 ! prostaglandin-endoperoxide synthase activity
+BI	GO:0004667 ! prostaglandin-D synthase activity
+BI	GO:0004729 ! oxygen-dependent protoporphyrinogen oxidase activity
+BI	GO:0004730 ! pseudouridylate synthase activity
+BI	GO:0004731 ! purine-nucleoside phosphorylase activity
+BI	GO:0004732 ! pyridoxal oxidase activity
+BI	GO:0004733 ! pyridoxamine-phosphate oxidase activity
+BI	GO:0004735 ! pyrroline-5-carboxylate reductase activity
+BI	GO:0004736 ! pyruvate carboxylase activity
+BI	GO:0004737 ! pyruvate decarboxylase activity
+BI	GO:0004743 ! pyruvate kinase activity
+BI	GO:0004744 ! retinal isomerase activity
+BI	GO:0004745 ! retinol dehydrogenase activity
+BI	GO:0004746 ! riboflavin synthase activity
+BI	GO:0004747 ! ribokinase activity
+BI	GO:0004748 ! ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor
+BI	GO:0004749 ! ribose phosphate diphosphokinase activity
+BI	GO:0004750 ! ribulose-phosphate 3-epimerase activity
+BI	GO:0004751 ! ribose-5-phosphate isomerase activity
+BI	GO:0004754 ! saccharopine dehydrogenase (NAD+, L-lysine-forming) activity
+BI	GO:0004755 ! saccharopine dehydrogenase (NADP+, L-glutamate-forming) activity
+BI	GO:0004756 ! selenide, water dikinase activity
+BI	GO:0004758 ! serine C-palmitoyltransferase activity
+BI	GO:0004760 ! serine-pyruvate transaminase activity
+BI	GO:0004764 ! shikimate 3-dehydrogenase (NADP+) activity
+BI	GO:0004765 ! shikimate kinase activity
+BI	GO:0004766 ! spermidine synthase activity
+BI	GO:0004767 ! sphingomyelin phosphodiesterase activity
+BI	GO:0004773 ! steryl-sulfatase activity
+BI	GO:0004775 ! succinate-CoA ligase (ADP-forming) activity
+BI	GO:0004776 ! succinate-CoA ligase (GDP-forming) activity
+BI	GO:0004777 ! succinate-semialdehyde dehydrogenase (NAD+) activity
+BI	GO:0004778 ! succinyl-CoA hydrolase activity
+BI	GO:0004780 ! sulfate adenylyltransferase (ADP) activity
+BI	GO:0004781 ! sulfate adenylyltransferase (ATP) activity
+BI	GO:0004783 ! sulfite reductase (NADPH) activity
+BI	GO:0004784 ! superoxide dismutase activity
+BI	GO:0004788 ! thiamine diphosphokinase activity
+BI	GO:0004789 ! thiamine-phosphate diphosphorylase activity
+BI	GO:0004790 ! thioether S-methyltransferase activity
+BI	GO:0004791 ! thioredoxin-disulfide reductase activity
+BI	GO:0004792 ! thiosulfate sulfurtransferase activity
+BI	GO:0004793 ! threonine aldolase activity
+BI	GO:0004794 ! L-threonine ammonia-lyase activity
+BI	GO:0004795 ! threonine synthase activity
+BI	GO:0004796 ! thromboxane-A synthase activity
+BI	GO:0004797 ! thymidine kinase activity
+BI	GO:0004798 ! thymidylate kinase activity
+BI	GO:0004799 ! thymidylate synthase activity
+BI	GO:0004800 ! thyroxine 5'-deiodinase activity
+BI	GO:0004801 ! sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity
+BI	GO:0004805 ! trehalose-phosphatase activity
+BI	GO:0004806 ! triglyceride lipase activity
+BI	GO:0004807 ! triose-phosphate isomerase activity
+BI	GO:0004813 ! alanine-tRNA ligase activity
+BI	GO:0004814 ! arginine-tRNA ligase activity
+BI	GO:0004815 ! aspartate-tRNA ligase activity
+BI	GO:0004816 ! asparagine-tRNA ligase activity
+BI	GO:0004818 ! glutamate-tRNA ligase activity
+BI	GO:0004819 ! glutamine-tRNA ligase activity
+BI	GO:0004820 ! glycine-tRNA ligase activity
+BI	GO:0004821 ! histidine-tRNA ligase activity
+BI	GO:0004822 ! isoleucine-tRNA ligase activity
+BI	GO:0004823 ! leucine-tRNA ligase activity
+BI	GO:0004825 ! methionine-tRNA ligase activity
+BI	GO:0004826 ! phenylalanine-tRNA ligase activity
+BI	GO:0004827 ! proline-tRNA ligase activity
+BI	GO:0004828 ! serine-tRNA ligase activity
+BI	GO:0004829 ! threonine-tRNA ligase activity
+BI	GO:0004830 ! tryptophan-tRNA ligase activity
+BI	GO:0004831 ! tyrosine-tRNA ligase activity
+BI	GO:0004832 ! valine-tRNA ligase activity
+BI	GO:0004833 ! tryptophan 2,3-dioxygenase activity
+BI	GO:0004834 ! tryptophan synthase activity
+BI	GO:0004837 ! tyrosine decarboxylase activity
+BI	GO:0004845 ! uracil phosphoribosyltransferase activity
+BI	GO:0004846 ! urate oxidase activity
+BI	GO:0004847 ! urea carboxylase activity
+BI	GO:0004848 ! ureidoglycolate hydrolase activity
+BI	GO:0004849 ! uridine kinase activity
+BI	GO:0004850 ! uridine phosphorylase activity
+BI	GO:0004852 ! uroporphyrinogen-III synthase activity
+BI	GO:0004853 ! uroporphyrinogen decarboxylase activity
+BI	GO:0004855 ! xanthine oxidase activity
+BI	GO:0004856 ! xylulokinase activity
+BI	GO:0005368 ! taurine transmembrane transporter activity
+BI	GO:0005388 ! calcium-transporting ATPase activity
+BI	GO:0005391 ! sodium:potassium-exchanging ATPase activity
+BI	GO:0008107 ! galactoside 2-alpha-L-fucosyltransferase activity
+BI	GO:0008108 ! UDP-glucose:hexose-1-phosphate uridylyltransferase activity
+BI	GO:0008109 ! N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase activity
+BI	GO:0008110 ! L-histidine:2-oxoglutarate aminotransferase activity
+BI	GO:0008111 ! alpha-methylacyl-CoA racemase activity
+BI	GO:0008112 ! nicotinamide N-methyltransferase activity
+BI	GO:0008115 ! sarcosine oxidase activity
+BI	GO:0008116 ! prostaglandin-I synthase activity
+BI	GO:0008117 ! sphinganine-1-phosphate aldolase activity
+BI	GO:0008118 ! N-acetyllactosaminide alpha-2,3-sialyltransferase activity
+BI	GO:0008120 ! ceramide glucosyltransferase activity
+BI	GO:0008123 ! cholesterol 7-alpha-monooxygenase activity
+BI	GO:0008124 ! 4-alpha-hydroxytetrahydrobiopterin dehydratase activity
+BI	GO:0008127 ! quercetin 2,3-dioxygenase activity
+BI	GO:0008137 ! NADH dehydrogenase (ubiquinone) activity
+BI	GO:0008177 ! succinate dehydrogenase (ubiquinone) activity
+BI	GO:0008195 ! phosphatidate phosphatase activity
+BI	GO:0008260 ! 3-oxoacid CoA-transferase activity
+BI	GO:0008336 ! gamma-butyrobetaine dioxygenase activity
+BI	GO:0008398 ! sterol 14-demethylase activity
+BI	GO:0008424 ! glycoprotein 6-alpha-L-fucosyltransferase activity
+BI	GO:0008440 ! inositol-1,4,5-trisphosphate 3-kinase activity
+BI	GO:0008441 ! 3'(2'),5'-bisphosphate nucleotidase activity
+BI	GO:0008442 ! 3-hydroxyisobutyrate dehydrogenase activity
+BI	GO:0008444 ! CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity
+BI	GO:0008445 ! D-aspartate oxidase activity
+BI	GO:0008446 ! GDP-mannose 4,6-dehydratase activity
+BI	GO:0008447 ! L-ascorbate oxidase activity
+BI	GO:0008448 ! N-acetylglucosamine-6-phosphate deacetylase activity
+BI	GO:0008453 ! alanine-glyoxylate transaminase activity
+BI	GO:0008455 ! alpha-1,6-mannosylglycoprotein 2-beta-N-acetylglucosaminyltransferase activity
+BI	GO:0008457 ! beta-galactosyl-N-acetylglucosaminylgalactosylglucosyl-ceramide beta-1,3-acetylglucosaminyltransferase activity
+BI	GO:0008458 ! carnitine O-octanoyltransferase activity
+BI	GO:0008459 ! chondroitin 6-sulfotransferase activity
+BI	GO:0008460 ! dTDP-glucose 4,6-dehydratase activity
+BI	GO:0008463 ! formylmethionine deformylase activity
+BI	GO:0008465 ! glycerate dehydrogenase activity
+BI	GO:0008470 ! isovaleryl-CoA dehydrogenase activity
+BI	GO:0008473 ! ornithine cyclodeaminase activity
+BI	GO:0008478 ! pyridoxal kinase activity
+BI	GO:0008480 ! sarcosine dehydrogenase activity
+BI	GO:0008481 ! sphinganine kinase activity
+BI	GO:0008482 ! sulfite oxidase activity
+BI	GO:0008495 ! protoheme IX farnesyltransferase activity
+BI	GO:0008531 ! riboflavin kinase activity
+BI	GO:0008532 ! N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase activity
+BI	GO:0008551 ! cadmium-exporting ATPase activity
+BI	GO:0008554 ! sodium-exporting ATPase activity, phosphorylative mechanism
+BI	GO:0008555 ! chloride-transporting ATPase activity
+BI	GO:0008556 ! potassium-transporting ATPase activity
+BI	GO:0008558 ! guanine-transporting ATPase activity
+BI	GO:0008660 ! 1-aminocyclopropane-1-carboxylate deaminase activity
+BI	GO:0008661 ! 1-deoxy-D-xylulose-5-phosphate synthase activity
+BI	GO:0008662 ! 1-phosphofructokinase activity
+BI	GO:0008666 ! 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase activity
+BI	GO:0008667 ! 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase activity
+BI	GO:0008668 ! (2,3-dihydroxybenzoyl)adenylate synthase activity
+BI	GO:0008671 ! 2-dehydro-3-deoxygalactonokinase activity
+BI	GO:0008672 ! 2-dehydro-3-deoxyglucarate aldolase activity
+BI	GO:0008673 ! 2-dehydro-3-deoxygluconokinase activity
+BI	GO:0008674 ! 2-dehydro-3-deoxy-6-phosphogalactonate aldolase activity
+BI	GO:0008675 ! 2-dehydro-3-deoxy-phosphogluconate aldolase activity
+BI	GO:0008676 ! 3-deoxy-8-phosphooctulonate synthase activity
+BI	GO:0008677 ! 2-dehydropantoate 2-reductase activity
+BI	GO:0008678 ! 2-deoxy-D-gluconate 3-dehydrogenase activity
+BI	GO:0008679 ! 2-hydroxy-3-oxopropionate reductase activity
+BI	GO:0008683 ! 2-oxoglutarate decarboxylase activity
+BI	GO:0008684 ! 2-oxopent-4-enoate hydratase activity
+BI	GO:0008685 ! 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase activity
+BI	GO:0008686 ! 3,4-dihydroxy-2-butanone-4-phosphate synthase activity
+BI	GO:0008687 ! 3,4-dihydroxyphenylacetate 2,3-dioxygenase activity
+BI	GO:0008689 ! 3-demethylubiquinone-9 3-O-methyltransferase activity
+BI	GO:0008690 ! 3-deoxy-manno-octulosonate cytidylyltransferase activity
+BI	GO:0008691 ! 3-hydroxybutyryl-CoA dehydrogenase activity
+BI	GO:0008692 ! 3-hydroxybutyryl-CoA epimerase activity
+BI	GO:0008695 ! 3-phenylpropionate dioxygenase activity
+BI	GO:0008696 ! 4-amino-4-deoxychorismate lyase activity
+BI	GO:0008697 ! 4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase activity
+BI	GO:0008700 ! 4-hydroxy-2-oxoglutarate aldolase activity
+BI	GO:0008701 ! 4-hydroxy-2-oxovalerate aldolase activity
+BI	GO:0008703 ! 5-amino-6-(5-phosphoribosylamino)uracil reductase activity
+BI	GO:0008704 ! 5-carboxymethyl-2-hydroxymuconate delta-isomerase activity
+BI	GO:0008705 ! methionine synthase activity
+BI	GO:0008706 ! 6-phospho-beta-glucosidase activity
+BI	GO:0008707 ! 4-phytase activity
+BI	GO:0008709 ! cholate 7-alpha-dehydrogenase activity
+BI	GO:0008710 ! 8-amino-7-oxononanoate synthase activity
+BI	GO:0008712 ! ADP-glyceromanno-heptose 6-epimerase activity
+BI	GO:0008714 ! AMP nucleosidase activity
+BI	GO:0008715 ! CDP-diacylglycerol diphosphatase activity
+BI	GO:0008716 ! D-alanine-D-alanine ligase activity
+BI	GO:0008718 ! D-amino-acid dehydrogenase activity
+BI	GO:0008720 ! D-lactate dehydrogenase activity
+BI	GO:0008721 ! D-serine ammonia-lyase activity
+BI	GO:0008728 ! GTP diphosphokinase activity
+BI	GO:0008730 ! L(+)-tartrate dehydratase activity
+BI	GO:0008733 ! L-arabinose isomerase activity
+BI	GO:0008734 ! L-aspartate oxidase activity
+BI	GO:0008735 ! carnitine dehydratase activity
+BI	GO:0008736 ! L-fucose isomerase activity
+BI	GO:0008737 ! L-fuculokinase activity
+BI	GO:0008738 ! L-fuculose-phosphate aldolase activity
+BI	GO:0008740 ! L-rhamnose isomerase activity
+BI	GO:0008742 ! L-ribulose-phosphate 4-epimerase activity
+BI	GO:0008744 ! L-xylulokinase activity
+BI	GO:0008746 ! NAD(P)+ transhydrogenase activity
+BI	GO:0008747 ! N-acetylneuraminate lyase activity
+BI	GO:0008753 ! NADPH dehydrogenase (quinone) activity
+BI	GO:0008756 ! o-succinylbenzoate-CoA ligase activity
+BI	GO:0008760 ! UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity
+BI	GO:0008761 ! UDP-N-acetylglucosamine 2-epimerase activity
+BI	GO:0008762 ! UDP-N-acetylmuramate dehydrogenase activity
+BI	GO:0008763 ! UDP-N-acetylmuramate-L-alanine ligase activity
+BI	GO:0008764 ! UDP-N-acetylmuramoylalanine-D-glutamate ligase activity
+BI	GO:0008765 ! UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase activity
+BI	GO:0008767 ! UDP-galactopyranose mutase activity
+BI	GO:0008774 ! acetaldehyde dehydrogenase (acetylating) activity
+BI	GO:0008775 ! acetate CoA-transferase activity
+BI	GO:0008777 ! acetylornithine deacetylase activity
+BI	GO:0008781 ! N-acylneuraminate cytidylyltransferase activity
+BI	GO:0008783 ! agmatinase activity
+BI	GO:0008784 ! alanine racemase activity
+BI	GO:0008787 ! allose kinase activity
+BI	GO:0008788 ! alpha,alpha-phosphotrehalase activity
+BI	GO:0008789 ! altronate dehydratase activity
+BI	GO:0008790 ! arabinose isomerase activity
+BI	GO:0008791 ! arginine N-succinyltransferase activity
+BI	GO:0008792 ! arginine decarboxylase activity
+BI	GO:0008795 ! NAD+ synthase activity
+BI	GO:0008797 ! aspartate ammonia-lyase activity
+BI	GO:0008801 ! beta-phosphoglucomutase activity
+BI	GO:0008802 ! betaine-aldehyde dehydrogenase activity
+BI	GO:0008803 ! bis(5'-nucleosyl)-tetraphosphatase (symmetrical) activity
+BI	GO:0008804 ! carbamate kinase activity
+BI	GO:0008806 ! carboxymethylenebutenolidase activity
+BI	GO:0008807 ! carboxyvinyl-carboxyphosphonate phosphorylmutase activity
+BI	GO:0008808 ! cardiolipin synthase activity
+BI	GO:0008811 ! chloramphenicol O-acetyltransferase activity
+BI	GO:0008812 ! choline dehydrogenase activity
+BI	GO:0008813 ! chorismate lyase activity
+BI	GO:0008814 ! citrate CoA-transferase activity
+BI	GO:0008815 ! citrate (pro-3S)-lyase activity
+BI	GO:0008816 ! citryl-CoA lyase activity
+BI	GO:0008817 ! cob(I)yrinic acid a,c-diamide adenosyltransferase activity
+BI	GO:0008818 ! cobalamin 5'-phosphate synthase activity
+BI	GO:0008820 ! cobinamide phosphate guanylyltransferase activity
+BI	GO:0008829 ! dCTP deaminase activity
+BI	GO:0008830 ! dTDP-4-dehydrorhamnose 3,5-epimerase activity
+BI	GO:0008831 ! dTDP-4-dehydrorhamnose reductase activity
+BI	GO:0008832 ! dGTPase activity
+BI	GO:0008835 ! diaminohydroxyphosphoribosylaminopyrimidine deaminase activity
+BI	GO:0008836 ! diaminopimelate decarboxylase activity
+BI	GO:0008837 ! diaminopimelate epimerase activity
+BI	GO:0008838 ! diaminopropionate ammonia-lyase activity
+BI	GO:0008841 ! dihydrofolate synthase activity
+BI	GO:0008851 ! ethanolamine ammonia-lyase activity
+BI	GO:0008861 ! formate C-acetyltransferase activity
+BI	GO:0008863 ! formate dehydrogenase (NAD+) activity
+BI	GO:0008864 ! formyltetrahydrofolate deformylase activity
+BI	GO:0008865 ! fructokinase activity
+BI	GO:0008866 ! fructuronate reductase activity
+BI	GO:0008867 ! galactarate dehydratase activity
+BI	GO:0008868 ! galactitol-1-phosphate 5-dehydrogenase activity
+BI	GO:0008869 ! galactonate dehydratase activity
+BI	GO:0008872 ! glucarate dehydratase activity
+BI	GO:0008873 ! gluconate 2-dehydrogenase activity
+BI	GO:0008876 ! quinoprotein glucose dehydrogenase activity
+BI	GO:0008877 ! glucose-1-phosphatase activity
+BI	GO:0008878 ! glucose-1-phosphate adenylyltransferase activity
+BI	GO:0008879 ! glucose-1-phosphate thymidylyltransferase activity
+BI	GO:0008880 ! glucuronate isomerase activity
+BI	GO:0008881 ! glutamate racemase activity
+BI	GO:0008883 ! glutamyl-tRNA reductase activity
+BI	GO:0008884 ! glutathionylspermidine amidase activity
+BI	GO:0008885 ! glutathionylspermidine synthase activity
+BI	GO:0008886 ! glyceraldehyde-3-phosphate dehydrogenase (NADP+) (non-phosphorylating) activity
+BI	GO:0008887 ! glycerate kinase activity
+BI	GO:0008888 ! glycerol dehydrogenase [NAD+] activity
+BI	GO:0008890 ! glycine C-acetyltransferase activity
+BI	GO:0008892 ! guanine deaminase activity
+BI	GO:0008893 ! guanosine-3',5'-bis(diphosphate) 3'-diphosphatase activity
+BI	GO:0008894 ! guanosine-5'-triphosphate,3'-diphosphate diphosphatase activity
+BI	GO:0008898 ! S-adenosylmethionine-homocysteine S-methyltransferase activity
+BI	GO:0008899 ! homoserine O-succinyltransferase activity
+BI	GO:0008900 ! hydrogen:potassium-exchanging ATPase activity
+BI	GO:0008902 ! hydroxymethylpyrimidine kinase activity
+BI	GO:0008903 ! hydroxypyruvate isomerase activity
+BI	GO:0008904 ! hygromycin-B 7''-O-phosphotransferase activity
+BI	GO:0008906 ! inosine kinase activity
+BI	GO:0008908 ! isochorismatase activity
+BI	GO:0008909 ! isochorismate synthase activity
+BI	GO:0008910 ! kanamycin kinase activity
+BI	GO:0008911 ! lactaldehyde dehydrogenase activity
+BI	GO:0008915 ! lipid-A-disaccharide synthase activity
+BI	GO:0008923 ! lysine decarboxylase activity
+BI	GO:0008924 ! malate dehydrogenase (quinone) activity
+BI	GO:0008925 ! maltose O-acetyltransferase activity
+BI	GO:0008926 ! mannitol-1-phosphate 5-dehydrogenase activity
+BI	GO:0008927 ! mannonate dehydratase activity
+BI	GO:0008928 ! mannose-1-phosphate guanylyltransferase (GDP) activity
+BI	GO:0008929 ! methylglyoxal synthase activity
+BI	GO:0008930 ! methylthioadenosine nucleosidase activity
+BI	GO:0008934 ! inositol monophosphate 1-phosphatase activity
+BI	GO:0008935 ! 1,4-dihydroxy-2-naphthoyl-CoA synthase activity
+BI	GO:0008936 ! nicotinamidase activity
+BI	GO:0008938 ! nicotinate N-methyltransferase activity
+BI	GO:0008939 ! nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase activity
+BI	GO:0008940 ! nitrate reductase activity
+BI	GO:0008942 ! nitrite reductase [NAD(P)H] activity
+BI	GO:0008942 ! nitrite reductase [NAD(P)H] activity
+BI	GO:0008948 ! oxaloacetate decarboxylase activity
+BI	GO:0008949 ! oxalyl-CoA decarboxylase activity
+BI	GO:0008953 ! penicillin amidase activity
+BI	GO:0008957 ! phenylacetaldehyde dehydrogenase activity
+BI	GO:0008959 ! phosphate acetyltransferase activity
+BI	GO:0008964 ! phosphoenolpyruvate carboxylase activity
+BI	GO:0008966 ! phosphoglucosamine mutase activity
+BI	GO:0008967 ! phosphoglycolate phosphatase activity
+BI	GO:0008972 ! phosphomethylpyrimidine kinase activity
+BI	GO:0008973 ! phosphopentomutase activity
+BI	GO:0008974 ! phosphoribulokinase activity
+BI	GO:0008977 ! prephenate dehydrogenase activity
+BI	GO:0008986 ! pyruvate, water dikinase activity
+BI	GO:0008993 ! rhamnulokinase activity
+BI	GO:0008994 ! rhamnulose-1-phosphate aldolase activity
+BI	GO:0008998 ! ribonucleoside-triphosphate reductase activity
+BI	GO:0009000 ! selenocysteine lyase activity
+BI	GO:0009001 ! serine O-acetyltransferase activity
+BI	GO:0009010 ! sorbitol-6-phosphate 2-dehydrogenase activity
+BI	GO:0009012 ! aminoglycoside 3''-adenylyltransferase activity
+BI	GO:0009014 ! succinyl-diaminopimelate desuccinylase activity
+BI	GO:0009015 ! N-succinylarginine dihydrolase activity
+BI	GO:0009016 ! succinyldiaminopimelate transaminase activity
+BI	GO:0009017 ! succinylglutamate desuccinylase activity
+BI	GO:0009018 ! sucrose phosphorylase activity
+BI	GO:0009024 ! tagatose-6-phosphate kinase activity
+BI	GO:0009025 ! tagatose-bisphosphate aldolase activity
+BI	GO:0009026 ! tagaturonate reductase activity
+BI	GO:0009028 ! tartronate-semialdehyde synthase activity
+BI	GO:0009029 ! tetraacyldisaccharide 4'-kinase activity
+BI	GO:0009030 ! thiamine-phosphate kinase activity
+BI	GO:0009032 ! thymidine phosphorylase activity
+BI	GO:0009033 ! trimethylamine-N-oxide reductase activity
+BI	GO:0009034 ! tryptophanase activity
+BI	GO:0009042 ! valine-pyruvate transaminase activity
+BI	GO:0009045 ! xylose isomerase activity
+BI	GO:0009384 ! N-acylmannosamine kinase activity
+BI	GO:0009702 ! L-arabinokinase activity
+BI	GO:0009703 ! nitrate reductase (NADH) activity
+BI	GO:0009815 ! 1-aminocyclopropane-1-carboxylate oxidase activity
+BI	GO:0009824 ! AMP dimethylallyltransferase activity
+BI	GO:0009899 ! ent-kaurene synthase activity
+BI	GO:0009905 ! ent-copalyl diphosphate synthase activity
+BI	GO:0009924 ! octadecanal decarbonylase activity
+BI	GO:0009973 ! adenylyl-sulfate reductase activity
+BI	GO:0010277 ! chlorophyllide a oxygenase [overall] activity
+BI	GO:0010285 ! L,L-diaminopimelate aminotransferase activity
+BI	GO:0010293 ! abscisic aldehyde oxidase activity
+BI	GO:0010295 ! (+)-abscisic acid 8'-hydroxylase activity
+BI	GO:0010301 ! xanthoxin dehydrogenase activity
+BI	GO:0010308 ! acireductone dioxygenase (Ni2+-requiring) activity
+BI	GO:0010309 ! acireductone dioxygenase [iron(II)-requiring] activity
+BI	GO:0010487 ! thermospermine synthase activity
+BI	GO:0015042 ! trypanothione-disulfide reductase activity
+BI	GO:0015049 ! methane monooxygenase activity
+BI	GO:0015049 ! methane monooxygenase activity
+BI	GO:0015068 ! glycine amidinotransferase activity
+BI	GO:0015069 ! scyllo-inosamine-4-phosphate amidinotransferase activity
+LR	GO:0015407 ! monosaccharide-transporting ATPase activity
+BI	GO:0015408 ! ferric-transporting ATPase activity
+BI	GO:0015410 ! manganese-transporting ATPase activity
+LR	GO:0015411 ! taurine-transporting ATPase activity
+BI	GO:0015412 ! ATPase-coupled molybdate transmembrane transporter activity
+BI	GO:0015413 ! nickel-transporting ATPase activity
+BI	GO:0015414 ! ATPase-coupled nitrate transmembrane transporter activity
+BI	GO:0015415 ! ATPase-coupled phosphate ion transmembrane transporter activity
+BI	GO:0015416 ! ATPase-coupled organic phosphonate transmembrane transporter activity
+BI	GO:0015419 ! ATPase-coupled sulfate transmembrane transporter activity
+BI	GO:0015420 ! cobalamin-transporting ATPase activity
+BI	GO:0015423 ! maltose-transporting ATPase activity
+LR	GO:0015430 ! glycerol-3-phosphate-transporting ATPase activity
+BI	GO:0015444 ! magnesium-importing ATPase activity
+BI	GO:0015445 ! silver-exporting ATPase activity
+BI	GO:0015446 ! ATPase-coupled arsenite transmembrane transporter activity
+BI	GO:0015614 ! D-xylose-importing ATPase activity
+BI	GO:0016002 ! sulfite reductase activity
+BI	GO:0016034 ! maleylacetoacetate isomerase activity
+BI	GO:0016040 ! glutamate synthase (NADH) activity
+BI	GO:0016152 ! mercury (II) reductase activity
+BI	GO:0016153 ! urocanate hydratase activity
+BI	GO:0016155 ! formyltetrahydrofolate dehydrogenase activity
+BI	GO:0016156 ! fumarate reductase (NADH) activity
+BI	GO:0016158 ! 3-phytase activity
+BI	GO:0016159 ! muconolactone delta-isomerase activity
+BI	GO:0016165 ! linoleate 13S-lipoxygenase activity
+BI	GO:0016207 ! 4-coumarate-CoA ligase activity
+BI	GO:0016210 ! naringenin-chalcone synthase activity
+BI	GO:0016212 ! kynurenine-oxoglutarate transaminase activity
+BI	GO:0016213 ! linoleoyl-CoA desaturase activity
+BI	GO:0016216 ! isopenicillin-N synthase activity
+BI	GO:0016223 ! beta-alanine-pyruvate transaminase activity
+BI	GO:0016250 ! N-sulfoglucosamine sulfohydrolase activity
+BI	GO:0016287 ! glycerone-phosphate O-acyltransferase activity
+BI	GO:0016290 ! palmitoyl-CoA hydrolase activity
+BI	GO:0016303 ! 1-phosphatidylinositol-3-kinase activity
+BI	GO:0016308 ! 1-phosphatidylinositol-4-phosphate 5-kinase activity
+BI	GO:0016309 ! 1-phosphatidylinositol-5-phosphate 4-kinase activity
+BI	GO:0016314 ! phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase activity
+BI	GO:0016404 ! 15-hydroxyprostaglandin dehydrogenase (NAD+) activity
+BI	GO:0016463 ! zinc-exporting ATPase activity
+BI	GO:0016617 ! 4-oxoproline reductase activity
+BI	GO:0016621 ! cinnamoyl-CoA reductase activity
+BI	GO:0016629 ! 12-oxophytodienoate reductase activity
+BI	GO:0016630 ! protochlorophyllide reductase activity
+BI	GO:0016656 ! monodehydroascorbate reductase (NADH) activity
+BI	GO:0016689 ! manganese peroxidase activity
+BI	GO:0016690 ! diarylpropane peroxidase activity
+BI	GO:0016692 ! NADH peroxidase activity
+BI	GO:0016707 ! gibberellin 3-beta-dioxygenase activity
+BI	GO:0016710 ! trans-cinnamate 4-monooxygenase activity
+BI	GO:0016719 ! carotene 7,8-desaturase activity
+BI	GO:0016720 ! delta12-fatty acid dehydrogenase activity
+BI	GO:0016754 ! sinapoylglucose-malate O-sinapoyltransferase activity
+BI	GO:0016767 ! geranylgeranyl-diphosphate geranylgeranyltransferase activity
+BI	GO:0016768 ! spermine synthase activity
+BI	GO:0016784 ! 3-mercaptopyruvate sulfurtransferase activity
+BI	GO:0016791 ! phosphatase activity
+BI	GO:0016844 ! strictosidine synthase activity
+BI	GO:0016847 ! 1-aminocyclopropane-1-carboxylate synthase activity
+BI	GO:0016851 ! magnesium chelatase activity
+BI	GO:0016852 ! sirohydrochlorin cobaltochelatase activity
+BI	GO:0016871 ! cycloartenol synthase activity
+BI	GO:0016887 ! ATPase activity
+BI	GO:0016972 ! thiol oxidase activity
+BI	GO:0016980 ! creatinase activity
+BI	GO:0016984 ! ribulose-bisphosphate carboxylase activity
+BI	GO:0016990 ! arginine deiminase activity
+BI	GO:0016993 ! precorrin-8X methylmutase activity
+BI	GO:0016994 ! precorrin-6A reductase activity
+BI	GO:0016995 ! cholesterol oxidase activity
+BI	GO:0017040 ! ceramidase activity
+BI	GO:0017057 ! 6-phosphogluconolactonase activity
+BI	GO:0017060 ! 3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase activity
+BI	GO:0017067 ! tyrosine-ester sulfotransferase activity
+BI	GO:0017096 ! acetylserotonin O-methyltransferase activity
+BI	GO:0017103 ! UTP:galactose-1-phosphate uridylyltransferase activity
+BI	GO:0017111 ! nucleoside-triphosphatase activity
+BI	GO:0017113 ! dihydropyrimidine dehydrogenase (NADP+) activity
+BI	GO:0017159 ! pantetheine hydrolase activity
+BI	GO:0017168 ! 5-oxoprolinase (ATP-hydrolyzing) activity
+BI	GO:0017172 ! cysteine dioxygenase activity
+BI	GO:0017174 ! glycine N-methyltransferase activity
+BI	GO:0017176 ! phosphatidylinositol N-acetylglucosaminyltransferase activity
+BI	GO:0017178 ! diphthine-ammonia ligase activity
+BI	GO:0017188 ! aspartate N-acetyltransferase activity
+BI	GO:0018111 ! methionine racemase activity
+BI	GO:0018112 ! proline racemase activity
+BI	GO:0018113 ! lysine racemase activity
+BI	GO:0018114 ! threonine racemase activity
+BI	GO:0018392 ! glycoprotein 3-alpha-L-fucosyltransferase activity
+BI	GO:0018454 ! acetoacetyl-CoA reductase activity
+BI	GO:0018455 ! alcohol dehydrogenase [NAD(P)+] activity
+BI	GO:0018457 ! perillyl-alcohol dehydrogenase activity
+BI	GO:0018458 ! isopiperitenol dehydrogenase activity
+BI	GO:0018459 ! carveol dehydrogenase activity
+BI	GO:0018460 ! cyclohexanol dehydrogenase activity
+BI	GO:0018462 ! 4-(hydroxymethyl)benzenesulfonate dehydrogenase activity
+BI	GO:0018463 ! 6-hydroxyhexanoate dehydrogenase activity
+BI	GO:0018464 ! 3-hydroxypimeloyl-CoA dehydrogenase activity
+BI	GO:0018465 ! vanillyl-alcohol oxidase activity
+BI	GO:0018467 ! formaldehyde dehydrogenase activity
+BI	GO:0018477 ! benzaldehyde dehydrogenase (NADP+) activity
+BI	GO:0018479 ! benzaldehyde dehydrogenase (NAD+) activity
+BI	GO:0018480 ! 5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase activity
+BI	GO:0018481 ! 4-hydroxymuconic-semialdehyde dehydrogenase activity
+BI	GO:0018482 ! 4-formylbenzenesulfonate dehydrogenase activity
+BI	GO:0018483 ! 6-oxohexanoate dehydrogenase activity
+BI	GO:0018484 ! 4-hydroxybenzaldehyde dehydrogenase activity
+BI	GO:0018485 ! salicylaldehyde dehydrogenase activity
+BI	GO:0018489 ! vanillate monooxygenase activity
+BI	GO:0018490 ! 4-hydroxyphenylpyruvate oxidase activity
+BI	GO:0018492 ! carbon-monoxide dehydrogenase (acceptor) activity
+BI	GO:0018493 ! formylmethanofuran dehydrogenase activity
+BI	GO:0018505 ! cis-1,2-dihydro-1,2-dihydroxynaphthalene dehydrogenase activity
+BI	GO:0018507 ! cis-3,4-dihydrophenanthrene-3,4-diol dehydrogenase activity
+BI	GO:0018509 ! cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase activity
+BI	GO:0018510 ! phloroglucinol reductase activity
+BI	GO:0018511 ! 2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase activity
+BI	GO:0018513 ! dibenzothiophene dihydrodiol dehydrogenase activity
+BI	GO:0018515 ! pimeloyl-CoA dehydrogenase activity
+BI	GO:0018516 ! 2,4-dichlorobenzoyl-CoA reductase activity
+BI	GO:0018517 ! phthalate 4,5-cis-dihydrodiol dehydrogenase activity
+BI	GO:0018518 ! 5,6-dihydroxy-3-methyl-2-oxo-1,2,5,6-tetrahydroquinoline dehydrogenase activity
+BI	GO:0018519 ! cis-dihydroethylcatechol dehydrogenase activity
+BI	GO:0018521 ! 1,2-dihydroxy-6-methylcyclohexa-3,5-dienecarboxylate dehydrogenase activity
+BI	GO:0018527 ! cyclohexylamine oxidase activity
+BI	GO:0018530 ! (R)-6-hydroxynicotine oxidase activity
+BI	GO:0018531 ! (S)-6-hydroxynicotine oxidase activity
+BI	GO:0018535 ! nicotine dehydrogenase activity
+BI	GO:0018537 ! coenzyme F420-dependent N5,N10-methenyltetrahydromethanopterin reductase activity
+BI	GO:0018541 ! p-benzoquinone reductase (NADPH) activity
+BI	GO:0018549 ! methanethiol oxidase activity
+BI	GO:0018551 ! hydrogensulfite reductase activity
+BI	GO:0018576 ! catechol 1,2-dioxygenase activity
+BI	GO:0018577 ! catechol 2,3-dioxygenase activity
+BI	GO:0018578 ! protocatechuate 3,4-dioxygenase activity
+BI	GO:0018579 ! protocatechuate 4,5-dioxygenase activity
+BI	GO:0018580 ! nitronate monooxygenase activity
+BI	GO:0018581 ! hydroxyquinol 1,2-dioxygenase activity
+BI	GO:0018582 ! 1-hydroxy-2-naphthoate 1,2-dioxygenase activity
+BI	GO:0018583 ! biphenyl-2,3-diol 1,2-dioxygenase activity
+BI	GO:0018601 ! 4-nitrophenol 2-monooxygenase activity
+BI	GO:0018619 ! benzene 1,2-dioxygenase activity
+BI	GO:0018620 ! phthalate 4,5-dioxygenase activity
+BI	GO:0018621 ! 4-sulfobenzoate 3,4-dioxygenase activity
+BI	GO:0018622 ! 4-chlorophenylacetate 3,4-dioxygenase activity
+BI	GO:0018623 ! benzoate 1,2-dioxygenase activity
+BI	GO:0018624 ! toluene dioxygenase activity
+BI	GO:0018625 ! naphthalene 1,2-dioxygenase activity
+BI	GO:0018626 ! 2-chlorobenzoate 1,2-dioxygenase activity
+BI	GO:0018627 ! 2-aminobenzenesulfonate 2,3-dioxygenase activity
+BI	GO:0018628 ! terephthalate 1,2-dioxygenase activity
+BI	GO:0018629 ! 2-hydroxyquinoline 5,6-dioxygenase activity
+BI	GO:0018635 ! (R)-limonene 1,2-monooxygenase activity
+BI	GO:0018635 ! (R)-limonene 1,2-monooxygenase activity
+BI	GO:0018645 ! alkene monooxygenase activity
+BI	GO:0018648 ! methanesulfonate monooxygenase activity
+BI	GO:0018658 ! salicylate 1-monooxygenase activity
+BI	GO:0018659 ! 4-hydroxybenzoate 3-monooxygenase activity
+BI	GO:0018660 ! 4-hydroxyphenylacetate,NADH:oxygen oxidoreductase (3-hydroxylating) activity
+BI	GO:0018661 ! orcinol 2-monooxygenase activity
+BI	GO:0018662 ! phenol 2-monooxygenase activity
+BI	GO:0018663 ! 2,6-dihydroxypyridine 3-monooxygenase activity
+BI	GO:0018664 ! benzoate 4-monooxygenase activity
+BI	GO:0018666 ! 2,4-dichlorophenol 6-monooxygenase activity
+BI	GO:0018667 ! cyclohexanone monooxygenase activity
+BI	GO:0018668 ! 3-hydroxybenzoate 4-monooxygenase activity
+BI	GO:0018669 ! 3-hydroxybenzoate 6-monooxygenase activity
+BI	GO:0018672 ! anthranilate 3-monooxygenase (deaminating) activity
+BI	GO:0018674 ! (S)-limonene 3-monooxygenase activity
+BI	GO:0018675 ! (S)-limonene 6-monooxygenase activity
+BI	GO:0018676 ! (S)-limonene 7-monooxygenase activity
+BI	GO:0018687 ! biphenyl 2,3-dioxygenase activity
+BI	GO:0018690 ! 4-methoxybenzoate monooxygenase (O-demethylating) activity
+BI	GO:0018693 ! ethylbenzene hydroxylase activity
+BI	GO:0018695 ! 4-cresol dehydrogenase (hydroxylating) activity
+BI	GO:0018710 ! acetone carboxylase activity
+BI	GO:0018729 ! propionate CoA-transferase activity
+BI	GO:0018730 ! glutaconate CoA-transferase activity
+BI	GO:0018738 ! S-formylglutathione hydrolase activity
+BI	GO:0018739 ! 4-hydroxybenzoyl-CoA thioesterase activity
+BI	GO:0018740 ! 2'-hydroxybiphenyl-2-sulfinate desulfinase activity
+BI	GO:0018744 ! limonene-1,2-epoxide hydrolase activity
+BI	GO:0018750 ! biuret amidohydrolase activity
+BI	GO:0018753 ! cyanuric acid amidohydrolase activity
+BI	GO:0018759 ! methenyltetrahydromethanopterin cyclohydrolase activity
+BI	GO:0018760 ! thiocyanate hydrolase activity
+BI	GO:0018761 ! bromoxynil nitrilase activity
+BI	GO:0018763 ! hydroxydechloroatrazine ethylaminohydrolase activity
+BI	GO:0018764 ! N-isopropylammelide isopropylaminohydrolase activity
+BI	GO:0018771 ! 2-hydroxy-6-oxonona-2,4-dienedioate hydrolase activity
+BI	GO:0018773 ! acetylpyruvate hydrolase activity
+BI	GO:0018774 ! 2,6-dioxo-6-phenylhexa-3-enoate hydrolase activity
+BI	GO:0018775 ! 2-hydroxymuconate-semialdehyde hydrolase activity
+BI	GO:0018786 ! haloalkane dehalogenase activity
+BI	GO:0018787 ! 4-chlorobenzoyl-CoA dehalogenase activity
+BI	GO:0018788 ! atrazine chlorohydrolase activity
+BI	GO:0018789 ! cyclamate sulfohydrolase activity
+BI	GO:0018796 ! 4,5-dihydroxyphthalate decarboxylase activity
+BI	GO:0018798 ! gallate decarboxylase activity
+BI	GO:0018799 ! 4-hydroxybenzoate decarboxylase activity
+BI	GO:0018800 ! 5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase activity
+BI	GO:0018801 ! glutaconyl-CoA decarboxylase activity
+BI	GO:0018803 ! 4-(2-carboxyphenyl)-2-oxobut-3-enoate aldolase activity
+BI	GO:0018805 ! benzylsuccinate synthase activity
+BI	GO:0018814 ! phenylacetaldoxime dehydratase activity
+BI	GO:0018818 ! acetylene hydratase activity
+BI	GO:0018819 ! lactoyl-CoA dehydratase activity
+BI	GO:0018820 ! cyanamide hydratase activity
+BI	GO:0018823 ! cyclohexa-1,5-dienecarbonyl-CoA hydratase activity
+BI	GO:0018833 ! DDT-dehydrochlorinase activity
+BI	GO:0018834 ! dichloromethane dehalogenase activity
+BI	GO:0018838 ! mandelate racemase activity
+BI	GO:0018845 ! 2-hydroxychromene-2-carboxylate isomerase activity
+BI	GO:0018846 ! styrene-oxide isomerase activity
+BI	GO:0018849 ! muconate cycloisomerase activity
+BI	GO:0018850 ! chloromuconate cycloisomerase activity
+BI	GO:0018851 ! alpha-pinene-oxide decyclase activity
+BI	GO:0018852 ! dichloromuconate cycloisomerase activity
+BI	GO:0018858 ! benzoate-CoA ligase activity
+BI	GO:0018859 ! 4-hydroxybenzoate-CoA ligase activity
+BI	GO:0018860 ! anthranilate-CoA ligase activity
+BI	GO:0018861 ! 4-chlorobenzoate-CoA ligase activity
+BI	GO:0019134 ! glucosamine-1-phosphate N-acetyltransferase activity
+BI	GO:0019139 ! cytokinin dehydrogenase activity
+BI	GO:0019140 ! inositol 3-kinase activity
+BI	GO:0019142 ! 2-hydroxyglutarate synthase activity
+BI	GO:0019143 ! 3-deoxy-manno-octulosonate-8-phosphatase activity
+BI	GO:0019145 ! aminobutyraldehyde dehydrogenase activity
+BI	GO:0019146 ! arabinose-5-phosphate isomerase activity
+BI	GO:0019147 ! (R)-aminopropanol dehydrogenase activity
+BI	GO:0019148 ! D-cysteine desulfhydrase activity
+BI	GO:0019149 ! 3-chloro-D-alanine dehydrochlorinase activity
+BI	GO:0019150 ! D-ribulokinase activity
+BI	GO:0019151 ! galactose 1-dehydrogenase activity
+BI	GO:0019153 ! protein-disulfide reductase (glutathione) activity
+BI	GO:0019154 ! glycolate dehydrogenase activity
+BI	GO:0019157 ! malate oxidase activity
+BI	GO:0019158 ! mannokinase activity
+BI	GO:0019159 ! nicotinamide-nucleotide amidase activity
+BI	GO:0019160 ! NMN nucleosidase activity
+BI	GO:0019162 ! pyridoxamine-oxaloacetate transaminase activity
+BI	GO:0019163 ! pyridoxamine-phosphate transaminase activity
+BI	GO:0019165 ! thiamine kinase activity
+BI	GO:0019170 ! methylglyoxal reductase (NADH-dependent) activity
+BI	GO:0019179 ! dTDP-4-amino-4,6-dideoxy-D-glucose transaminase activity
+BI	GO:0019180 ! dTDP-4-amino-4,6-dideoxygalactose transaminase activity
+BI	GO:0019726 ! mevaldate reductase (NADPH) activity
+BI	GO:0019727 ! mevaldate reductase (NAD+) activity
+BI	GO:0019807 ! aspartoacylase activity
+BI	GO:0019874 ! 6-aminohexanoate-cyclic-dimer hydrolase activity
+BI	GO:0019875 ! 6-aminohexanoate-dimer hydrolase activity
+BI	GO:0030060 ! L-malate dehydrogenase activity
+BI	GO:0030144 ! alpha-1,6-mannosylglycoprotein 6-beta-N-acetylglucosaminyltransferase activity
+BI	GO:0030196 ! cyanide hydratase activity
+BI	GO:0030266 ! quinate 3-dehydrogenase (NAD+) activity
+BI	GO:0030267 ! glyoxylate reductase (NADP) activity
+BI	GO:0030268 ! methylenetetrahydromethanopterin dehydrogenase activity
+BI	GO:0030269 ! tetrahydromethanopterin S-methyltransferase activity
+BI	GO:0030270 ! formylmethanofuran-tetrahydromethanopterin N-formyltransferase activity
+BI	GO:0030272 ! 5-formyltetrahydrofolate cyclo-ligase activity
+BI	GO:0030408 ! glycine formimidoyltransferase activity
+BI	GO:0030410 ! nicotianamine synthase activity
+BI	GO:0030411 ! scytalone dehydratase activity
+BI	GO:0030412 ! formimidoyltetrahydrofolate cyclodeaminase activity
+BI	GO:0030429 ! kynureninase activity
+BI	GO:0030585 ! phosphoenolpyruvate carboxykinase (diphosphate) activity
+BI	GO:0030603 ! oxaloacetase activity
+BI	GO:0030604 ! 1-deoxy-D-xylulose-5-phosphate reductoisomerase activity
+BI	GO:0030699 ! glycine reductase activity
+BI	GO:0030729 ! acetoacetate-CoA ligase activity
+BI	GO:0030731 ! guanidinoacetate N-methyltransferase activity
+BI	GO:0030732 ! methionine S-methyltransferase activity
+BI	GO:0030735 ! carnosine N-methyltransferase activity
+BI	GO:0030736 ! phenol O-methyltransferase activity
+BI	GO:0030737 ! iodophenol O-methyltransferase activity
+BI	GO:0030738 ! tyramine N-methyltransferase activity
+BI	GO:0030739 ! O-demethylpuromycin O-methyltransferase activity
+BI	GO:0030740 ! inositol 3-methyltransferase activity
+BI	GO:0030741 ! inositol 1-methyltransferase activity
+BI	GO:0030744 ! luteolin O-methyltransferase activity
+BI	GO:0030745 ! dimethylhistidine N-methyltransferase activity
+BI	GO:0030747 ! indolepyruvate C-methyltransferase activity
+BI	GO:0030749 ! loganate O-methyltransferase activity
+BI	GO:0030750 ! putrescine N-methyltransferase activity
+BI	GO:0030751 ! licodione 2'-O-methyltransferase activity
+BI	GO:0030754 ! apigenin 4'-O-methyltransferase activity
+BI	GO:0030755 ! quercetin 3-O-methyltransferase activity
+BI	GO:0030756 ! isoorientin 3'-O-methyltransferase activity
+BI	GO:0030757 ! 3-methylquercitin 7-O-methyltransferase activity
+BI	GO:0030758 ! 3,7-dimethylquercitin 4'-O-methyltransferase activity
+BI	GO:0030759 ! methylquercetagetin 6-O-methyltransferase activity
+BI	GO:0030760 ! pyridine N-methyltransferase activity
+BI	GO:0030761 ! 8-hydroxyquercitin 8-O-methyltransferase activity
+BI	GO:0030762 ! tetrahydrocolumbamine 2-O-methyltransferase activity
+BI	GO:0030763 ! isobutyraldoxime O-methyltransferase activity
+BI	GO:0030766 ! 11-O-demethyl-17-O-deacetylvindoline O-methyltransferase activity
+BI	GO:0030767 ! 3-hydroxyanthranilate 4-C-methyltransferase activity
+BI	GO:0030768 ! 16-methoxy-2,3-dihydro-3-hydroxytabersonine N-methyltransferase activity
+BI	GO:0030769 ! macrocin O-methyltransferase activity
+BI	GO:0030770 ! demethylmacrocin O-methyltransferase activity
+BI	GO:0030771 ! N-benzoyl-4-hydroxyanthranilate 4-O-methyltransferase activity
+BI	GO:0030772 ! tryptophan 2-C-methyltransferase activity
+BI	GO:0030773 ! 6-hydroxymellein O-methyltransferase activity
+BI	GO:0030774 ! anthranilate N-methyltransferase activity
+BI	GO:0030776 ! (RS)-1-benzyl-1,2,3,4-tetrahydroisoquinoline N-methyltransferase activity
+BI	GO:0030777 ! (S)-scoulerine 9-O-methyltransferase activity
+BI	GO:0030778 ! columbamine O-methyltransferase activity
+BI	GO:0030779 ! 10-hydroxydihydrosanguinarine 10-O-methyltransferase activity
+BI	GO:0030780 ! 12-hydroxydihydrochelirubine 12-O-methyltransferase activity
+BI	GO:0030781 ! 6-O-methylnorlaudanosoline 5'-O-methyltransferase activity
+BI	GO:0030782 ! (S)-tetrahydroprotoberberine N-methyltransferase activity
+BI	GO:0030784 ! 3'-hydroxy-N-methyl-(S)-coclaurine 4'-O-methyltransferase activity
+BI	GO:0030786 ! (RS)-norcoclaurine 6-O-methyltransferase activity
+BI	GO:0030787 ! inositol 4-methyltransferase activity
+BI	GO:0030788 ! precorrin-2 C20-methyltransferase activity
+BI	GO:0030789 ! precorrin-3B C17-methyltransferase activity
+BI	GO:0030793 ! 3'-demethylstaurosporine O-methyltransferase activity
+BI	GO:0030794 ! (S)-coclaurine-N-methyltransferase activity
+BI	GO:0030795 ! jasmonate O-methyltransferase activity
+BI	GO:0030796 ! cycloartenol 24-C-methyltransferase activity
+BI	GO:0030797 ! 24-methylenesterol C-methyltransferase activity
+BI	GO:0030798 ! trans-aconitate 2-methyltransferase activity
+BI	GO:0030848 ! threo-3-hydroxyaspartate ammonia-lyase activity
+BI	GO:0031132 ! serine 3-dehydrogenase activity
+BI	GO:0031299 ! taurine-pyruvate aminotransferase activity
+BI	GO:0032115 ! sorbose reductase activity
+BI	GO:0032866 ! D-xylose:NADP reductase activity
+BI	GO:0033188 ! sphingomyelin synthase activity
+BI	GO:0033201 ! alpha-1,4-glucan synthase activity
+BI	GO:0033608 ! formyl-CoA transferase activity
+BI	GO:0033701 ! dTDP-galactose 6-dehydrogenase activity
+BI	GO:0033702 ! (+)-trans-carveol dehydrogenase activity
+BI	GO:0033703 ! 3beta-hydroxy-5beta-steroid dehydrogenase activity
+BI	GO:0033704 ! 3beta-hydroxy-5alpha-steroid dehydrogenase activity
+BI	GO:0033709 ! D-arabinitol dehydrogenase, D-ribulose forming (NADP+) activity
+BI	GO:0033711 ! 4-phosphoerythronate dehydrogenase activity
+BI	GO:0033712 ! 1,5-anhydro-D-fructose reductase (1,5-anhydro-D-mannitol-forming) activity
+BI	GO:0033714 ! secondary-alcohol oxidase activity
+BI	GO:0033717 ! gluconate 2-dehydrogenase (acceptor) activity
+BI	GO:0033720 ! (S)-mandelate dehydrogenase activity
+BI	GO:0033721 ! aldehyde dehydrogenase (NADP+) activity
+BI	GO:0033723 ! fluoroacetaldehyde dehydrogenase activity
+BI	GO:0033728 ! divinyl chlorophyllide a 8-vinyl-reductase activity
+BI	GO:0033730 ! arogenate dehydrogenase (NADP+) activity
+BI	GO:0033732 ! pyrroloquinoline-quinone synthase activity
+BI	GO:0033735 ! aspartate dehydrogenase activity
+BI	GO:0033735 ! aspartate dehydrogenase activity
+BI	GO:0033736 ! L-lysine 6-oxidase activity
+BI	GO:0033739 ! preQ1 synthase activity
+BI	GO:0033740 ! hydroxylamine oxidoreductase activity
+BI	GO:0033741 ! adenylyl-sulfate reductase (glutathione) activity
+BI	GO:0033743 ! peptide-methionine (R)-S-oxide reductase activity
+BI	GO:0033744 ! L-methionine:thioredoxin-disulfide S-oxidoreductase activity
+BI	GO:0033745 ! L-methionine-(R)-S-oxide reductase activity
+BI	GO:0033748 ! hydrogenase (acceptor) activity
+BI	GO:0033752 ! acetylacetone-cleaving enzyme activity
+BI	GO:0033755 ! sulfur oxygenase/reductase activity
+BI	GO:0033756 ! Oplophorus-luciferin 2-monooxygenase activity
+BI	GO:0033757 ! glucoside 3-dehydrogenase activity
+BI	GO:0033760 ! 2'-deoxymugineic-acid 2'-dioxygenase activity
+BI	GO:0033761 ! mugineic-acid 3-dioxygenase activity
+BI	GO:0033763 ! proline 3-hydroxylase activity
+BI	GO:0033766 ! 2-hydroxyquinoline 8-monooxygenase activity
+BI	GO:0033767 ! 4-hydroxyacetophenone monooxygenase activity
+BI	GO:0033770 ! 2-hydroxyisoflavanone synthase activity
+BI	GO:0033771 ! licodione synthase activity
+BI	GO:0033775 ! deoxysarpagine hydroxylase activity
+BI	GO:0033776 ! phenylacetone monooxygenase activity
+BI	GO:0033777 ! lithocholate 6beta-hydroxylase activity
+BI	GO:0033779 ! 5beta-cholestane-3alpha,7alpha-diol 12alpha-hydroxylase activity
+BI	GO:0033781 ! cholesterol 24-hydroxylase activity
+BI	GO:0033782 ! 24-hydroxycholesterol 7alpha-hydroxylase activity
+BI	GO:0033784 ! senecionine N-oxygenase activity
+BI	GO:0033787 ! cyanocobalamin reductase (cyanide-eliminating) activity
+BI	GO:0033788 ! leucoanthocyanidin reductase activity
+BI	GO:0033789 ! phenylacetyl-CoA dehydrogenase activity
+BI	GO:0033791 ! 3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase activity
+BI	GO:0033794 ! sarcosine reductase activity
+BI	GO:0033795 ! betaine reductase activity
+RL	GO:0033797 ! selenate reductase activity
+BI	GO:0033798 ! thyroxine 5-deiodinase activity
+BI	GO:0033799 ! myricetin 3'-O-methyltransferase activity
+BI	GO:0033800 ! isoflavone 7-O-methyltransferase activity
+BI	GO:0033802 ! isoliquiritigenin 2'-O-methyltransferase activity
+BI	GO:0033803 ! kaempferol 4'-O-methyltransferase activity
+BI	GO:0033806 ! fluorothreonine transaldolase activity
+BI	GO:0033808 ! 6'-deoxychalcone synthase activity
+BI	GO:0033810 ! anthocyanin 5-O-glucoside 6'''-O-malonyltransferase activity
+BI	GO:0033811 ! flavonol-3-O-triglucoside O-coumaroyltransferase activity
+BI	GO:0033812 ! 3-oxoadipyl-CoA thiolase activity
+BI	GO:0033813 ! deacetylcephalosporin-C acetyltransferase activity
+BI	GO:0033814 ! propanoyl-CoA C-acyltransferase activity
+BI	GO:0033815 ! biphenyl synthase activity
+BI	GO:0033816 ! diaminobutyrate acetyltransferase activity
+BI	GO:0033818 ! beta-ketoacyl-acyl-carrier-protein synthase III activity
+BI	GO:0033828 ! glucosylglycerol-phosphate synthase activity
+BI	GO:0033831 ! kojibiose phosphorylase activity
+BI	GO:0033836 ! flavonol 7-O-beta-glucosyltransferase activity
+BI	GO:0033838 ! flavonol-3-O-glucoside glucosyltransferase activity
+BI	GO:0033839 ! flavonol-3-O-glycoside glucosyltransferase activity
+BI	GO:0033842 ! N-acetyl-beta-glucosaminyl-glycoprotein 4-beta-N-acetylgalactosaminyltransferase activity
+BI	GO:0033846 ! adenosyl-fluoride synthase activity
+BI	GO:0033847 ! O-phosphoserine sulfhydrylase activity
+BI	GO:0033848 ! N2-(2-carboxyethyl)arginine synthase activity
+BI	GO:0033849 ! chrysanthemyl diphosphate synthase activity
+BI	GO:0033850 ! Z-farnesyl diphosphate synthase activity
+BI	GO:0033851 ! lavandulyl diphosphate synthase activity
+BI	GO:0033852 ! thyroid-hormone transaminase activity
+BI	GO:0033853 ! aspartate-prephenate aminotransferase activity
+BI	GO:0033854 ! glutamate-prephenate aminotransferase activity
+BI	GO:0033855 ! nicotianamine aminotransferase activity
+BI	GO:0033856 ! pyridoxine 5'-phosphate synthase activity
+BI	GO:0033862 ! UMP kinase activity
+BI	GO:0033863 ! ribose 1,5-bisphosphate phosphokinase activity
+BI	GO:0033870 ! thiol sulfotransferase activity
+BI	GO:0033873 ! petromyzonol sulfotransferase activity
+BI	GO:0033874 ! scymnol sulfotransferase activity
+BI	GO:0033876 ! glycochenodeoxycholate sulfotransferase activity
+BI	GO:0033877 ! succinyl-CoA:(R)-benzylsuccinate CoA-transferase activity
+BI	GO:0033880 ! phenylacetyl-CoA hydrolase activity
+BI	GO:0033881 ! bile-acid-CoA hydrolase activity
+BI	GO:0033882 ! choloyl-CoA hydrolase activity
+BI	GO:0033885 ! 10-hydroxy-9-(phosphonooxy)octadecanoate phosphatase activity
+BI	GO:0033887 ! chondro-4-sulfatase activity
+BI	GO:0033888 ! chondro-6-sulfatase activity
+BI	GO:0033960 ! N-methyl nucleosidase activity
+BI	GO:0033961 ! cis-stilbene-oxide hydrolase activity
+BI	GO:0033968 ! glutaryl-7-aminocephalosporanic-acid acylase activity
+BI	GO:0033969 ! gamma-glutamyl-gamma-aminobutyrate hydrolase activity
+BI	GO:0033970 ! N-malonylurea hydrolase activity
+BI	GO:0033971 ! hydroxyisourate hydrolase activity
+BI	GO:0033972 ! proclavaminate amidinohydrolase activity
+BI	GO:0033973 ! dCTP deaminase (dUMP-forming) activity
+BI	GO:0033978 ! phosphonopyruvate hydrolase activity
+BI	GO:0033980 ! phosphonopyruvate decarboxylase activity
+BI	GO:0033981 ! D-dopachrome decarboxylase activity
+BI	GO:0033982 ! 3-dehydro-L-gulonate-6-phosphate decarboxylase activity
+BI	GO:0033983 ! diaminobutyrate decarboxylase activity
+BI	GO:0033984 ! indole-3-glycerol-phosphate lyase activity
+BI	GO:0033987 ! 2-hydroxyisoflavanone dehydratase activity
+BI	GO:0033988 ! bile-acid 7alpha-dehydratase activity
+BI	GO:0033990 ! ectoine synthase activity
+BI	GO:0033992 ! 1,5-anhydro-D-fructose dehydratase activity
+BI	GO:0034002 ! (R)-limonene synthase activity
+BI	GO:0034003 ! vetispiradiene synthase activity
+BI	GO:0034005 ! germacrene-A synthase activity
+BI	GO:0034006 ! amorpha-4,11-diene synthase activity
+BI	GO:0034007 ! S-linalool synthase activity
+BI	GO:0034008 ! R-linalool synthase activity
+BI	GO:0034009 ! isoprene synthase activity
+BI	GO:0034010 ! sulfolactate sulfo-lyase activity
+BI	GO:0034011 ! L-cysteate sulfo-lyase activity
+BI	GO:0034015 ! L-ribulose-5-phosphate 3-epimerase activity
+BI	GO:0034016 ! polyenoic fatty acid isomerase activity
+BI	GO:0034018 ! ascopyrone tautomerase activity
+BI	GO:0034020 ! neoxanthin synthase activity
+BI	GO:0034022 ! 3-(hydroxyamino)phenol mutase activity
+BI	GO:0034023 ! 5-(carboxyamino)imidazole ribonucleotide mutase activity
+BI	GO:0034024 ! glutamate-putrescine ligase activity
+BI	GO:0034027 ! (carboxyethyl)arginine beta-lactam-synthase activity
+BI	GO:0034028 ! 5-(carboxyamino)imidazole ribonucleotide synthase activity
+BI	GO:0034029 ! 2-oxoglutarate carboxylase activity
+BI	GO:0034277 ! ent-cassa-12,15-diene synthase activity
+BI	GO:0034278 ! stemar-13-ene synthase activity
+BI	GO:0034279 ! syn-pimara-7,15-diene synthase activity
+BI	GO:0034280 ! ent-sandaracopimaradiene synthase activity
+BI	GO:0034282 ! ent-pimara-8(14),15-diene synthase activity
+BI	GO:0034283 ! syn-stemod-13(17)-ene synthase activity
+BI	GO:0034417 ! bisphosphoglycerate 3-phosphatase activity
+BI	GO:0034480 ! phosphatidylcholine phospholipase C activity
+BI	GO:0034736 ! cholesterol O-acyltransferase activity
+BI	GO:0034899 ! trimethylamine monooxygenase activity
+BI	GO:0035005 ! 1-phosphatidylinositol-4-phosphate 3-kinase activity
+BI	GO:0035299 ! inositol pentakisphosphate 2-kinase activity
+BI	GO:0035439 ! halimadienyl-diphosphate synthase activity
+BI	GO:0035446 ! cysteine-glucosaminylinositol ligase activity
+BI	GO:0035460 ! L-ascorbate 6-phosphate lactonase activity
+BI	GO:0035527 ! 3-hydroxypropionate dehydrogenase (NADP+) activity
+BI	GO:0035539 ! 8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity
+BI	GO:0035595 ! N-acetylglucosaminylinositol deacetylase activity
+BI	GO:0036188 ! abieta-7,13-dien-18-al dehydrogenase activity
+BI	GO:0036189 ! abieta-7,13-diene hydroxylase activity
+BI	GO:0036190 ! indole-2-monooxygenase activity
+BI	GO:0036190 ! indole-2-monooxygenase activity
+BI	GO:0036191 ! indolin-2-one monooxygenase activity
+BI	GO:0036191 ! indolin-2-one monooxygenase activity
+BI	GO:0036192 ! 3-hydroxyindolin-2-one monooxygenase activity
+BI	GO:0036192 ! 3-hydroxyindolin-2-one monooxygenase activity
+BI	GO:0036193 ! 2-hydroxy-1,4-benzoxazin-3-one monooxygenase activity
+BI	GO:0036193 ! 2-hydroxy-1,4-benzoxazin-3-one monooxygenase activity
+BI	GO:0036199 ! cholest-4-en-3-one 26-monooxygenase activity
+BI	GO:0036200 ! 3-ketosteroid 9-alpha-monooxygenase activity
+BI	GO:0036201 ! ent-isokaurene C2-hydroxylase activity
+BI	GO:0036202 ! ent-cassa-12,15-diene 11-hydroxylase activity
+BI	GO:0036203 ! taxoid 14-beta-hydroxylase activity
+BI	GO:0036204 ! abieta-7,13-dien-18-ol hydroxylase activity
+BI	GO:0036209 ! 9beta-pimara-7,15-diene oxidase activity
+BI	GO:0036238 ! gallate dioxygenase activity
+BI	GO:0036239 ! taxoid 7beta-hydroxylase activity
+BI	GO:0036355 ! 2-iminoacetate synthase activity
+BI	GO:0036373 ! L-fucose mutarotase activity
+BI	GO:0036374 ! glutathione hydrolase activity
+BI	GO:0036380 ! UDP-N-acetylglucosamine-undecaprenyl-phosphate N-acetylglucosaminephosphotransferase activity
+BI	GO:0036381 ! pyridoxal 5'-phosphate synthase (glutamine hydrolysing) activity
+BI	GO:0036383 ! 3-hydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione monooxygenase activity
+BI	GO:0036403 ! arachidonate 8(S)-lipoxygenase activity
+BI	GO:0036422 ! heptaprenyl diphosphate synthase activity
+BI	GO:0036423 ! hexaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific) activity
+BI	GO:0036424 ! L-phosphoserine phosphatase activity
+BI	GO:0036425 ! D-phosphoserine phosphatase activity
+BI	GO:0036426 ! ditrans, polycis-undecaprenyl-phosphate mannosyltransferase activity
+BI	GO:0036428 ! adenosylcobinamide kinase (GTP-specific) activity
+BI	GO:0036429 ! adenosylcobinamide kinase (ATP-specific) activity
+BI	GO:0036430 ! CMP kinase activity
+BI	GO:0036431 ! dCMP kinase activity
+BI	GO:0036432 ! all-trans undecaprenol kinase activity
+BI	GO:0036433 ! di-trans, poly-cis-undecaprenol kinase activity
+BI	GO:0036434 ! nitronate monooxygenase (FMN-linked) activity
+BI	GO:0036439 ! glycerol-3-phosphate dehydrogenase [NADP+] activity
+BI	GO:0036440 ! citrate synthase activity
+BI	GO:0036441 ! 2-dehydropantolactone reductase activity
+RL	GO:0036456 ! L-methionine-(S)-S-oxide reductase activity
+BI	GO:0036467 ! 5-hydroxy-L-tryptophan decarboxylase activity
+BI	GO:0036468 ! L-dopa decarboxylase activity
+BI	GO:0036469 ! L-tryptophan decarboxylase activity
+BI	GO:0042132 ! fructose 1,6-bisphosphate 1-phosphatase activity
+BI	GO:0042282 ! hydroxymethylglutaryl-CoA reductase activity
+BI	GO:0042286 ! glutamate-1-semialdehyde 2,1-aminomutase activity
+BI	GO:0042409 ! caffeoyl-CoA O-methyltransferase activity
+BI	GO:0042410 ! 6-carboxyhexanoate-CoA ligase activity
+BI	GO:0042602 ! riboflavin reductase (NADPH) activity
+BI	GO:0042736 ! NADH kinase activity
+BI	GO:0043115 ! precorrin-2 dehydrogenase activity
+BI	GO:0043682 ! copper-transporting ATPase activity
+BI	GO:0043718 ! 2-hydroxymethylglutarate dehydrogenase activity
+BI	GO:0043721 ! 4-hydroxybutanoyl-CoA dehydratase activity
+BI	GO:0043722 ! 4-hydroxyphenylacetate decarboxylase activity
+BI	GO:0043732 ! 6-hydroxynicotinate dehydrogenase activity
+BI	GO:0043740 ! GTP cyclohydrolase IIa activity
+BI	GO:0043755 ! alpha-ribazole phosphatase activity
+BI	GO:0043756 ! adenosylcobinamide hydrolase activity
+BI	GO:0043758 ! acetate-CoA ligase (ADP-forming) activity
+BI	GO:0043768 ! S-ribosylhomocysteine lyase activity
+BI	GO:0043781 ! cobalt-factor II C20-methyltransferase activity
+BI	GO:0043784 ! cob(II)yrinic acid a,c-diamide reductase activity
+BI	GO:0043785 ! cinnamoyl-CoA:phenyllactate CoA-transferase activity
+BI	GO:0043792 ! enamidase activity
+BI	GO:0043801 ! hexulose-6-phosphate synthase activity
+BI	GO:0043802 ! hydrogenobyrinic acid a,c-diamide synthase (glutamine-hydrolysing) activity
+BI	GO:0043817 ! phosphosulfolactate synthase activity
+BI	GO:0043818 ! precorrin-3B synthase activity
+BI	GO:0043819 ! precorrin-6A synthase (deacetylating) activity
+BI	GO:0043824 ! succinylglutamate-semialdehyde dehydrogenase activity
+BI	GO:0043825 ! succinylornithine transaminase activity
+BI	GO:0043831 ! thiosulfate dehydrogenase (quinone) activity
+BI	GO:0043843 ! ADP-specific glucokinase activity
+BI	GO:0043844 ! ADP-specific phosphofructokinase activity
+BI	GO:0043857 ! N-acetylornithine carbamoyltransferase activity
+BI	GO:0043866 ! adenylyl-sulfate reductase (thioredoxin) activity
+BI	GO:0043892 ! methylglyoxal reductase (NADPH-dependent) activity
+RL	GO:0043957 ! acryloyl-CoA reductase (NADP+) activity
+BI	GO:0044540 ! L-cystine L-cysteine-lyase (deaminating)
+BI	GO:0044594 ! 17-beta-hydroxysteroid dehydrogenase (NAD+) activity
+BI	GO:0044683 ! methylthiol:coenzyme M methyltransferase activity
+BI	GO:0044686 ! cysteate synthase activity
+BI	GO:0044687 ! geranylfarnesyl diphosphate synthase activity
+BI	GO:0044689 ! 7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase activity
+BI	GO:0044876 ! hercynylselenocysteine synthase
+BI	GO:0045127 ! N-acetylglucosamine kinase activity
+BI	GO:0045133 ! 2,3-dihydroxybenzoate 3,4-dioxygenase activity
+BI	GO:0045174 ! glutathione dehydrogenase (ascorbate) activity
+BI	GO:0045302 ! choloylglycine hydrolase activity
+BI	GO:0045303 ! diaminobutyrate-2-oxoglutarate transaminase activity
+BI	GO:0045437 ! uridine nucleosidase activity
+BI	GO:0045439 ! isopenicillin-N epimerase activity
+BI	GO:0045442 ! deacetoxycephalosporin-C hydroxylase activity
+BI	GO:0045480 ! galactose oxidase activity
+BI	GO:0045481 ! 6-endo-hydroxycineole dehydrogenase activity
+BI	GO:0045482 ! trichodiene synthase activity
+BI	GO:0045483 ! aristolochene synthase activity
+BI	GO:0045484 ! L-lysine 6-transaminase activity
+BI	GO:0045543 ! gibberellin 2-beta-dioxygenase activity
+BI	GO:0045548 ! phenylalanine ammonia-lyase activity
+BI	GO:0045551 ! cinnamyl-alcohol dehydrogenase activity
+BI	GO:0045552 ! dihydrokaempferol 4-reductase activity
+BI	GO:0046025 ! precorrin-6Y C5,15-methyltransferase (decarboxylating) activity
+BI	GO:0046026 ! precorrin-4 C11-methyltransferase activity
+BI	GO:0046029 ! mannitol dehydrogenase activity
+BI	GO:0046316 ! gluconokinase activity
+BI	GO:0046405 ! glycerol dehydratase activity
+BI	GO:0046406 ! magnesium protoporphyrin IX methyltransferase activity
+BI	GO:0046408 ! chlorophyll synthetase activity
+BI	GO:0046421 ! methylisocitrate lyase activity
+BI	GO:0046423 ! allene-oxide cyclase activity
+BI	GO:0046480 ! galactolipid galactosyltransferase activity
+BI	GO:0046481 ! digalactosyldiacylglycerol synthase activity
+BI	GO:0046507 ! UDPsulfoquinovose synthase activity
+BI	GO:0046509 ! 1,2-diacylglycerol 3-beta-galactosyltransferase activity
+BI	GO:0046522 ! S-methyl-5-thioribose kinase activity
+BI	GO:0046523 ! S-methyl-5-thioribose-1-phosphate isomerase activity
+BI	GO:0046524 ! sucrose-phosphate synthase activity
+BI	GO:0046526 ! D-xylulose reductase activity
+BI	GO:0046539 ! histamine N-methyltransferase activity
+BI	GO:0046547 ! trans-aconitate 3-methyltransferase activity
+BI	GO:0046553 ! D-malate dehydrogenase (decarboxylating) activity
+BI	GO:0046554 ! malate dehydrogenase (NADP+) activity
+BI	GO:0046562 ! glucose oxidase activity
+BI	GO:0046564 ! oxalate decarboxylase activity
+BI	GO:0046567 ! aphidicolan-16 beta-ol synthase activity
+BI	GO:0046570 ! methylthioribulose 1-phosphate dehydratase activity
+BI	GO:0046593 ! mandelonitrile lyase activity
+BI	GO:0046820 ! 4-amino-4-deoxychorismate synthase activity
+BI	GO:0046899 ! nucleoside triphosphate adenylate kinase activity
+BI	GO:0046917 ! triphosphoribosyl-dephospho-CoA synthase activity
+BI	GO:0046934 ! phosphatidylinositol-4,5-bisphosphate 3-kinase activity
+BI	GO:0046998 ! (S)-usnate reductase activity
+BI	GO:0047000 ! 2-dehydro-3-deoxy-D-gluconate 6-dehydrogenase activity
+BI	GO:0047001 ! 2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase activity
+BI	GO:0047002 ! L-arabinitol 2-dehydrogenase activity
+BI	GO:0047003 ! dTDP-6-deoxy-L-talose 4-dehydrogenase activity
+BI	GO:0047004 ! UDP-N-acetylglucosamine 6-dehydrogenase activity
+BI	GO:0047007 ! pregnan-21-ol dehydrogenase (NAD+) activity
+BI	GO:0047008 ! pregnan-21-ol dehydrogenase (NADP+) activity
+BI	GO:0047009 ! 3-alpha-hydroxy-5-beta-androstane-17-one 3-alpha-dehydrogenase activity
+BI	GO:0047010 ! hydroxycyclohexanecarboxylate dehydrogenase activity
+BI	GO:0047013 ! cholate 12-alpha dehydrogenase activity
+BI	GO:0047014 ! glycerol-3-phosphate 1-dehydrogenase [NADP+] activity
+BI	GO:0047015 ! 3-hydroxy-2-methylbutyryl-CoA dehydrogenase activity
+BI	GO:0047016 ! cholest-5-ene-3-beta,7-alpha-diol 3-beta-dehydrogenase activity
+BI	GO:0047017 ! prostaglandin-F synthase activity
+BI	GO:0047018 ! indole-3-acetaldehyde reductase (NADH) activity
+BI	GO:0047019 ! indole-3-acetaldehyde reductase (NADPH) activity
+BI	GO:0047020 ! 15-hydroxyprostaglandin-D dehydrogenase (NADP+) activity
+BI	GO:0047021 ! 15-hydroxyprostaglandin dehydrogenase (NADP+) activity
+BI	GO:0047024 ! 5alpha-androstane-3beta,17beta-diol dehydrogenase activity
+BI	GO:0047027 ! benzyl-2-methyl-hydroxybutyrate dehydrogenase activity
+BI	GO:0047028 ! 6-pyruvoyltetrahydropterin 2'-reductase activity
+BI	GO:0047030 ! 4-hydroxycyclohexanecarboxylate dehydrogenase activity
+BI	GO:0047031 ! diethyl 2-methyl-3-oxosuccinate reductase activity
+BI	GO:0047032 ! 3-alpha-hydroxyglycyrrhetinate dehydrogenase activity
+BI	GO:0047033 ! 15-hydroxyprostaglandin-I dehydrogenase (NADP+) activity
+BI	GO:0047035 ! testosterone dehydrogenase (NAD+) activity
+BI	GO:0047036 ! codeinone reductase (NADPH) activity
+BI	GO:0047037 ! salutaridine reductase (NADPH) activity
+BI	GO:0047038 ! D-arabinitol 2-dehydrogenase activity
+BI	GO:0047039 ! tetrahydroxynaphthalene reductase activity
+BI	GO:0047040 ! pteridine reductase activity
+BI	GO:0047041 ! (S)-carnitine 3-dehydrogenase activity
+BI	GO:0047043 ! 3-alpha-hydroxycholanate dehydrogenase activity
+BI	GO:0047045 ! testosterone 17-beta-dehydrogenase (NADP+) activity
+BI	GO:0047046 ! homoisocitrate dehydrogenase activity
+BI	GO:0047048 ! 3-hydroxybenzyl-alcohol dehydrogenase activity
+BI	GO:0047049 ! (R)-2-hydroxy-fatty acid dehydrogenase activity
+BI	GO:0047050 ! (S)-2-hydroxy-fatty acid dehydrogenase activity
+BI	GO:0047052 ! (S)-stylopine synthase activity
+BI	GO:0047053 ! (S)-cheilanthifoline synthase activity
+BI	GO:0047054 ! berbamunine synthase activity
+BI	GO:0047055 ! salutaridine synthase activity
+BI	GO:0047056 ! (S)-canadine synthase activity
+BI	GO:0047057 ! vitamin-K-epoxide reductase (warfarin-sensitive) activity
+BI	GO:0047058 ! vitamin-K-epoxide reductase (warfarin-insensitive) activity
+BI	GO:0047060 ! (R)-pantolactone dehydrogenase (flavin) activity
+BI	GO:0047061 ! glucose-fructose oxidoreductase activity
+BI	GO:0047062 ! trans-acenaphthene-1,2-diol dehydrogenase activity
+BI	GO:0047064 ! sulochrin oxidase [(+)-bisdechlorogeodin-forming] activity
+BI	GO:0047065 ! sulochrin oxidase [(-)-bisdechlorogeodin-forming] activity
+BI	GO:0047067 ! hydrogen:quinone oxidoreductase activity
+BI	GO:0047068 ! N5,N10-methenyltetrahydromethanopterin hydrogenase activity
+BI	GO:0047069 ! 7,8-dihydroxykynurenate 8,8a-dioxygenase activity
+BI	GO:0047071 ! 3,4-dihydroxy-9,10-secoandrosta-1,3,5(10)-triene-9,17-dione 4,5-dioxygenase activity
+BI	GO:0047072 ! 2,3-dihydroxybenzoate 2,3-dioxygenase activity
+BI	GO:0047073 ! 2,4'-dihydroxyacetophenone dioxygenase activity
+BI	GO:0047075 ! 2,5-dihydroxypyridine 5,6-dioxygenase activity
+BI	GO:0047077 ! Photinus-luciferin 4-monooxygenase (ATP-hydrolyzing) activity
+BI	GO:0047078 ! 3-hydroxy-4-oxoquinoline 2,4-dioxygenase activity
+BI	GO:0047079 ! deoxyuridine 1'-dioxygenase activity
+BI	GO:0047080 ! deoxyuridine 2'-dioxygenase activity
+BI	GO:0047082 ! 3,9-dihydroxypterocarpan 6a-monooxygenase activity
+BI	GO:0047083 ! 5-O-(4-coumaroyl)-D-quinate 3'-monooxygenase activity
+BI	GO:0047084 ! methyltetrahydroprotoberberine 14-monooxygenase activity
+BI	GO:0047085 ! hydroxyphenylacetonitrile 2-monooxygenase activity
+BI	GO:0047087 ! protopine 6-monooxygenase activity
+BI	GO:0047088 ! dihydrosanguinarine 10-monooxygenase activity
+BI	GO:0047089 ! dihydrochelirubine 12-monooxygenase activity
+BI	GO:0047090 ! benzoyl-CoA 3-monooxygenase activity
+BI	GO:0047091 ! L-lysine 6-monooxygenase (NADPH) activity
+BI	GO:0047092 ! 27-hydroxycholesterol 7-alpha-monooxygenase activity
+BI	GO:0047093 ! 4-hydroxyquinoline 3-monooxygenase activity
+BI	GO:0047096 ! androst-4-ene-3,17-dione monooxygenase activity
+BI	GO:0047097 ! phylloquinone monooxygenase (2,3-epoxidizing) activity
+BI	GO:0047098 ! Latia-luciferin monooxygenase (demethylating) activity
+BI	GO:0047100 ! glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) activity
+BI	GO:0047102 ! aminomuconate-semialdehyde dehydrogenase activity
+BI	GO:0047103 ! 3-alpha,7-alpha,12-alpha-trihydroxycholestan-26-al 26-oxidoreductase activity
+BI	GO:0047104 ! hexadecanal dehydrogenase (acylating) activity
+BI	GO:0047105 ! 4-trimethylammoniobutyraldehyde dehydrogenase activity
+BI	GO:0047106 ! 4-hydroxyphenylacetaldehyde dehydrogenase activity
+BI	GO:0047107 ! gamma-guanidinobutyraldehyde dehydrogenase activity
+BI	GO:0047108 ! (R)-3-hydroxyacid-ester dehydrogenase activity
+BI	GO:0047109 ! (S)-3-hydroxyacid-ester dehydrogenase activity
+BI	GO:0047110 ! phenylglyoxylate dehydrogenase (acylating) activity
+BI	GO:0047112 ! pyruvate oxidase activity
+BI	GO:0047114 ! kynurenate-7,8-dihydrodiol dehydrogenase activity
+BI	GO:0047115 ! trans-1,2-dihydrobenzene-1,2-diol dehydrogenase activity
+BI	GO:0047116 ! 1,6-dihydroxycyclohexa-2,4-diene-1-carboxylate dehydrogenase activity
+BI	GO:0047118 ! 2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate reductase activity
+BI	GO:0047119 ! 2-methyl-branched-chain-enoyl-CoA reductase activity
+BI	GO:0047120 ! (3S,4R)-3,4-dihydroxycyclohexa-1,5-diene-1,4-dicarboxylate dehydrogenase activity
+BI	GO:0047121 ! isoquinoline 1-oxidoreductase activity
+BI	GO:0047122 ! quinaldate 4-oxidoreductase activity
+BI	GO:0047123 ! quinoline-4-carboxylate 2-oxidoreductase activity
+BI	GO:0047124 ! L-erythro-3,5-diaminohexanoate dehydrogenase activity
+BI	GO:0047125 ! delta1-piperideine-2-carboxylate reductase activity
+BI	GO:0047126 ! N5-(carboxyethyl)ornithine synthase activity
+BI	GO:0047128 ! 1,2-dehydroreticulinium reductase (NADPH) activity
+BI	GO:0047129 ! opine dehydrogenase activity
+BI	GO:0047130 ! saccharopine dehydrogenase (NADP+, L-lysine-forming) activity
+BI	GO:0047131 ! saccharopine dehydrogenase (NAD+, L-glutamate-forming) activity
+BI	GO:0047135 ! bis-gamma-glutamylcystine reductase activity
+BI	GO:0047136 ! 4-(dimethylamino)phenylazoxybenzene reductase activity
+BI	GO:0047138 ! aquacobalamin reductase activity
+BI	GO:0047139 ! glutathione-homocystine transhydrogenase activity
+BI	GO:0047140 ! glutathione-CoA-glutathione transhydrogenase activity
+BI	GO:0047141 ! glutathione-cystine transhydrogenase activity
+BI	GO:0047143 ! chlorate reductase activity
+BI	GO:0047145 ! demethylsterigmatocystin 6-O-methyltransferase activity
+BI	GO:0047146 ! sterigmatocystin 7-O-methyltransferase activity
+BI	GO:0047147 ! trimethylsulfonium-tetrahydrofolate N-methyltransferase activity
+BI	GO:0047148 ! methylamine-glutamate N-methyltransferase activity
+BI	GO:0047149 ! thetin-homocysteine S-methyltransferase activity
+BI	GO:0047150 ! betaine-homocysteine S-methyltransferase activity
+BI	GO:0047152 ! methanol-5-hydroxybenzimidazolylcobamide Co-methyltransferase activity
+BI	GO:0047153 ! deoxycytidylate 5-hydroxymethyltransferase activity
+BI	GO:0047154 ! methylmalonyl-CoA carboxytransferase activity
+BI	GO:0047156 ! acetoin-ribose-5-phosphate transaldolase activity
+BI	GO:0047158 ! sinapoylglucose-sinapoylglucose O-sinapoyltransferase activity
+BI	GO:0047159 ! 1-alkenylglycerophosphocholine O-acyltransferase activity
+BI	GO:0047160 ! alkylglycerophosphate 2-O-acetyltransferase activity
+BI	GO:0047161 ! tartronate O-hydroxycinnamoyltransferase activity
+BI	GO:0047162 ! 17-O-deacetylvindoline O-acetyltransferase activity
+BI	GO:0047163 ! 3,4-dichloroaniline N-malonyltransferase activity
+BI	GO:0047164 ! isoflavone-7-O-beta-glucoside 6''-O-malonyltransferase activity
+BI	GO:0047165 ! flavonol-3-O-beta-glucoside O-malonyltransferase activity
+BI	GO:0047166 ! 1-alkenylglycerophosphoethanolamine O-acyltransferase activity
+BI	GO:0047168 ! isocitrate O-dihydroxycinnamoyltransferase activity
+BI	GO:0047169 ! galactarate O-hydroxycinnamoyltransferase activity
+BI	GO:0047170 ! glucarate O-hydroxycinnamoyltransferase activity
+BI	GO:0047171 ! glucarolactone O-hydroxycinnamoyltransferase activity
+BI	GO:0047172 ! shikimate O-hydroxycinnamoyltransferase activity
+BI	GO:0047174 ! putrescine N-hydroxycinnamoyltransferase activity
+BI	GO:0047176 ! beta-glucogallin-tetrakisgalloylglucose O-galloyltransferase activity
+BI	GO:0047180 ! salutaridinol 7-O-acetyltransferase activity
+BI	GO:0047181 ! benzophenone synthase activity
+BI	GO:0047182 ! alcohol O-cinnamoyltransferase activity
+BI	GO:0047184 ! 1-acylglycerophosphocholine O-acyltransferase activity
+BI	GO:0047185 ! N-acetylneuraminate 4-O-acetyltransferase activity
+BI	GO:0047188 ! aromatic-hydroxylamine O-acetyltransferase activity
+BI	GO:0047189 ! 2,3-diaminopropionate N-oxalyltransferase activity
+BI	GO:0047190 ! 2-acylglycerophosphocholine O-acyltransferase activity
+BI	GO:0047194 ! indoleacetylglucose-inositol O-acyltransferase activity
+BI	GO:0047198 ! cysteine-S-conjugate N-acetyltransferase activity
+BI	GO:0047199 ! phosphatidylcholine-dolichol O-acyltransferase activity
+BI	GO:0047200 ! tetrahydrodipicolinate N-acetyltransferase activity
+BI	GO:0047201 ! beta-glucogallin O-galloyltransferase activity
+BI	GO:0047202 ! sinapoylglucose-choline O-sinapoyltransferase activity
+BI	GO:0047203 ! 13-hydroxylupinine O-tigloyltransferase activity
+BI	GO:0047204 ! chlorogenate-glucarate O-hydroxycinnamoyltransferase activity
+BI	GO:0047205 ! quinate O-hydroxycinnamoyltransferase activity
+BI	GO:0047206 ! UDP-N-acetylmuramoylpentapeptide-lysine N6-alanyltransferase activity
+BI	GO:0047208 ! o-dihydroxycoumarin 7-O-glucosyltransferase activity
+BI	GO:0047209 ! coniferyl-alcohol glucosyltransferase activity
+BI	GO:0047212 ! 2-coumarate O-beta-glucosyltransferase activity
+BI	GO:0047215 ! indole-3-acetate beta-glucosyltransferase activity
+BI	GO:0047216 ! inositol 3-alpha-galactosyltransferase activity
+BI	GO:0047218 ! hydroxycinnamate 4-beta-glucosyltransferase activity
+BI	GO:0047219 ! monoterpenol beta-glucosyltransferase activity
+BI	GO:0047221 ! sn-glycerol-3-phosphate 2-alpha-galactosyltransferase activity
+BI	GO:0047222 ! mannotetraose 2-alpha-N-acetylglucosaminyltransferase activity
+BI	GO:0047223 ! beta-1,3-galactosyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase activity
+BI	GO:0047224 ! acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,3-N-acetylglucosaminyltransferase activity
+BI	GO:0047225 ! acetylgalactosaminyl-O-glycosyl-glycoprotein beta-1,6-N-acetylglucosaminyltransferase activity
+BI	GO:0047227 ! indolylacetyl-myo-inositol galactosyltransferase activity
+BI	GO:0047229 ! 13-hydroxydocosanoate 13-beta-glucosyltransferase activity
+BI	GO:0047230 ! flavonol-3-O-glucoside L-rhamnosyltransferase activity
+BI	GO:0047231 ! pyridoxine 5'-O-beta-D-glucosyltransferase activity
+BI	GO:0047232 ! galactosyl-N-acetylglucosaminylgalactosylglucosyl-ceramide beta-1,6-N-acetylglucosaminyltransferase activity
+BI	GO:0047233 ! N-acetylneuraminylgalactosylglucosylceramide beta-1,4-N-acetylgalactosaminyltransferase activity
+BI	GO:0047234 ! raffinose-raffinose alpha-galactotransferase activity
+BI	GO:0047235 ! sucrose 6F-alpha-galactotransferase activity
+BI	GO:0047236 ! methyl-ONN-azoxymethanol beta-D-glucosyltransferase activity
+BI	GO:0047239 ! hydroxymandelonitrile glucosyltransferase activity
+BI	GO:0047240 ! lactosylceramide beta-1,3-galactosyltransferase activity
+BI	GO:0047244 ! N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase activity
+BI	GO:0047245 ! N-acetylglucosaminyldiphosphoundecaprenol glucosyltransferase activity
+BI	GO:0047246 ! luteolin-7-O-glucuronide 7-O-glucuronosyltransferase activity
+BI	GO:0047247 ! luteolin-7-O-diglucuronide 4'-O-glucuronosyltransferase activity
+BI	GO:0047248 ! nuatigenin 3-beta-glucosyltransferase activity
+BI	GO:0047249 ! sarsapogenin 3-beta-glucosyltransferase activity
+BI	GO:0047250 ! 4-hydroxybenzoate 4-O-beta-D-glucosyltransferase activity
+BI	GO:0047251 ! thiohydroximate beta-D-glucosyltransferase activity
+BI	GO:0047254 ! 2,4-dihydroxy-7-methoxy-2H-1,4-benzoxazin-3(4H)-one 2-D-glucosyltransferase activity
+BI	GO:0047256 ! lactosylceramide 1,3-N-acetyl-beta-D-glucosaminyltransferase activity
+BI	GO:0047258 ! sphingosine beta-galactosyltransferase activity
+BI	GO:0047260 ! alpha,alpha-trehalose-phosphate synthase (GDP-forming) activity
+BI	GO:0047261 ! steroid N-acetylglucosaminyltransferase activity
+BI	GO:0047263 ! N-acylsphingosine galactosyltransferase activity
+BI	GO:0047268 ! galactinol-raffinose galactosyltransferase activity
+BI	GO:0047273 ! galactosylgalactosylglucosylceramide beta-D-acetylgalactosaminyltransferase activity
+BI	GO:0047274 ! galactinol-sucrose galactosyltransferase activity
+BI	GO:0047275 ! glucosaminylgalactosylglucosylceramide beta-galactosyltransferase activity
+BI	GO:0047276 ! N-acetyllactosaminide 3-alpha-galactosyltransferase activity
+BI	GO:0047277 ! globoside alpha-N-acetylgalactosaminyltransferase activity
+BI	GO:0047278 ! bilirubin-glucuronoside glucuronosyltransferase activity
+BI	GO:0047279 ! sn-glycerol-3-phosphate 1-galactosyltransferase activity
+BI	GO:0047280 ! nicotinamide phosphoribosyltransferase activity
+BI	GO:0047282 ! dTDP-dihydrostreptose-streptidine-6-phosphate dihydrostreptosyltransferase activity
+BI	GO:0047283 ! dolichyl-phosphate D-xylosyltransferase activity
+BI	GO:0047285 ! flavonol-3-O-glycoside xylosyltransferase activity
+BI	GO:0047287 ! lactosylceramide alpha-2,6-N-sialyltransferase activity
+BI	GO:0047288 ! monosialoganglioside sialyltransferase activity
+BI	GO:0047289 ! galactosyldiacylglycerol alpha-2,3-sialyltransferase activity
+BI	GO:0047290 ! (alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1,3)-N-acetyl-galactosaminide 6-alpha-sialyltransferase activity
+BI	GO:0047291 ! lactosylceramide alpha-2,3-sialyltransferase activity
+BI	GO:0047294 ! phosphoglycerol geranylgeranyltransferase activity
+BI	GO:0047295 ! geranylgeranylglycerol-phosphate geranylgeranyltransferase activity
+BI	GO:0047298 ! (S)-3-amino-2-methylpropionate transaminase activity
+BI	GO:0047299 ! tryptophan-phenylpyruvate transaminase activity
+BI	GO:0047300 ! pyridoxamine-pyruvate transaminase activity
+BI	GO:0047301 ! valine-3-methyl-2-oxovalerate transaminase activity
+BI	GO:0047303 ! glycine-oxaloacetate transaminase activity
+BI	GO:0047304 ! 2-aminoethylphosphonate-pyruvate transaminase activity
+BI	GO:0047305 ! (R)-3-amino-2-methylpropionate-pyruvate transaminase activity
+BI	GO:0047306 ! D-methionine-pyruvate transaminase activity
+BI	GO:0047307 ! diaminobutyrate-pyruvate transaminase activity
+BI	GO:0047308 ! alanine-oxomalonate transaminase activity
+BI	GO:0047309 ! dihydroxyphenylalanine transaminase activity
+BI	GO:0047310 ! glutamine-scyllo-inositol transaminase activity
+BI	GO:0047311 ! 1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol transaminase activity
+BI	GO:0047315 ! kynurenine-glyoxylate transaminase activity
+BI	GO:0047316 ! glutamine-phenylpyruvate transaminase activity
+BI	GO:0047317 ! N6-acetyl-beta-lysine transaminase activity
+BI	GO:0047319 ! aspartate-phenylpyruvate transaminase activity
+BI	GO:0047320 ! D-4-hydroxyphenylglycine transaminase activity
+BI	GO:0047324 ! phosphoenolpyruvate-glycerone phosphotransferase activity
+BI	GO:0047325 ! inositol tetrakisphosphate 1-kinase activity
+BI	GO:0047326 ! inositol tetrakisphosphate 5-kinase activity
+BI	GO:0047327 ! glycerol-3-phosphate-glucose phosphotransferase activity
+BI	GO:0047329 ! phosphoramidate-hexose phosphotransferase activity
+BI	GO:0047331 ! diphosphate-glycerol phosphotransferase activity
+BI	GO:0047332 ! diphosphate-serine phosphotransferase activity
+BI	GO:0047333 ! dihydrostreptomycin-6-phosphate 3'-alpha-kinase activity
+BI	GO:0047334 ! diphosphate-fructose-6-phosphate 1-phosphotransferase activity
+BI	GO:0047336 ! 5-methyldeoxycytidine-5'-phosphate kinase activity
+BI	GO:0047338 ! UTP:xylose-1-phosphate uridylyltransferase activity
+BI	GO:0047341 ! fucose-1-phosphate guanylyltransferase activity
+BI	GO:0047342 ! galactose-1-phosphate thymidylyltransferase activity
+BI	GO:0047343 ! glucose-1-phosphate cytidylyltransferase activity
+BI	GO:0047344 ! glucose-1-phosphate guanylyltransferase activity
+BI	GO:0047345 ! ribose-5-phosphate adenylyltransferase activity
+BI	GO:0047348 ! glycerol-3-phosphate cytidylyltransferase activity
+BI	GO:0047349 ! D-ribitol-5-phosphate cytidylyltransferase activity
+BI	GO:0047350 ! glucuronate-1-phosphate uridylyltransferase activity
+BI	GO:0047351 ! guanosine-triphosphate guanylyltransferase activity
+BI	GO:0047352 ! adenylylsulfate-ammonia adenylyltransferase activity
+BI	GO:0047353 ! N-methylphosphoethanolamine cytidylyltransferase activity
+BI	GO:0047354 ! sphingosine cholinephosphotransferase activity
+BI	GO:0047357 ! UDP-galactose-UDP-N-acetylglucosamine galactose phosphotransferase activity
+BI	GO:0047360 ! undecaprenyl-phosphate galactose phosphotransferase activity
+BI	GO:0047362 ! thiosulfate-dithiol sulfurtransferase activity
+BI	GO:0047364 ! desulfoglucosinolate sulfotransferase activity
+BI	GO:0047365 ! quercetin-3-sulfate 3'-sulfotransferase activity
+BI	GO:0047366 ! quercetin-3-sulfate 4'-sulfotransferase activity
+BI	GO:0047367 ! quercetin-3,3'-bissulfate 7-sulfotransferase activity
+BI	GO:0047368 ! UDP-N-acetylgalactosamine-4-sulfate sulfotransferase activity
+BI	GO:0047370 ! succinate-citramalate CoA-transferase activity
+BI	GO:0047371 ! butyrate-acetoacetate CoA-transferase activity
+BI	GO:0047373 ! acetoxybutynylbithiophene deacetylase activity
+BI	GO:0047374 ! methylumbelliferyl-acetate deacetylase activity
+BI	GO:0047376 ! all-trans-retinyl-palmitate hydrolase, all-trans-retinol forming activity
+BI	GO:0047377 ! 5-(3,4-diacetoxybut-1-ynyl)-2,2'-bithiophene deacetylase activity
+BI	GO:0047378 ! acetylalkylglycerol acetylhydrolase activity
+BI	GO:0047382 ! methylphosphothioglycerate phosphatase activity
+BI	GO:0047383 ! guanidinodeoxy-scyllo-inositol-4-phosphatase activity
+BI	GO:0047386 ! fructose-2,6-bisphosphate 6-phosphatase activity
+BI	GO:0047387 ! serine-ethanolaminephosphate phosphodiesterase activity
+BI	GO:0047389 ! glycerophosphocholine phosphodiesterase activity
+BI	GO:0047390 ! glycerophosphocholine cholinephosphodiesterase activity
+BI	GO:0047392 ! CMP-N-acylneuraminate phosphodiesterase activity
+BI	GO:0047393 ! glycerol-1,2-cyclic-phosphate 2-phosphodiesterase activity
+BI	GO:0047394 ! glycerophosphoinositol inositolphosphodiesterase activity
+BI	GO:0047395 ! glycerophosphoinositol glycerophosphodiesterase activity
+BI	GO:0047396 ! glycosylphosphatidylinositol diacylglycerol-lyase activity
+BI	GO:0047397 ! dolichylphosphate-glucose phosphodiesterase activity
+BI	GO:0047400 ! phosphonoacetate hydrolase activity
+BI	GO:0047401 ! trithionate hydrolase activity
+BI	GO:0047403 ! lacto-N-biosidase activity
+BI	GO:0047404 ! glucuronosyl-disulfoglucosamine glucuronidase activity
+BI	GO:0047406 ! beta-aspartyl-N-acetylglucosaminidase activity
+BI	GO:0047411 ! 2-(acetamidomethylene)succinate hydrolase activity
+BI	GO:0047413 ! N(alpha)-benzyloxycarbonylleucine hydrolase activity
+BI	GO:0047414 ! 2-(hydroxymethyl)-3-(acetamidomethylene)succinate hydrolase activity
+BI	GO:0047415 ! D-benzoylarginine-4-nitroanilide amidase activity
+BI	GO:0047420 ! N-acyl-D-amino-acid deacylase activity
+BI	GO:0047421 ! N-acyl-D-glutamate deacylase activity
+BI	GO:0047422 ! N-acyl-D-aspartate deacylase activity
+BI	GO:0047423 ! N-methylhydantoinase (ATP-hydrolyzing) activity
+BI	GO:0047425 ! 1-pyrroline-4-hydroxy-2-carboxylate deaminase activity
+BI	GO:0047426 ! ricinine nitrilase activity
+BI	GO:0047428 ! arylacetonitrilase activity
+BI	GO:0047431 ! 3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-decarboxylase activity
+BI	GO:0047432 ! 2,2-dialkylglycine decarboxylase (pyruvate) activity
+BI	GO:0047433 ! branched-chain-2-oxoacid decarboxylase activity
+BI	GO:0047434 ! indolepyruvate decarboxylase activity
+BI	GO:0047435 ! 5-guanidino-2-oxopentanoate decarboxylase activity
+BI	GO:0047436 ! arylmalonate decarboxylase activity
+BI	GO:0047437 ! 4-oxalocrotonate decarboxylase activity
+BI	GO:0047438 ! 2-dehydro-3-deoxy-L-pentonate aldolase activity
+BI	GO:0047439 ! 3-deoxy-D-manno-octulosonate aldolase activity
+BI	GO:0047440 ! 2-dehydro-3-deoxy-D-pentonate aldolase activity
+BI	GO:0047441 ! 5-dehydro-2-deoxyphosphogluconate aldolase activity
+BI	GO:0047442 ! 17-alpha-hydroxyprogesterone aldolase activity
+BI	GO:0047443 ! 4-hydroxy-4-methyl-2-oxoglutarate aldolase activity
+BI	GO:0047444 ! N-acylneuraminate-9-phosphate synthase activity
+BI	GO:0047445 ! 3-hydroxy-3-isohexenylglutaryl-CoA lyase activity
+BI	GO:0047446 ! (1-hydroxycyclohexan-1-yl)acetyl-CoA lyase activity
+BI	GO:0047447 ! erythro-3-hydroxyaspartate ammonia-lyase activity
+BI	GO:0047448 ! 5-dehydro-4-deoxyglucarate dehydratase activity
+BI	GO:0047449 ! 2-dehydro-3-deoxy-L-arabinonate dehydratase activity
+BI	GO:0047452 ! protoaphin-aglucone dehydratase (cyclizing) activity
+BI	GO:0047453 ! ATP-dependent NAD(P)H-hydrate dehydratase activity
+BI	GO:0047454 ! phaseollidin hydratase activity
+BI	GO:0047455 ! 16-alpha-hydroxyprogesterone dehydratase activity
+BI	GO:0047456 ! 2-methylisocitrate dehydratase activity
+BI	GO:0047458 ! beta-pyrazolylalanine synthase activity
+BI	GO:0047459 ! 3-aminobutyryl-CoA ammonia-lyase activity
+BI	GO:0047460 ! L-2-amino-4-chloropent-4-enoate dehydrochlorinase activity
+BI	GO:0047461 ! (+)-delta-cadinene synthase activity
+BI	GO:0047462 ! phenylalanine racemase (ATP-hydrolyzing) activity
+BI	GO:0047463 ! 2-aminohexano-6-lactam racemase activity
+BI	GO:0047464 ! heparosan-N-sulfate-glucuronate 5-epimerase activity
+BI	GO:0047465 ! N-acylglucosamine-6-phosphate 2-epimerase activity
+BI	GO:0047466 ! 2-chloro-4-carboxymethylenebut-2-en-1,4-olide isomerase activity
+BI	GO:0047469 ! 4-carboxymethyl-4-methylbutenolide mutase activity
+BI	GO:0047471 ! maltose alpha-D-glucosyltransferase activity
+BI	GO:0047472 ! 3-carboxy-cis,cis-muconate cycloisomerase activity
+BI	GO:0047475 ! phenylacetate-CoA ligase activity
+BI	GO:0047476 ! 3-alpha,7-alpha-dihydroxy-5-beta-cholestanate-CoA ligase activity
+BI	GO:0047478 ! aspartate-ammonia ligase (ADP-forming) activity
+BI	GO:0047479 ! trypanothione synthase activity
+BI	GO:0047480 ! UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase activity
+BI	GO:0047482 ! UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase activity
+BI	GO:0047483 ! imidazoleacetate-phosphoribosyldiphosphate ligase activity
+BI	GO:0047487 ! oligogalacturonide lyase activity
+BI	GO:0047493 ! ceramide cholinephosphotransferase activity
+BI	GO:0047494 ! serine-phosphoethanolamine synthase activity
+BI	GO:0047500 ! (+)-borneol dehydrogenase activity
+BI	GO:0047501 ! (+)-neomenthol dehydrogenase activity
+BI	GO:0047502 ! (+)-sabinol dehydrogenase activity
+BI	GO:0047503 ! (-)-borneol dehydrogenase activity
+BI	GO:0047504 ! (-)-menthol dehydrogenase activity
+BI	GO:0047505 ! (-)-menthol monooxygenase activity
+BI	GO:0047506 ! (deoxy)adenylate kinase activity
+BI	GO:0047507 ! (deoxy)nucleoside-phosphate kinase activity
+BI	GO:0047508 ! (R)-2-methylmalate dehydratase activity
+BI	GO:0047509 ! (R)-dehydropantoate dehydrogenase activity
+BI	GO:0047510 ! (S)-2-methylmalate dehydratase activity
+BI	GO:0047511 ! (S)-methylmalonyl-CoA hydrolase activity
+BI	GO:0047512 ! (S,S)-butanediol dehydrogenase activity
+BI	GO:0047513 ! 1,2-alpha-L-fucosidase activity
+BI	GO:0047516 ! 1,3-propanediol dehydrogenase activity
+BI	GO:0047518 ! 1-methyladenosine nucleosidase activity
+BI	GO:0047519 ! quinate dehydrogenase (quinone) activity
+BI	GO:0047520 ! 11-cis-retinyl-palmitate hydrolase activity
+BI	GO:0047521 ! 3alpha,7alpha,12beta-trihydroxy-5beta-cholanate dehydrogenase activity
+BI	GO:0047525 ! 2'-hydroxydaidzein reductase activity
+BI	GO:0047526 ! 2'-hydroxyisoflavone reductase activity
+BI	GO:0047528 ! 2,3-dihydroxyindole 2,3-dioxygenase activity
+BI	GO:0047529 ! 2,3-dimethylmalate lyase activity
+BI	GO:0047531 ! 2,5-diaminovalerate transaminase activity
+BI	GO:0047532 ! 2,5-dioxopiperazine hydrolase activity
+BI	GO:0047533 ! 2,5-dioxovalerate dehydrogenase (NADP+) activity
+BI	GO:0047535 ! 2-alkyn-1-ol dehydrogenase activity
+BI	GO:0047536 ! 2-aminoadipate transaminase activity
+BI	GO:0047537 ! 2-aminohexanoate transaminase activity
+BI	GO:0047538 ! 2-carboxy-D-arabinitol-1-phosphatase activity
+BI	GO:0047540 ! 2-enoate reductase activity
+BI	GO:0047541 ! 2-furoate-CoA ligase activity
+BI	GO:0047542 ! 2-furoyl-CoA dehydrogenase activity
+BI	GO:0047543 ! 2-hexadecenal reductase activity
+BI	GO:0047544 ! 2-hydroxybiphenyl 3-monooxygenase activity
+BI	GO:0047545 ! 2-hydroxyglutarate dehydrogenase activity
+BI	GO:0047546 ! 2-hydroxypyridine 5-monooxygenase activity
+BI	GO:0047547 ! 2-methylcitrate dehydratase activity
+BI	GO:0047548 ! 2-methyleneglutarate mutase activity
+BI	GO:0047549 ! 2-nitrophenol 2-monooxygenase activity
+BI	GO:0047550 ! 2-oxoadipate reductase activity
+BI	GO:0047551 ! 2-oxoaldehyde dehydrogenase (NAD) activity
+BI	GO:0047552 ! 2-oxoaldehyde dehydrogenase (NADP+) activity
+BI	GO:0047554 ! 2-pyrone-4,6-dicarboxylate lactonase activity
+BI	GO:0047555 ! 3',5'-cyclic-GMP phosphodiesterase activity
+BI	GO:0047556 ! 3,4-dihydroxyphthalate decarboxylase activity
+BI	GO:0047557 ! 3-aci-nitropropanoate oxidase activity
+BI	GO:0047558 ! 3-cyanoalanine hydratase activity
+BI	GO:0047560 ! 3-dehydrosphinganine reductase activity
+BI	GO:0047561 ! 3-hydroxyanthranilate oxidase activity
+BI	GO:0047562 ! 3-hydroxyaspartate aldolase activity
+BI	GO:0047563 ! 3-hydroxybenzoate 2-monooxygenase activity
+BI	GO:0047564 ! 3-hydroxycyclohexanone dehydrogenase activity
+BI	GO:0047565 ! 3-hydroxypropionate dehydrogenase (NAD+) activity
+BI	GO:0047566 ! 3-ketovalidoxylamine C-N-lyase activity
+BI	GO:0047567 ! 3-methyleneoxindole reductase activity
+BI	GO:0047569 ! 3-oxoadipate CoA-transferase activity
+BI	GO:0047570 ! 3-oxoadipate enol-lactonase activity
+BI	GO:0047572 ! 3-phosphoglycerate phosphatase activity
+BI	GO:0047573 ! 4-acetamidobutyrate deacetylase activity
+BI	GO:0047574 ! 4-acetamidobutyryl-CoA deacetylase activity
+BI	GO:0047575 ! 4-carboxymuconolactone decarboxylase activity
+BI	GO:0047576 ! 4-chlorobenzoate dehalogenase activity
+BI	GO:0047577 ! 4-hydroxybutyrate dehydrogenase activity
+BI	GO:0047578 ! 4-hydroxyglutamate transaminase activity
+BI	GO:0047579 ! 4-hydroxymandelate oxidase activity
+BI	GO:0047580 ! 4-hydroxyproline epimerase activity
+BI	GO:0047581 ! 4-methyleneglutamate-ammonia ligase activity
+BI	GO:0047582 ! 4-methyleneglutaminase activity
+BI	GO:0047583 ! 4-methyloxaloacetate esterase activity
+BI	GO:0047584 ! 4-oxalmesaconate hydratase activity
+BI	GO:0047585 ! 4-pyridoxolactonase activity
+BI	GO:0047586 ! 5'-acylphosphoadenosine hydrolase activity
+BI	GO:0047587 ! 5-alpha-hydroxysteroid dehydratase activity
+BI	GO:0047588 ! 5-aminopentanamidase activity
+BI	GO:0047589 ! 5-aminovalerate transaminase activity
+BI	GO:0047590 ! 5-dehydro-2-deoxygluconokinase activity
+BI	GO:0047591 ! 5-hydroxypentanoate CoA-transferase activity
+BI	GO:0047592 ! 5-pyridoxate dioxygenase activity
+BI	GO:0047593 ! 6-acetylglucose deacetylase activity
+BI	GO:0047594 ! 6-beta-hydroxyhyoscyamine epoxidase activity
+BI	GO:0047596 ! 6-methylsalicylate decarboxylase activity
+BI	GO:0047597 ! 6-oxocineole dehydrogenase activity
+BI	GO:0047598 ! 7-dehydrocholesterol reductase activity
+BI	GO:0047599 ! 8-oxocoformycin reductase activity
+BI	GO:0047601 ! acetate kinase (diphosphate) activity
+BI	GO:0047602 ! acetoacetate decarboxylase activity
+BI	GO:0047603 ! acetoacetyl-CoA hydrolase activity
+BI	GO:0047604 ! acetoin racemase activity
+BI	GO:0047605 ! acetolactate decarboxylase activity
+BI	GO:0047608 ! acetylindoxyl oxidase activity
+BI	GO:0047609 ! acetylputrescine deacetylase activity
+BI	GO:0047610 ! acetylsalicylate deacetylase activity
+BI	GO:0047611 ! acetylspermidine deacetylase activity
+BI	GO:0047612 ! acid-CoA ligase (GDP-forming) activity
+BI	GO:0047613 ! aconitate decarboxylase activity
+BI	GO:0047614 ! aconitate delta-isomerase activity
+BI	GO:0047617 ! acyl-CoA hydrolase activity
+BI	GO:0047618 ! acylagmatine amidase activity
+BI	GO:0047622 ! adenosine nucleosidase activity
+BI	GO:0047624 ! adenosine-tetraphosphatase activity
+BI	GO:0047625 ! adenosylmethionine cyclotransferase activity
+BI	GO:0047626 ! adenosylmethionine hydrolase activity
+BI	GO:0047627 ! adenylylsulfatase activity
+BI	GO:0047629 ! ADP deaminase activity
+BI	GO:0047630 ! ADP-phosphoglycerate phosphatase activity
+BI	GO:0047631 ! ADP-ribose diphosphatase activity
+BI	GO:0047632 ! agmatine deiminase activity
+BI	GO:0047633 ! agmatine kinase activity
+BI	GO:0047634 ! agmatine N4-coumaroyltransferase activity
+BI	GO:0047636 ! alanopine dehydrogenase activity
+BI	GO:0047638 ! albendazole monooxygenase activity
+BI	GO:0047639 ! alcohol oxidase activity
+BI	GO:0047641 ! aldose-6-phosphate reductase (NADPH) activity
+BI	GO:0047644 ! alizarin 2-beta-glucosyltransferase activity
+BI	GO:0047645 ! alkan-1-ol dehydrogenase (acceptor) activity
+BI	GO:0047647 ! alkylacetylglycerophosphatase activity
+BI	GO:0047648 ! alkylamidase activity
+BI	GO:0047649 ! alkylglycerol kinase activity
+BI	GO:0047650 ! alkylglycerone kinase activity
+BI	GO:0047651 ! alkylhalidase activity
+BI	GO:0047652 ! allantoate deiminase activity
+BI	GO:0047653 ! allantoin racemase activity
+BI	GO:0047655 ! allyl-alcohol dehydrogenase activity
+BI	GO:0047656 ! alpha,alpha-trehalose phosphorylase activity
+BI	GO:0047660 ! amidinoaspartase activity
+BI	GO:0047661 ! amino-acid racemase activity
+BI	GO:0047663 ! aminoglycoside 6'-N-acetyltransferase activity
+BI	GO:0047665 ! aminolevulinate transaminase activity
+BI	GO:0047666 ! ammonia kinase activity
+BI	GO:0047668 ! amygdalin beta-glucosidase activity
+BI	GO:0047670 ! anhydrotetracycline monooxygenase activity
+BI	GO:0047671 ! anthranilate adenylyltransferase activity
+BI	GO:0047672 ! anthranilate N-benzoyltransferase activity
+BI	GO:0047673 ! anthranilate N-malonyltransferase activity
+BI	GO:0047674 ! apiose 1-reductase activity
+BI	GO:0047675 ! arabinonate dehydratase activity
+BI	GO:0047676 ! arachidonate-CoA ligase activity
+BI	GO:0047677 ! arachidonate 8(R)-lipoxygenase activity
+BI	GO:0047678 ! arginine 2-monooxygenase activity
+BI	GO:0047679 ! arginine racemase activity
+BI	GO:0047680 ! aryl-acylamidase activity
+BI	GO:0047687 ! obsolete ascorbate 2,3-dioxygenase activity
+BI	GO:0047688 ! aspartate 4-decarboxylase activity
+BI	GO:0047689 ! aspartate racemase activity
+BI	GO:0047690 ! aspartyltransferase activity
+BI	GO:0047691 ! aspulvinone dimethylallyltransferase activity
+BI	GO:0047692 ! ATP deaminase activity
+BI	GO:0047693 ! ATP diphosphatase activity
+BI	GO:0047694 ! barbiturase activity
+BI	GO:0047695 ! benzoin aldolase activity
+BI	GO:0047697 ! beta-alanopine dehydrogenase activity
+BI	GO:0047698 ! beta-alanyl-CoA ammonia-lyase activity
+BI	GO:0047699 ! beta-diketone hydrolase activity
+BI	GO:0047700 ! beta-glucoside kinase activity
+BI	GO:0047702 ! beta-lysine 5,6-aminomutase activity
+BI	GO:0047703 ! beta-nitroacrylate reductase activity
+BI	GO:0047705 ! bilirubin oxidase activity
+BI	GO:0047706 ! biochanin-A reductase activity
+BI	GO:0047707 ! biotin-CoA ligase activity
+BI	GO:0047708 ! biotinidase activity
+BI	GO:0047709 ! bis(2-ethylhexyl)phthalate esterase activity
+BI	GO:0047710 ! bis(5'-adenosyl)-triphosphatase activity
+BI	GO:0047711 ! blasticidin-S deaminase activity
+BI	GO:0047712 ! Cypridina-luciferin 2-monooxygenase activity
+BI	GO:0047713 ! galactitol 2-dehydrogenase activity
+BI	GO:0047714 ! galactolipase activity
+BI	GO:0047715 ! hypotaurocyamine kinase activity
+BI	GO:0047716 ! imidazole N-acetyltransferase activity
+BI	GO:0047717 ! imidazoleacetate 4-monooxygenase activity
+BI	GO:0047719 ! indole 2,3-dioxygenase activity
+BI	GO:0047720 ! indoleacetaldoxime dehydratase activity
+BI	GO:0047721 ! indoleacetate-lysine synthetase activity
+BI	GO:0047722 ! indolelactate dehydrogenase activity
+BI	GO:0047723 ! inosinate nucleosidase activity
+BI	GO:0047724 ! inosine nucleosidase activity
+BI	GO:0047727 ! isobutyryl-CoA mutase activity
+BI	GO:0047728 ! carnitine 3-dehydrogenase activity
+BI	GO:0047729 ! carnitine decarboxylase activity
+BI	GO:0047730 ! carnosine synthase activity
+BI	GO:0047731 ! catechol oxidase (dimerizing) activity
+BI	GO:0047732 ! CDP-abequose epimerase activity
+BI	GO:0047733 ! CDP-glucose 4,6-dehydratase activity
+BI	GO:0047734 ! CDP-glycerol diphosphatase activity
+BI	GO:0047735 ! cellobiose dehydrogenase (acceptor) activity
+BI	GO:0047736 ! cellobiose epimerase activity
+BI	GO:0047738 ! cellobiose phosphorylase activity
+BI	GO:0047739 ! cephalosporin-C deacetylase activity
+BI	GO:0047740 ! cephalosporin-C transaminase activity
+BI	GO:0047741 ! cetraxate benzylesterase activity
+BI	GO:0047742 ! chenodeoxycholoyltaurine hydrolase activity
+BI	GO:0047743 ! chlordecone reductase activity
+BI	GO:0047744 ! chloridazon-catechol dioxygenase activity
+BI	GO:0047745 ! chlorogenate hydrolase activity
+BI	GO:0047748 ! cholestanetetraol 26-dehydrogenase activity
+BI	GO:0047749 ! cholestanetriol 26-monooxygenase activity
+BI	GO:0047750 ! cholestenol delta-isomerase activity
+BI	GO:0047751 ! cholestenone 5-alpha-reductase activity
+BI	GO:0047753 ! choline-sulfatase activity
+BI	GO:0047754 ! choline sulfotransferase activity
+BI	GO:0047755 ! isocitrate epimerase activity
+BI	GO:0047757 ! chondroitin-glucuronate 5-epimerase activity
+BI	GO:0047758 ! ATP:2-methylpropanoate phosphotransferase activity
+BI	GO:0047760 ! butyrate-CoA ligase activity
+BI	GO:0047761 ! butyrate kinase activity
+BI	GO:0047762 ! caffeate 3,4-dioxygenase activity
+BI	GO:0047763 ! caffeate O-methyltransferase activity
+BI	GO:0047766 ! carbamoyl-serine ammonia-lyase activity
+BI	GO:0047768 ! carboxy-cis,cis-muconate cyclase activity
+BI	GO:0047769 ! arogenate dehydratase activity
+BI	GO:0047771 ! carboxymethylhydantoinase activity
+BI	GO:0047772 ! carboxymethyloxysuccinate lyase activity
+BI	GO:0047773 ! carnitinamidase activity
+BI	GO:0047775 ! citramalate CoA-transferase activity
+BI	GO:0047776 ! citramalate lyase activity
+BI	GO:0047777 ! (3S)-citramalyl-CoA lyase activity
+BI	GO:0047779 ! citrate-CoA ligase activity
+BI	GO:0047780 ! citrate dehydratase activity
+BI	GO:0047781 ! citrullinase activity
+BI	GO:0047782 ! coniferin beta-glucosidase activity
+BI	GO:0047784 ! cortisol O-acetyltransferase activity
+BI	GO:0047785 ! cortisol sulfotransferase activity
+BI	GO:0047786 ! cortisone alpha-reductase activity
+BI	GO:0047788 ! 2-coumarate reductase activity
+BI	GO:0047789 ! creatininase activity
+BI	GO:0047790 ! creatinine deaminase activity
+BI	GO:0047792 ! cyanohydrin beta-glucosyltransferase activity
+BI	GO:0047793 ! cycloeucalenol cycloisomerase activity
+BI	GO:0047794 ! cyclohexadienyl dehydrogenase activity
+BI	GO:0047795 ! cyclohexane-1,2-diol dehydrogenase activity
+BI	GO:0047796 ! cyclohexane-1,3-dione hydrolase activity
+BI	GO:0047797 ! cyclohexanone dehydrogenase activity
+BI	GO:0047799 ! cyclopentanone monooxygenase activity
+BI	GO:0047800 ! cysteamine dioxygenase activity
+BI	GO:0047801 ! L-cysteine:2-oxoglutarate aminotransferase activity
+BI	GO:0047802 ! cysteine-conjugate transaminase activity
+BI	GO:0047803 ! cysteine lyase activity
+BI	GO:0047805 ! cytidylate cyclase activity
+BI	GO:0047807 ! cytokinin 7-beta-glucosyltransferase activity
+BI	GO:0047808 ! D(-)-tartrate dehydratase activity
+BI	GO:0047809 ! D-2-hydroxy-acid dehydrogenase activity
+BI	GO:0047810 ! D-alanine:2-oxoglutarate aminotransferase activity
+BI	GO:0047811 ! D-alanine gamma-glutamyltransferase activity
+BI	GO:0047812 ! D-amino-acid N-acetyltransferase activity
+BI	GO:0047813 ! D-arabinitol 4-dehydrogenase activity
+BI	GO:0047814 ! D-arabinokinase activity
+BI	GO:0047815 ! D-arabinonolactonase activity
+BI	GO:0047816 ! D-arabinose 1-dehydrogenase (NAD) activity
+BI	GO:0047817 ! D-arginase activity
+BI	GO:0047818 ! D-fuconate dehydratase activity
+BI	GO:0047820 ! D-glutamate cyclase activity
+BI	GO:0047821 ! D-glutamate oxidase activity
+BI	GO:0047822 ! hypotaurine dehydrogenase activity
+BI	GO:0047824 ! D-iditol 2-dehydrogenase activity
+BI	GO:0047825 ! D-lactate-2-sulfatase activity
+BI	GO:0047826 ! D-lysine 5,6-aminomutase activity
+BI	GO:0047827 ! D-lysopine dehydrogenase activity
+BI	GO:0047828 ! D-lyxose ketol-isomerase activity
+BI	GO:0047829 ! D-nopaline dehydrogenase activity
+BI	GO:0047830 ! D-octopine dehydrogenase activity
+BI	GO:0047831 ! D-ornithine 4,5-aminomutase activity
+BI	GO:0047832 ! D-pinitol dehydrogenase activity
+BI	GO:0047833 ! D-sorbitol dehydrogenase (acceptor) activity
+BI	GO:0047835 ! D-tryptophan N-acetyltransferase activity
+BI	GO:0047836 ! D-tryptophan N-malonyltransferase activity
+BI	GO:0047837 ! D-xylose 1-dehydrogenase (NADP+) activity
+BI	GO:0047838 ! D-xylose 1-dehydrogenase (NAD) activity
+BI	GO:0047840 ! dCTP diphosphatase activity
+BI	GO:0047841 ! dehydrogluconokinase activity
+BI	GO:0047842 ! dehydro-L-gulonate decarboxylase activity
+BI	GO:0047843 ! dehydrogluconate dehydrogenase activity
+BI	GO:0047844 ! deoxycytidine deaminase activity
+BI	GO:0047845 ! deoxylimonate A-ring-lactonase activity
+BI	GO:0047847 ! deoxyuridine phosphorylase activity
+BI	GO:0047850 ! diaminopimelate dehydrogenase activity
+BI	GO:0047853 ! difructose-anhydride synthase activity
+BI	GO:0047854 ! diguanidinobutanase activity
+BI	GO:0047855 ! dihydrobunolol dehydrogenase activity
+BI	GO:0047856 ! dihydrocoumarin hydrolase activity
+BI	GO:0047857 ! dihydrouracil oxidase activity
+BI	GO:0047858 ! dihydroxyfumarate decarboxylase activity
+BI	GO:0047860 ! diiodophenylpyruvate reductase activity
+BI	GO:0047861 ! diiodotyrosine transaminase activity
+BI	GO:0047862 ! diisopropyl-fluorophosphatase activity
+BI	GO:0047863 ! dimethylallylcistransferase activity
+BI	GO:0047864 ! dimethylaniline-N-oxide aldolase activity
+BI	GO:0047865 ! dimethylglycine dehydrogenase activity
+BI	GO:0047866 ! dimethylglycine oxidase activity
+BI	GO:0047867 ! dimethylmalate dehydrogenase activity
+BI	GO:0047868 ! dimethylmaleate hydratase activity
+BI	GO:0047869 ! dimethylpropiothetin dethiomethylase activity
+BI	GO:0047870 ! discadenine synthase activity
+BI	GO:0047871 ! disulfoglucosamine-6-sulfatase activity
+BI	GO:0047873 ! dolichyl-phosphatase activity
+BI	GO:0047874 ! dolichyldiphosphatase activity
+BI	GO:0047875 ! ecdysone oxidase activity
+BI	GO:0047877 ! ephedrine dehydrogenase activity
+BI	GO:0047878 ! erythritol kinase activity
+BI	GO:0047879 ! erythronolide synthase activity
+BI	GO:0047880 ! erythrulose reductase activity
+BI	GO:0047882 ! estradiol 6-beta-monooxygenase activity
+BI	GO:0047883 ! ethanolamine oxidase activity
+BI	GO:0047884 ! FAD diphosphatase activity
+BI	GO:0047885 ! farnesol 2-isomerase activity
+BI	GO:0047886 ! farnesol dehydrogenase activity
+BI	GO:0047887 ! farnesyl diphosphate kinase activity
+BI	GO:0047888 ! fatty acid peroxidase activity
+BI	GO:0047890 ! flavanone 4-reductase activity
+BI	GO:0047891 ! flavone 7-O-beta-glucosyltransferase activity
+BI	GO:0047893 ! flavonol 3-O-glucosyltransferase activity
+BI	GO:0047894 ! flavonol 3-sulfotransferase activity
+BI	GO:0047895 ! formaldehyde dismutase activity
+BI	GO:0047896 ! formaldehyde transketolase activity
+BI	GO:0047897 ! formate-dihydrofolate ligase activity
+BI	GO:0047899 ! formate dehydrogenase (NADP+) activity
+BI	GO:0047900 ! formate kinase activity
+BI	GO:0047901 ! formyl-CoA hydrolase activity
+BI	GO:0047902 ! formylaspartate deformylase activity
+BI	GO:0047903 ! fructose 5-dehydrogenase (NADP+) activity
+BI	GO:0047904 ! fructose 5-dehydrogenase activity
+BI	GO:0047905 ! fructose-6-phosphate phosphoketolase activity
+BI	GO:0047906 ! fucosterol-epoxide lyase activity
+BI	GO:0047907 ! furylfuramide isomerase activity
+BI	GO:0047910 ! galactose 1-dehydrogenase (NADP+) activity
+BI	GO:0047912 ! galacturonokinase activity
+BI	GO:0047913 ! gallate 1-beta-glucosyltransferase activity
+BI	GO:0047915 ! ganglioside galactosyltransferase activity
+BI	GO:0047917 ! GDP-glucosidase activity
+BI	GO:0047918 ! GDP-mannose 3,5-epimerase activity
+BI	GO:0047919 ! GDP-mannose 6-dehydrogenase activity
+BI	GO:0047920 ! geissoschizine dehydrogenase activity
+BI	GO:0047921 ! aminoglycoside 2'-N-acetyltransferase activity
+BI	GO:0047922 ! gentisate 1,2-dioxygenase activity
+BI	GO:0047923 ! gentisate decarboxylase activity
+BI	GO:0047924 ! geraniol dehydrogenase activity
+BI	GO:0047925 ! geranoyl-CoA carboxylase activity
+BI	GO:0047926 ! geranyl-diphosphate cyclase activity
+BI	GO:0047927 ! gibberellin-44 dioxygenase activity
+BI	GO:0047928 ! gibberellin beta-D-glucosyltransferase activity
+BI	GO:0047929 ! gluconate dehydratase activity
+BI	GO:0047930 ! glucosaminate ammonia-lyase activity
+BI	GO:0047931 ! glucosamine kinase activity
+BI	GO:0047932 ! glucosamine N-acetyltransferase activity
+BI	GO:0047933 ! glucose-1,6-bisphosphate synthase activity
+BI	GO:0047934 ! glucose 1-dehydrogenase (NAD+) activity
+BI	GO:0047935 ! glucose 1-dehydrogenase (NADP+) activity
+BI	GO:0047937 ! glucose-1-phosphate phosphodismutase activity
+BI	GO:0047938 ! glucose-6-phosphate 1-epimerase activity
+BI	GO:0047939 ! L-glucuronate reductase activity
+BI	GO:0047940 ! glucuronokinase activity
+BI	GO:0047941 ! glucuronolactone reductase activity
+BI	GO:0047942 ! glutamate-ethylamine ligase activity
+BI	GO:0047943 ! glutamate-methylamine ligase activity
+BI	GO:0047944 ! glutamate 1-kinase activity
+BI	GO:0047945 ! L-glutamine:pyruvate aminotransferase activity
+BI	GO:0047947 ! glutamine N-phenylacetyltransferase activity
+BI	GO:0047948 ! glutarate-CoA ligase activity
+BI	GO:0047949 ! glutarate-semialdehyde dehydrogenase activity
+BI	GO:0047950 ! glutathione oxidase activity
+BI	GO:0047951 ! glutathione thiolesterase activity
+BI	GO:0047953 ! glycerol 2-dehydrogenase (NADP+) activity
+BI	GO:0047954 ! glycerol-2-phosphatase activity
+BI	GO:0047955 ! glycerol dehydrogenase (acceptor) activity
+BI	GO:0047956 ! glycerol dehydrogenase [NADP+] activity
+BI	GO:0047957 ! 4'-methoxyisoflavone 2'-hydroxylase activity
+BI	GO:0047958 ! glycine:2-oxoglutarate aminotransferase activity
+BI	GO:0047960 ! glycine dehydrogenase activity
+BI	GO:0047962 ! glycine N-benzoyltransferase activity
+BI	GO:0047963 ! glycine N-choloyltransferase activity
+BI	GO:0047964 ! glyoxylate reductase activity
+BI	GO:0047966 ! glycosulfatase activity
+BI	GO:0047967 ! glycyrrhizinate beta-glucuronidase activity
+BI	GO:0047968 ! glyoxylate dehydrogenase (acylating) activity
+BI	GO:0047969 ! glyoxylate oxidase activity
+BI	GO:0047970 ! guanidinoacetase activity
+BI	GO:0047971 ! guanidinobutyrase activity
+BI	GO:0047972 ! guanidinopropionase activity
+BI	GO:0047973 ! guanidinoacetate kinase activity
+BI	GO:0047974 ! guanosine deaminase activity
+BI	GO:0047975 ! guanosine phosphorylase activity
+BI	GO:0047976 ! hamamelose kinase activity
+BI	GO:0047977 ! hepoxilin-epoxide hydrolase activity
+BI	GO:0047978 ! hexadecanol dehydrogenase activity
+BI	GO:0047980 ! hippurate hydrolase activity
+BI	GO:0047981 ! histidine N-acetyltransferase activity
+BI	GO:0047982 ! homocysteine desulfhydrase activity
+BI	GO:0047983 ! homoglutathione synthase activity
+BI	GO:0047985 ! hydrogen dehydrogenase activity
+BI	GO:0047986 ! hydrogen-sulfide S-acetyltransferase activity
+LR	GO:0047987 ! hydroperoxide dehydratase activity
+BI	GO:0047989 ! hydroxybutyrate-dimer hydrolase activity
+BI	GO:0047990 ! hydroxyglutamate decarboxylase activity
+BI	GO:0047991 ! hydroxylamine oxidase activity
+BI	GO:0047992 ! hydroxylysine kinase activity
+BI	GO:0047993 ! hydroxymalonate dehydrogenase activity
+BI	GO:0047994 ! hydroxymethylglutaryl-CoA hydrolase activity
+BI	GO:0047995 ! hydroxyphenylpyruvate reductase activity
+BI	GO:0047996 ! hydroxyphytanate oxidase activity
+BI	GO:0047997 ! hydroxypyruvate decarboxylase activity
+BI	GO:0047998 ! hyoscyamine (6S)-dioxygenase activity
+BI	GO:0047999 ! hyponitrite reductase activity
+BI	GO:0048000 ! isoflavone 3'-hydroxylase activity
+BI	GO:0048001 ! erythrose-4-phosphate dehydrogenase activity
+BI	GO:0048040 ! UDP-glucuronate decarboxylase activity
+BI	GO:0048045 ! trans-pentaprenyltranstransferase activity
+BI	GO:0048244 ! phytanoyl-CoA dioxygenase activity
+BI	GO:0048472 ! threonine-phosphate decarboxylase activity
+BI	GO:0050001 ! D-glutaminase activity
+BI	GO:0050002 ! D-proline reductase (dithiol) activity
+BI	GO:0050003 ! deoxycytidylate C-methyltransferase activity
+BI	GO:0050005 ! isohexenylglutaconyl-CoA hydratase activity
+BI	GO:0050006 ! isomaltulose synthase activity
+BI	GO:0050007 ! isonocardicin synthase activity
+BI	GO:0050008 ! isopiperitenone delta-isomerase activity
+BI	GO:0050009 ! isopropanol dehydrogenase (NADP+) activity
+BI	GO:0050010 ! isovitexin beta-glucosyltransferase activity
+BI	GO:0050011 ! itaconyl-CoA hydratase activity
+BI	GO:0050012 ! juglone 3-monooxygenase activity
+BI	GO:0050013 ! 2-dehydropantoate aldolase activity
+BI	GO:0050014 ! ketotetrose-phosphate aldolase activity
+BI	GO:0050015 ! kievitone hydratase activity
+BI	GO:0050016 ! kynurenine 7,8-hydroxylase activity
+BI	GO:0050017 ! L-3-cyanoalanine synthase activity
+BI	GO:0050018 ! L-amino-acid dehydrogenase activity
+BI	GO:0050019 ! L-arabinitol 4-dehydrogenase activity
+BI	GO:0050020 ! L-arabinonate dehydratase activity
+BI	GO:0050021 ! L-arabinonolactonase activity
+BI	GO:0050022 ! L-arabinose 1-dehydrogenase (NAD+) activity
+BI	GO:0050023 ! L-fuconate dehydratase activity
+BI	GO:0050024 ! L-galactonolactone oxidase activity
+BI	GO:0050025 ! L-glutamate oxidase activity
+BI	GO:0050027 ! obsolete L-idonate 2-dehydrogenase activity
+BI	GO:0050028 ! L-lysine-lactamase activity
+BI	GO:0050029 ! L-lysine oxidase activity
+BI	GO:0050030 ! L-pipecolate dehydrogenase activity
+BI	GO:0050031 ! L-pipecolate oxidase activity
+BI	GO:0050032 ! L-rhamnonate dehydratase activity
+BI	GO:0050033 ! L-rhamnono-1,4-lactonase activity
+BI	GO:0050034 ! L-rhamnose 1-dehydrogenase activity
+BI	GO:0050035 ! L-sorbose oxidase activity
+BI	GO:0050036 ! L-threonate 3-dehydrogenase activity
+BI	GO:0050037 ! L-xylose 1-dehydrogenase activity
+BI	GO:0050038 ! L-xylulose reductase (NADP+) activity
+BI	GO:0050039 ! lactaldehyde reductase (NADPH) activity
+BI	GO:0050040 ! lactate 2-monooxygenase activity
+BI	GO:0050041 ! lactate aldolase activity
+BI	GO:0050042 ! lactate-malate transhydrogenase activity
+BI	GO:0050043 ! lactate racemase activity
+BI	GO:0050044 ! galactose-6-phosphate isomerase activity
+BI	GO:0050045 ! laminaribiose phosphorylase activity
+BI	GO:0050047 ! leucine 2,3-aminomutase activity
+BI	GO:0050048 ! L-leucine:2-oxoglutarate aminotransferase activity
+BI	GO:0050049 ! leucine dehydrogenase activity
+BI	GO:0050050 ! leucine N-acetyltransferase activity
+BI	GO:0050051 ! leukotriene-B4 20-monooxygenase activity
+BI	GO:0050052 ! leukotriene-E4 20-monooxygenase activity
+BI	GO:0050054 ! lignostilbene alpha beta-dioxygenase activity
+BI	GO:0050055 ! limonin-D-ring-lactonase activity
+BI	GO:0050056 ! linalool 8-monooxygenase activity
+BI	GO:0050057 ! linamarin synthase activity
+BI	GO:0050058 ! linoleate isomerase activity
+BI	GO:0050059 ! lombricine kinase activity
+BI	GO:0050064 ! luteolin 7-O-glucuronosyltransferase activity
+BI	GO:0050065 ! lysine-pyruvate 6-transaminase activity
+BI	GO:0050066 ! lysine 2,3-aminomutase activity
+BI	GO:0050067 ! lysine 2-monooxygenase activity
+BI	GO:0050068 ! lysine carbamoyltransferase activity
+BI	GO:0050069 ! lysine dehydrogenase activity
+BI	GO:0050070 ! lysolecithin acylmutase activity
+BI	GO:0050073 ! macrolide 2'-kinase activity
+BI	GO:0050075 ! maleate hydratase activity
+BI	GO:0050076 ! maleate isomerase activity
+BI	GO:0050077 ! maleylpyruvate isomerase activity
+BI	GO:0050078 ! malonate CoA-transferase activity
+BI	GO:0050079 ! acetylenecarboxylate hydratase activity, producing 3-oxopropanoate
+BI	GO:0050080 ! malonyl-CoA decarboxylase activity
+BI	GO:0050081 ! maltose-6'-phosphate glucosidase activity
+BI	GO:0050082 ! maltose phosphorylase activity
+BI	GO:0050083 ! malyl-CoA lyase activity
+BI	GO:0050084 ! mannitol-1-phosphatase activity
+BI	GO:0050085 ! mannitol 2-dehydrogenase (NADP+) activity
+BI	GO:0050086 ! mannitol 2-dehydrogenase activity
+BI	GO:0050088 ! mannose-6-phosphate 6-reductase activity
+BI	GO:0050089 ! mannose isomerase activity
+BI	GO:0050091 ! melilotate 3-monooxygenase activity
+BI	GO:0050092 ! meso-tartrate dehydrogenase activity
+BI	GO:0050093 ! methanol dehydrogenase activity
+BI	GO:0050094 ! methionine-glyoxylate transaminase activity
+BI	GO:0050095 ! methionine decarboxylase activity
+BI	GO:0050096 ! methylaspartate ammonia-lyase activity
+BI	GO:0050097 ! methylaspartate mutase activity
+BI	GO:0050098 ! methylguanidinase activity
+BI	GO:0050099 ! methylglutamate dehydrogenase activity
+BI	GO:0050100 ! methylitaconate delta-isomerase activity
+BI	GO:0050101 ! mimosinase activity
+BI	GO:0050104 ! L-gulonate 3-dehydrogenase activity
+BI	GO:0050106 ! monomethyl-sulfatase activity
+BI	GO:0050112 ! inositol 2-dehydrogenase activity
+BI	GO:0050113 ! inositol oxygenase activity
+BI	GO:0050114 ! myo-inosose-2 dehydratase activity
+BI	GO:0050116 ! N,N-dimethylformamidase activity
+BI	GO:0050117 ! N-acetyl-beta-alanine deacetylase activity
+BI	GO:0050118 ! N-acetyldiaminopimelate deacetylase activity
+BI	GO:0050119 ! N-acetylglucosamine deacetylase activity
+BI	GO:0050120 ! N-acetylhexosamine 1-dehydrogenase activity
+BI	GO:0050121 ! N-acylglucosamine 2-epimerase activity
+BI	GO:0050122 ! N-acylhexosamine oxidase activity
+BI	GO:0050123 ! N-acylmannosamine 1-dehydrogenase activity
+BI	GO:0050124 ! N-acylneuraminate-9-phosphatase activity
+BI	GO:0050125 ! N-benzyloxycarbonylglycine hydrolase activity
+BI	GO:0050126 ! N-carbamoylputrescine amidase activity
+BI	GO:0050127 ! N-carbamoylsarcosine amidase activity
+BI	GO:0050128 ! N-feruloylglycine deacylase activity
+BI	GO:0050129 ! N-formylglutamate deformylase activity
+BI	GO:0050130 ! N-methyl-2-oxoglutaramate hydrolase activity
+BI	GO:0050132 ! N-methylalanine dehydrogenase activity
+BI	GO:0050133 ! N6-hydroxylysine O-acetyltransferase activity
+BI	GO:0050134 ! N6-methyl-lysine oxidase activity
+BI	GO:0050137 ! NADPH peroxidase activity
+BI	GO:0050138 ! nicotinate dehydrogenase activity
+BI	GO:0050139 ! nicotinate glucosyltransferase activity
+BI	GO:0050143 ! nocardicin-A epimerase activity
+BI	GO:0050145 ! nucleoside phosphate kinase activity
+BI	GO:0050150 ! o-pyrocatechuate decarboxylase activity
+BI	GO:0050151 ! oleate hydratase activity
+BI	GO:0050153 ! omega-hydroxydecanoate dehydrogenase activity
+BI	GO:0050154 ! opheline kinase activity
+BI	GO:0050155 ! ornithine(lysine) transaminase activity
+BI	GO:0050156 ! ornithine N-benzoyltransferase activity
+BI	GO:0050157 ! ornithine racemase activity
+BI	GO:0050158 ! orotate reductase (NADPH) activity
+BI	GO:0050159 ! orsellinate decarboxylase activity
+BI	GO:0050160 ! orsellinate-depside hydrolase activity
+BI	GO:0050161 ! succinyl-CoA:oxalate CoA-transferase
+LR	GO:0050162 ! oxalate oxidase activity
+BI	GO:0050163 ! oxaloacetate tautomerase activity
+BI	GO:0050164 ! oxoglutarate dehydrogenase (NADP+) activity
+BI	GO:0050165 ! pantetheine kinase activity
+BI	GO:0050166 ! pantoate 4-dehydrogenase activity
+BI	GO:0050167 ! pantothenoylcysteine decarboxylase activity
+BI	GO:0050168 ! pentanamidase activity
+BI	GO:0050172 ! phenylalanine 2-monooxygenase activity
+BI	GO:0050174 ! phenylalanine decarboxylase activity
+BI	GO:0050175 ! phenylalanine dehydrogenase activity
+BI	GO:0050176 ! phenylalanine N-acetyltransferase activity
+BI	GO:0050177 ! phenylpyruvate decarboxylase activity
+BI	GO:0050178 ! phenylpyruvate tautomerase activity
+BI	GO:0050179 ! phenylserine aldolase activity
+BI	GO:0050180 ! phloretin hydrolase activity
+BI	GO:0050181 ! phorbol-diester hydrolase activity
+BI	GO:0050182 ! phosphate butyryltransferase activity
+BI	GO:0050183 ! phosphatidylcholine 12-monooxygenase activity
+BI	GO:0050184 ! phosphatidylcholine desaturase activity
+BI	GO:0050185 ! phosphatidylinositol deacylase activity
+BI	GO:0050186 ! phosphoadenylylsulfatase activity
+BI	GO:0050187 ! phosphoamidase activity
+BI	GO:0050188 ! phosphoenolpyruvate mutase activity
+BI	GO:0050189 ! phosphoenolpyruvate phosphatase activity
+BI	GO:0050190 ! phosphoglucokinase activity
+BI	GO:0050191 ! phosphoglycerate kinase (GTP) activity
+BI	GO:0050192 ! phosphoglycerate phosphatase activity
+BI	GO:0050193 ! phosphoketolase activity
+BI	GO:0050194 ! phosphonoacetaldehyde hydrolase activity
+BI	GO:0050195 ! phosphoribokinase activity
+BI	GO:0050197 ! phytanate-CoA ligase activity
+BI	GO:0050198 ! pinosylvin synthase activity
+BI	GO:0050199 ! piperidine N-piperoyltransferase activity
+BI	GO:0050201 ! fucokinase activity
+BI	GO:0050202 ! octopamine dehydratase activity
+BI	GO:0050203 ! oxalate-CoA ligase activity
+BI	GO:0050204 ! oxalomalate lyase activity
+BI	GO:0050205 ! oxamate carbamoyltransferase activity
+BI	GO:0050206 ! oximinotransferase activity
+BI	GO:0050207 ! plasmanylethanolamine desaturase activity
+BI	GO:0050210 ! prenyl-diphosphatase activity
+BI	GO:0050212 ! progesterone 11-alpha-monooxygenase activity
+BI	GO:0050213 ! progesterone 5-alpha-reductase activity
+BI	GO:0050214 ! progesterone monooxygenase activity
+BI	GO:0050215 ! propanediol dehydratase activity
+BI	GO:0050216 ! propanediol-phosphate dehydrogenase activity
+BI	GO:0050217 ! propioin synthase activity
+BI	GO:0050218 ! propionate-CoA ligase activity
+BI	GO:0050219 ! prostaglandin-A1 delta-isomerase activity
+BI	GO:0050220 ! prostaglandin-E synthase activity
+BI	GO:0050221 ! prostaglandin-E2 9-reductase activity
+BI	GO:0050223 ! protocatechuate decarboxylase activity
+BI	GO:0050224 ! prunasin beta-glucosidase activity
+BI	GO:0050225 ! pseudouridine kinase activity
+BI	GO:0050228 ! pterin deaminase activity
+BI	GO:0050229 ! pterocarpin synthase activity
+BI	GO:0050231 ! putrescine carbamoyltransferase activity
+BI	GO:0050232 ! putrescine oxidase activity
+BI	GO:0050233 ! pyranose oxidase activity
+BI	GO:0050234 ! pyrazolylalanine synthase activity
+BI	GO:0050235 ! pyridoxal 4-dehydrogenase activity
+BI	GO:0050236 ! pyridoxine:NADP 4-dehydrogenase activity
+BI	GO:0050237 ! pyridoxine 4-oxidase activity
+BI	GO:0050238 ! pyridoxine 5-dehydrogenase activity
+BI	GO:0050239 ! pyrithiamine deaminase activity
+BI	GO:0050240 ! pyrogallol 1,2-oxygenase activity
+BI	GO:0050242 ! pyruvate, phosphate dikinase activity
+BI	GO:0050243 ! pyruvate dehydrogenase (NADP+) activity
+BI	GO:0050244 ! pyruvate oxidase (CoA-acetylating) activity
+BI	GO:0050245 ! quercitrinase activity
+BI	GO:0050246 ! questin monooxygenase activity
+BI	GO:0050247 ! raucaffricine beta-glucosidase activity
+BI	GO:0050248 ! Renilla-luciferin 2-monooxygenase activity
+BI	GO:0050249 ! Renilla-luciferin sulfotransferase activity
+BI	GO:0050250 ! retinal oxidase activity
+BI	GO:0050251 ! retinol isomerase activity
+BI	GO:0050252 ! retinol O-fatty-acyltransferase activity
+BI	GO:0050253 ! retinyl-palmitate esterase activity
+BI	GO:0050255 ! ribitol 2-dehydrogenase activity
+BI	GO:0050257 ! riboflavin phosphotransferase activity
+BI	GO:0050258 ! riboflavinase activity
+BI	GO:0050259 ! ribose 1-dehydrogenase (NADP+) activity
+BI	GO:0050260 ! ribose-5-phosphate-ammonia ligase activity
+BI	GO:0050261 ! ribose isomerase activity
+BI	GO:0050262 ! ribosylnicotinamide kinase activity
+BI	GO:0050264 ! rifamycin-B oxidase activity
+BI	GO:0050266 ! rosmarinate synthase activity
+BI	GO:0050268 ! coniferyl-alcohol dehydrogenase activity
+BI	GO:0050270 ! S-adenosylhomocysteine deaminase activity
+BI	GO:0050271 ! S-alkylcysteine lyase activity
+BI	GO:0050272 ! S-carboxymethylcysteine synthase activity
+BI	GO:0050273 ! S-succinylglutathione hydrolase activity
+BI	GO:0050274 ! salicyl-alcohol beta-D-glucosyltransferase activity
+BI	GO:0050275 ! scopoletin glucosyltransferase activity
+BI	GO:0050276 ! scyllo-inosamine 4-kinase activity
+BI	GO:0050277 ! sedoheptulokinase activity
+BI	GO:0050278 ! sedoheptulose-bisphosphatase activity
+BI	GO:0050279 ! sepiapterin deaminase activity
+BI	GO:0050280 ! sequoyitol dehydrogenase activity
+BI	GO:0050281 ! serine-glyoxylate transaminase activity
+BI	GO:0050282 ! serine 2-dehydrogenase activity
+BI	GO:0050283 ! serine-sulfate ammonia-lyase activity
+BI	GO:0050284 ! sinapate 1-glucosyltransferase activity
+BI	GO:0050285 ! sinapine esterase activity
+BI	GO:0050286 ! sorbitol-6-phosphatase activity
+BI	GO:0050287 ! sorbose 5-dehydrogenase (NADP+) activity
+BI	GO:0050288 ! sorbose dehydrogenase activity
+BI	GO:0050289 ! spermidine dehydrogenase activity
+BI	GO:0050290 ! sphingomyelin phosphodiesterase D activity
+BI	GO:0050291 ! sphingosine N-acyltransferase activity
+BI	GO:0050292 ! steroid 9-alpha-monooxygenase activity
+BI	GO:0050293 ! steroid-lactonase activity
+BI	GO:0050295 ! steryl-beta-glucosidase activity
+BI	GO:0050296 ! stipitatonate decarboxylase activity
+BI	GO:0050297 ! stizolobate synthase activity
+BI	GO:0050298 ! stizolobinate synthase activity
+BI	GO:0050299 ! streptomycin 3''-kinase activity
+BI	GO:0050300 ! aminoglycoside 6-kinase activity
+BI	GO:0050301 ! streptomycin-6-phosphatase activity
+BI	GO:0050302 ! indole-3-acetaldehyde oxidase activity
+BI	GO:0050305 ! strombine dehydrogenase activity
+BI	GO:0050306 ! sucrose 1F-fructosyltransferase activity
+BI	GO:0050307 ! sucrose-phosphate phosphatase activity
+BI	GO:0050314 ! sym-norspermidine synthase activity
+BI	GO:0050315 ! synephrine dehydratase activity
+BI	GO:0050317 ! tagatose kinase activity
+BI	GO:0050318 ! tannase activity
+BI	GO:0050319 ! tartrate decarboxylase activity
+BI	GO:0050320 ! tartrate epimerase activity
+BI	GO:0050322 ! taurine-2-oxoglutarate transaminase activity
+BI	GO:0050323 ! taurine dehydrogenase activity
+BI	GO:0050324 ! taurocyamine kinase activity
+BI	GO:0050325 ! tauropine dehydrogenase activity
+BI	GO:0050328 ! tetrahydroberberine oxidase activity
+BI	GO:0050329 ! tetrahydroxypteridine cycloisomerase activity
+BI	GO:0050330 ! theanine hydrolase activity
+BI	GO:0050331 ! thiamine-diphosphate kinase activity
+BI	GO:0050332 ! thiamine pyridinylase activity
+BI	GO:0050333 ! thiamin-triphosphatase activity
+BI	GO:0050334 ! thiaminase activity
+BI	GO:0050335 ! thiocyanate isomerase activity
+BI	GO:0050336 ! thioethanolamine S-acetyltransferase activity
+BI	GO:0050337 ! thiosulfate-thiol sulfurtransferase activity
+BI	GO:0050339 ! thymidine-triphosphatase activity
+BI	GO:0050340 ! thymidylate 5'-phosphatase activity
+BI	GO:0050341 ! thymine dioxygenase activity
+BI	GO:0050342 ! tocopherol O-methyltransferase activity
+BI	GO:0050344 ! trans-cinnamate 2-monooxygenase activity
+BI	GO:0050345 ! trans-epoxysuccinate hydrolase activity
+BI	GO:0050346 ! trans-L-3-hydroxyproline dehydratase activity
+BI	GO:0050347 ! trans-octaprenyltranstransferase activity
+BI	GO:0050348 ! trehalose O-mycolyltransferase activity
+BI	GO:0050349 ! triacetate-lactonase activity
+BI	GO:0050350 ! trihydroxystilbene synthase activity
+BI	GO:0050351 ! trimetaphosphatase activity
+BI	GO:0050352 ! trimethylamine-oxide aldolase activity
+BI	GO:0050353 ! trimethyllysine dioxygenase activity
+BI	GO:0050354 ! triokinase activity
+BI	GO:0050355 ! triphosphatase activity
+BI	GO:0050356 ! tropine dehydrogenase activity
+BI	GO:0050357 ! tropinesterase activity
+BI	GO:0050358 ! tropinone reductase activity
+BI	GO:0050360 ! tryptophan 2'-dioxygenase activity
+BI	GO:0050361 ! tryptophan 2-monooxygenase activity
+BI	GO:0050362 ! L-tryptophan:2-oxoglutarate aminotransferase activity
+BI	GO:0050364 ! tryptophan dimethylallyltransferase activity
+BI	GO:0050365 ! tryptophanamidase activity
+BI	GO:0050366 ! tyramine N-feruloyltransferase activity
+BI	GO:0050367 ! tyrosine-arginine ligase activity
+BI	GO:0050368 ! tyrosine 2,3-aminomutase activity
+BI	GO:0050371 ! tyrosine phenol-lyase activity
+BI	GO:0050373 ! UDP-arabinose 4-epimerase activity
+BI	GO:0050374 ! UDP-galacturonate decarboxylase activity
+BI	GO:0050376 ! UDP-glucosamine 4-epimerase activity
+BI	GO:0050377 ! UDP-glucose 4,6-dehydratase activity
+BI	GO:0050378 ! UDP-glucuronate 4-epimerase activity
+BI	GO:0050379 ! UDP-glucuronate 5'-epimerase activity
+BI	GO:0050382 ! uracil-5-carboxylate decarboxylase activity
+BI	GO:0050384 ! urate-ribonucleotide phosphorylase activity
+BI	GO:0050385 ! ureidoglycolate lyase activity
+BI	GO:0050386 ! ureidosuccinase activity
+BI	GO:0050387 ! urethanase activity
+BI	GO:0050388 ! uronate dehydrogenase activity
+BI	GO:0050389 ! uronolactonase activity
+BI	GO:0050390 ! valine decarboxylase activity
+BI	GO:0050391 ! valine dehydrogenase (NADP) activity
+BI	GO:0050392 ! vicianin beta-glucosidase activity
+BI	GO:0050393 ! vinylacetyl-CoA delta-isomerase activity
+BI	GO:0050394 ! viomycin kinase activity
+BI	GO:0050395 ! vitexin beta-glucosyltransferase activity
+BI	GO:0050396 ! vomifoliol 4'-dehydrogenase activity
+BI	GO:0050397 ! Watasenia-luciferin 2-monooxygenase activity
+BI	GO:0050399 ! xanthommatin reductase activity
+BI	GO:0050400 ! xylitol kinase activity
+BI	GO:0050401 ! xylonate dehydratase activity
+BI	GO:0050402 ! xylono-1,4-lactonase activity
+BI	GO:0050403 ! trans-zeatin O-beta-D-glucosyltransferase activity
+BI	GO:0050404 ! zeatin O-beta-D-xylosyltransferase activity
+BI	GO:0050409 ! indolylacetylinositol arabinosyltransferase activity
+BI	GO:0050410 ! 3-oxolaurate decarboxylase activity
+BI	GO:0050412 ! cinnamate beta-D-glucosyltransferase activity
+BI	GO:0050413 ! D-alanine 2-hydroxymethyltransferase activity
+BI	GO:0050414 ! formimidoylaspartate deiminase activity
+BI	GO:0050415 ! formimidoylglutamase activity
+BI	GO:0050416 ! formimidoylglutamate deiminase activity
+BI	GO:0050418 ! hydroxylamine reductase activity
+BI	GO:0050419 ! hydroxymandelonitrile lyase activity
+BI	GO:0050420 ! maltose synthase activity
+BI	GO:0050422 ! strictosidine beta-glucosidase activity
+BI	GO:0050423 ! thiamine oxidase activity
+BI	GO:0050437 ! (-)-endo-fenchol synthase activity
+BI	GO:0050438 ! 2-ethylmalate synthase activity
+BI	GO:0050439 ! 2-hydroxy-3-oxoadipate synthase activity
+BI	GO:0050440 ! 2-methylcitrate synthase activity
+BI	GO:0050441 ! 3-ethylmalate synthase activity
+BI	GO:0050442 ! 3-propylmalate synthase activity
+BI	GO:0050444 ! aquacobalamin reductase (NADPH) activity
+BI	GO:0050445 ! asparagusate reductase activity
+BI	GO:0050446 ! azobenzene reductase activity
+BI	GO:0050447 ! zeatin 9-aminocarboxyethyltransferase activity
+LR	GO:0050448 ! beta-cyclopiazonate dehydrogenase activity
+BI	GO:0050449 ! casbene synthase activity
+BI	GO:0050452 ! CoA-glutathione reductase activity
+BI	GO:0050453 ! cob(II)alamin reductase activity
+BI	GO:0050454 ! coenzyme F420 hydrogenase activity
+BI	GO:0050455 ! columbamine oxidase activity
+BI	GO:0050456 ! cystine reductase activity
+BI	GO:0050457 ! decylcitrate synthase activity
+BI	GO:0050458 ! decylhomocitrate synthase activity
+BI	GO:0050459 ! ethanolamine-phosphate phospho-lyase activity
+BI	GO:0050460 ! hydroxylamine reductase (NADH) activity
+BI	GO:0050461 ! L-mimosine synthase activity
+BI	GO:0050462 ! N-acetylneuraminate synthase activity
+BI	GO:0050464 ! nitrate reductase (NADPH) activity
+BI	GO:0050467 ! pentalenene synthase activity
+BI	GO:0050468 ! reticuline oxidase activity
+BI	GO:0050469 ! sabinene-hydrate synthase activity
+BI	GO:0050471 ! uracilylalanine synthase activity
+BI	GO:0050472 ! zeatin reductase activity
+BI	GO:0050473 ! arachidonate 15-lipoxygenase activity
+BI	GO:0050474 ! (S)-norcoclaurine synthase activity
+BI	GO:0050476 ! acetylenedicarboxylate decarboxylase activity
+BI	GO:0050477 ! acyl-lysine deacylase activity
+BI	GO:0050478 ! anthranilate 3-monooxygenase activity
+BI	GO:0050480 ! imidazolonepropionase activity
+BI	GO:0050481 ! mandelate 4-monooxygenase activity
+BI	GO:0050487 ! sulfoacetaldehyde acetyltransferase activity
+BI	GO:0050491 ! sulcatone reductase activity
+BI	GO:0050500 ! 1,3-beta-galactosyl-N-acetylhexosamine phosphorylase activity
+BI	GO:0050502 ! cis-zeatin O-beta-D-glucosyltransferase activity
+BI	GO:0050503 ! trehalose 6-phosphate phosphorylase activity
+BI	GO:0050504 ! mannosyl-3-phosphoglycerate synthase activity
+BI	GO:0050505 ! hydroquinone glucosyltransferase activity
+BI	GO:0050506 ! vomilenine glucosyltransferase activity
+BI	GO:0050507 ! indoxyl-UDPG glucosyltransferase activity
+BI	GO:0050512 ! lactosylceramide 4-alpha-galactosyltransferase activity
+BI	GO:0050513 ! glycoprotein 2-beta-D-xylosyltransferase activity
+BI	GO:0050514 ! homospermidine synthase (spermidine-specific) activity
+BI	GO:0050515 ! 4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase activity
+BI	GO:0050518 ! 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase activity
+BI	GO:0050520 ! phosphatidylcholine synthase activity
+BI	GO:0050524 ! coenzyme-B sulfoethylthiotransferase activity
+BI	GO:0050529 ! polyneuridine-aldehyde esterase activity
+BI	GO:0050530 ! glucosylglycerol 3-phosphatase activity
+BI	GO:0050531 ! mannosyl-3-phosphoglycerate phosphatase activity
+BI	GO:0050532 ! 2-phosphosulfolactate phosphatase activity
+BI	GO:0050533 ! 5-phytase activity
+BI	GO:0050536 ! (S)-N-acetyl-1-phenylethylamine hydrolase activity
+BI	GO:0050537 ! mandelamide amidase activity
+BI	GO:0050539 ! maleimide hydrolase activity
+BI	GO:0050540 ! 2-aminomuconate deaminase activity
+BI	GO:0050545 ! sulfopyruvate decarboxylase activity
+BI	GO:0050546 ! 4-hydroxyphenylpyruvate decarboxylase activity
+BI	GO:0050547 ! vanillin synthase activity
+BI	GO:0050548 ! trans-feruloyl-CoA hydratase activity
+BI	GO:0050549 ! cyclohexyl-isocyanide hydratase activity
+BI	GO:0050551 ! myrcene synthase activity
+BI	GO:0050552 ! (4S)-limonene synthase activity
+BI	GO:0050553 ! taxadiene synthase activity
+BI	GO:0050554 ! abietadiene synthase activity
+BI	GO:0050556 ! deacetylisoipecoside synthase activity
+BI	GO:0050557 ! deacetylipecoside synthase activity
+BI	GO:0050558 ! maltose epimerase activity
+BI	GO:0050559 ! copalyl diphosphate synthase activity
+BI	GO:0050561 ! glutamate-tRNA(Gln) ligase activity
+BI	GO:0050564 ! N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase activity
+BI	GO:0050565 ! aerobactin synthase activity
+BI	GO:0050566 ! asparaginyl-tRNA synthase (glutamine-hydrolyzing) activity
+BI	GO:0050567 ! glutaminyl-tRNA synthase (glutamine-hydrolyzing) activity
+BI	GO:0050569 ! glycolaldehyde dehydrogenase activity
+BI	GO:0050571 ! 1,5-anhydro-D-fructose reductase activity
+BI	GO:0050574 ! 2-(R)-hydroxypropyl-CoM dehydrogenase activity
+BI	GO:0050575 ! 2-(S)-hydroxypropyl-CoM dehydrogenase activity
+BI	GO:0050577 ! GDP-L-fucose synthase activity
+BI	GO:0050579 ! vellosimine dehydrogenase activity
+BI	GO:0050580 ! 2,5-didehydrogluconate reductase activity
+BI	GO:0050581 ! D-mannitol oxidase activity
+BI	GO:0050583 ! hydrogen dehydrogenase (NADP+) activity
+BI	GO:0050584 ! linoleate 11-lipoxygenase activity
+BI	GO:0050585 ! 4-hydroxymandelate synthase activity
+BI	GO:0050586 ! 3-hydroxy-2-methylquinolin-4-one 2,4-dioxygenase activity
+BI	GO:0050587 ! chlorite O2-lyase activity
+BI	GO:0050588 ! apo-beta-carotenoid-14',13'-dioxygenase activity
+BI	GO:0050590 ! desacetoxyvindoline 4-hydroxylase activity
+BI	GO:0050591 ! quinine 3-monooxygenase activity
+BI	GO:0050592 ! 4-hydroxyphenylacetaldehyde oxime monooxygenase activity
+BI	GO:0050593 ! N-methylcoclaurine 3'-monooxygenase activity
+BI	GO:0050594 ! tabersonine 16-hydroxylase activity
+BI	GO:0050595 ! 7-deoxyloganin 7-hydroxylase activity
+BI	GO:0050596 ! vinorine hydroxylase activity
+BI	GO:0050597 ! taxane 10-beta-hydroxylase activity
+BI	GO:0050598 ! taxane 13-alpha-hydroxylase activity
+BI	GO:0050599 ! deacetoxycephalosporin-C synthase activity
+BI	GO:0050603 ! thiophene-2-carbonyl-CoA monooxygenase activity
+BI	GO:0050604 ! taxadiene 5-alpha-hydroxylase activity
+BI	GO:0050606 ! 4-carboxy-2-hydroxymuconate semialdehyde hemiacetal dehydrogenase activity
+BI	GO:0050608 ! vanillin dehydrogenase activity
+BI	GO:0050609 ! phosphonate dehydrogenase activity
+BI	GO:0050610 ! methylarsonate reductase activity
+BI	GO:0050612 ! arsenate reductase (donor) activity
+BI	GO:0050613 ! delta14-sterol reductase activity
+BI	GO:0050614 ! delta24-sterol reductase activity
+BI	GO:0050615 ! 1,2-dihydrovomilenine reductase activity
+BI	GO:0050616 ! secologanin synthase activity
+BI	GO:0050621 ! tryptophan alpha,beta-oxidase activity
+BI	GO:0050622 ! glycine dehydrogenase (cyanide-forming) activity
+BI	GO:0050623 ! berberine reductase activity
+BI	GO:0050624 ! vomilenine reductase activity
+BI	GO:0050625 ! 2-hydroxy-1,4-benzoquinone reductase activity
+BI	GO:0050628 ! 2-oxopropyl-CoM reductase (carboxylating) activity
+BI	GO:0050629 ! tetrachloroethene reductive dehalogenase activity
+BI	GO:0050630 ! (iso)eugenol O-methyltransferase activity
+BI	GO:0050631 ! corydaline synthase activity
+BI	GO:0050632 ! propionyl-CoA C2-trimethyltridecanoyltransferase activity
+BI	GO:0050633 ! acetyl-CoA C-myristoyltransferase activity
+BI	GO:0050634 ! phloroisovalerophenone synthase activity
+BI	GO:0050635 ! acridone synthase activity
+BI	GO:0050636 ! vinorine synthase activity
+BI	GO:0050637 ! lovastatin nonaketide synthase activity
+BI	GO:0050638 ! taxadien-5-alpha-ol O-acetyltransferase activity
+BI	GO:0050639 ! 10-hydroxytaxane O-acetyltransferase activity
+BI	GO:0050640 ! isopenicillin-N N-acyltransferase activity
+BI	GO:0050641 ! 6-methylsalicylic acid synthase activity
+BI	GO:0050642 ! 2-alpha-hydroxytaxane 2-O-benzoyltransferase activity
+BI	GO:0050643 ! 10-deacetylbaccatin III 10-O-acetyltransferase activity
+BI	GO:0050644 ! cis-p-coumarate glucosyltransferase activity
+BI	GO:0050645 ! limonoid glucosyltransferase activity
+BI	GO:0050695 ! benzoylformate decarboxylase activity
+BI	GO:0050797 ! thymidylate synthase (FAD) activity
+BI	GO:0051108 ! carnitine-CoA ligase activity
+BI	GO:0051109 ! crotonobetaine-CoA ligase activity
+BI	GO:0051116 ! cobaltochelatase activity
+BI	GO:0051266 ! sirohydrochlorin ferrochelatase activity
+BI	GO:0051498 ! syn-copalyl diphosphate synthase activity
+BI	GO:0051786 ! all-trans-retinol 13,14-reductase activity
+BI	GO:0051903 ! S-(hydroxymethyl)glutathione dehydrogenase activity
+BI	GO:0051903 ! S-(hydroxymethyl)glutathione dehydrogenase activity
+BI	GO:0051907 ! S-(hydroxymethyl)glutathione synthase activity
+BI	GO:0051911 ! Methanosarcina-phenazine hydrogenase activity
+BI	GO:0051912 ! CoB--CoM heterodisulfide reductase activity
+BI	GO:0051921 ! adenosylcobyric acid synthase (glutamine-hydrolyzing) activity
+BI	GO:0051989 ! coproporphyrinogen dehydrogenase activity
+RL	GO:0052581 ! (-)-isopiperitenone reductase activity
+BI	GO:0052582 ! (+)-menthofuran synthase activity
+BI	GO:0052587 ! diacetyl reductase ((R)-acetoin forming) activity
+BI	GO:0052588 ! diacetyl reductase ((S)-acetoin forming) activity
+BI	GO:0052595 ! aliphatic-amine oxidase activity
+BI	GO:0052596 ! phenethylamine:oxygen oxidoreductase (deaminating) activity
+BI	GO:0052598 ! histamine oxidase activity
+BI	GO:0052601 ! (S)-limonene 1,2-monooxygenase activity
+BI	GO:0052601 ! (S)-limonene 1,2-monooxygenase activity
+BI	GO:0052606 ! chlorophyllide a oxygenase activity
+BI	GO:0052607 ! 7-hydroxy-chlorophyllide a oxygenase activity
+BI	GO:0052618 ! coenzyme F420-0:L-glutamate ligase activity
+BI	GO:0052619 ! coenzyme F420-1:gamma-L-glutamate ligase activity
+BI	GO:0052621 ! diguanylate cyclase activity
+BI	GO:0052633 ! isocitrate hydro-lyase (cis-aconitate-forming) activity
+BI	GO:0052650 ! NADP-retinol dehydrogenase activity
+BI	GO:0052658 ! inositol-1,4,5-trisphosphate 5-phosphatase activity
+BI	GO:0052659 ! inositol-1,3,4,5-tetrakisphosphate 5-phosphatase activity
+BI	GO:0052660 ! R-lactaldehyde reductase activity
+BI	GO:0052661 ! S-lactaldehyde reductase activity
+BI	GO:0052662 ! zeaxanthin epoxidase activity
+BI	GO:0052662 ! zeaxanthin epoxidase activity
+BI	GO:0052663 ! antheraxanthin epoxidase activity
+BI	GO:0052663 ! antheraxanthin epoxidase activity
+LR	GO:0052667 ! phosphomethylethanolamine N-methyltransferase activity
+BI	GO:0052674 ! ent-pimara-9(11),15-diene synthase activity
+BI	GO:0052675 ! 3-methylbutanol:NADP oxidoreductase activity
+BI	GO:0052676 ! 3-methylbutanol:NAD oxidoreductase activity
+BI	GO:0052677 ! D-arabinitol dehydrogenase, D-xylulose forming (NADP+) activity
+BI	GO:0052678 ! levopimaradiene synthase activity
+BI	GO:0052679 ! terpentetriene synthase activity
+BI	GO:0052680 ! epi-isozizaene synthase activity
+BI	GO:0052681 ! alpha-bisabolene synthase activity
+BI	GO:0052682 ! epi-cedrol synthase activity
+BI	GO:0052683 ! (Z)-gamma-bisabolene synthase activity
+LR	GO:0052684 ! L-serine hydro-lyase (adding indole, L-tryptophan-forming) activity
+BI	GO:0052691 ! UDP-arabinopyranose mutase activity
+BI	GO:0052729 ! dimethylglycine N-methyltransferase activity
+BI	GO:0052730 ! sarcosine N-methyltransferase activity
+BI	GO:0052731 ! phosphocholine phosphatase activity
+BI	GO:0052732 ! phosphoethanolamine phosphatase activity
+BI	GO:0052733 ! quinate 3-dehydrogenase (NADP+) activity
+BI	GO:0052734 ! shikimate 3-dehydrogenase (NAD+) activity
+BI	GO:0052737 ! pyruvate dehydrogenase (quinone) activity
+BI	GO:0052741 ! (R)-limonene 6-monooxygenase activity
+BI	GO:0052748 ! baicalin beta-D-glucuronidase activity
+BI	GO:0052749 ! glucose-6-phosphate dehydrogenase (coenzyme F420) activity
+BI	GO:0052823 ! 2-hydroxy-6-oxonona-2,4,7-trienedioate hydrolase activity
+BI	GO:0052851 ! ferric-chelate reductase (NADPH) activity
+BI	GO:0052860 ! 2'-deoxymugineic-acid 3-dioxygenase activity
+BI	GO:0052873 ! FMN reductase (NADPH) activity
+BI	GO:0052874 ! FMN reductase (NADH) activity
+BI	GO:0052875 ! riboflavin reductase (NADH) activity
+BI	GO:0052878 ! linoleate 8R-lipoxygenase activity
+BI	GO:0052879 ! 9,12-octadecadienoate 8-hydroperoxide 8S-isomerase activity
+BI	GO:0052881 ! 4-hydroxyphenylacetate 3-monooxygenase activity
+BI	GO:0052883 ! tyrosine ammonia-lyase activity
+BI	GO:0052884 ! all-trans-retinyl-palmitate hydrolase, 11-cis retinol forming activity
+BI	GO:0052885 ! all-trans-retinyl-ester hydrolase, 11-cis retinol forming activity
+BI	GO:0052888 ! obsolete OBSOLETE:dihydroorotate oxidase (fumarate) activity
+BI	GO:0052896 ! spermidine oxidase (propane-1,3-diamine-forming) activity
+BI	GO:0052897 ! N8-acetylspermidine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity
+BI	GO:0052898 ! N1-acetylspermidine:oxygen oxidoreductase (propane-1,3-diamine-forming) activity
+BI	GO:0052899 ! N(1),N(12)-diacetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity
+BI	GO:0052900 ! spermine oxidase (propane-1,3-diamine-forming) activity
+BI	GO:0052901 ! spermine:oxygen oxidoreductase (spermidine-forming) activity
+BI	GO:0052902 ! spermidine:oxygen oxidoreductase (3-aminopropanal-forming) activity
+BI	GO:0052903 ! N1-acetylspermine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity
+BI	GO:0052904 ! N1-acetylspermidine:oxygen oxidoreductase (3-acetamidopropanal-forming) activity
+BI	GO:0052917 ! dol-P-Man:Man(7)GlcNAc(2)-PP-Dol alpha-1,6-mannosyltransferase activity
+BI	GO:0052918 ! dol-P-Man:Man(8)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase activity
+BI	GO:0052920 ! (2R)-2-hydroxy-2-methylbutanenitrile lyase activity
+BI	GO:0052922 ! hexaprenyl diphosphate synthase (geranylgeranyl-diphosphate specific) activity
+BI	GO:0052923 ! all-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific) activity
+BI	GO:0052924 ! all-trans-nonaprenyl-diphosphate synthase (geranylgeranyl-diphosphate specific) activity
+BI	GO:0052925 ! dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase activity
+BI	GO:0052926 ! dol-P-Man:Man(6)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase activity
+BI	GO:0055041 ! cyclopentanol dehydrogenase activity
+BI	GO:0061597 ! cyclic pyranopterin monophosphate synthase activity
+BI	GO:0061598 ! molybdopterin adenylyltransferase activity
+BI	GO:0061609 ! fructose-1-phosphate aldolase activity
+BI	GO:0061677 ! 2-dehydro-3-deoxy-D-gluconate aldolase activity
+BI	GO:0061685 ! diphthine methylesterase activity
+BI	GO:0061693 ! alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase activity
+BI	GO:0061710 ! L-threonylcarbamoyladenylate synthase
+BI	GO:0061711 ! N(6)-L-threonylcarbamoyladenine synthase
+BI	GO:0061712 ! tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))-methylthiotransferase
+LR	GO:0061758 ! 2-hydroxyglutarate dehydrogenase activity, forward reaction
+BI	GO:0070204 ! 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity
+BI	GO:0070205 ! 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase activity
+BI	GO:0071111 ! cyclic-guanylate-specific phosphodiesterase activity
+BI	GO:0072582 ! 17-beta-hydroxysteroid dehydrogenase (NADP+) activity
+BI	GO:0080130 ! L-phenylalanine:2-oxoglutarate aminotransferase activity
+BI	GO:0097023 ! fructose 6-phosphate aldolase activity
+BI	GO:0097266 ! phenylacetyl-CoA 1,2-epoxidase activity
+RL	GO:1902560 ! GMP reductase complex
+LR	GO:1990362 ! butanol dehydrogenase activity
+BI	GO:1990594 ! L-altrarate dehydratase activity

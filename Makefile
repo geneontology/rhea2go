@@ -57,3 +57,10 @@ target/%.tsv: sparql/%.sparql
 rhea.obo: target/rhea.tsv tsv/rhea2xrefs.tsv 
 	./util/rhea-tsv2obo.pl $^ > $@
 
+#########################################
+#
+# REPORTS
+#
+
+target/go-dir.tsv: rhea.obo
+	blip-findall  -i $< -r go "entity_xref(G,R),id_idspace(G,'GO'),id_idspace(R,'RHEA'),entity_partition(R,S)" -select S-G -label -no_pred > $@

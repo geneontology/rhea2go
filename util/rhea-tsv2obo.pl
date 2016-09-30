@@ -7,6 +7,7 @@ print "subsetdef: BI \"BI\"\n";
 print "subsetdef: LR \"LR\"\n";
 print "subsetdef: RL \"RL\"\n";
 print "subsetdef: UN \"UN\"\n";
+print "default-namespace: rhea\n";
 print "\n";
 
 my %leftmap = ();

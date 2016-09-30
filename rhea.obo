@@ -3,6 +3,7 @@ subsetdef: BI "BI"
 subsetdef: LR "LR"
 subsetdef: RL "RL"
 subsetdef: UN "UN"
+default-namespace: rhea
 
 
 [Term]
