@@ -1,0 +1,23 @@
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix bp: <http://www.biopax.org/release/biopax-level2.owl#>
+
+SELECT ?r ?rnVal ?dir ?x
+WHERE {
+  {?r bp:NAME ?rn ;
+     bp:LEFT [
+          bp:PHYSICAL-ENTITY [ bp:XREF ?x ]
+          ] 
+  BIND ("LEFT" AS ?dir)
+  BIND (xsd:string(?rn) AS ?rnVal)
+  }
+     
+UNION {
+  ?r bp:NAME ?rn ;
+     bp:RIGHT [
+          bp:PHYSICAL-ENTITY [ bp:XREF ?x ]
+          ] 
+  BIND ("RIGHT" AS ?dir)
+  BIND (xsd:string(?rn) AS ?rnVal)
+  }
+     
+}
